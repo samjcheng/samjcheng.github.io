@@ -20,7 +20,7 @@ Medical Image Processing, Medical Image Analysis, Medical Image Understanding
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 ### News
 
 2018-06: One paper has been accepted by IEEE TMI.
@@ -28,3 +28,8 @@ Medical Image Processing, Medical Image Analysis, Medical Image Understanding
 2018-03: One paper has been accepted by IEEE TMI.
 2018-02: One paper has been accepted by IEEE TMI.
 2015-05: Appointed as Associated Editor for IEEE TMI.
+
+###  Academic Activities:
+
+# Associate Editor: IEEE Transactions on Medical Imaging
+# Area Chair: MICCAI 2017
