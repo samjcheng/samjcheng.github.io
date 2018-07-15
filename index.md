@@ -23,11 +23,13 @@ Medical Image Processing, Medical Image Analysis, Medical Image Understanding
 
 ### News
 
-2018-06: One paper has been accepted by IEEE TMI.
-2018-04: One paper has been accepted by IEEE TMI.
-2018-03: One paper has been accepted by IEEE TMI.
-2018-02: One paper has been accepted by IEEE TMI.
-2015-05: Appointed as Associated Editor for IEEE TMI.
+-2018-06: One paper has been accepted by IEEE TMI.
+-2018-05: Two papers have been accepted by IEEE TMI.
+-2018-05: One paper has been accepted by BOE.
+-2018-05: Three papers have been accepted by EMBC.
+-2017-12: One paper has been accepted by IEEE TMI.
+-2017-03: Appointed as Area Chair for MICCAI 2017.
+-2015-05: Appointed as Associated Editor for IEEE TMI.
 
 ###  Academic Activities:
 
