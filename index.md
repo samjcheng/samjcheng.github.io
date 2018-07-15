@@ -31,5 +31,5 @@ Medical Image Processing, Medical Image Analysis, Medical Image Understanding
 
 ###  Academic Activities:
 
-#### - Associate Editor: IEEE Transactions on Medical Imaging
-#### - Area Chair: MICCAI 2017
+-####  Associate Editor: IEEE Transactions on Medical Imaging
+-####  Area Chair: MICCAI 2017
