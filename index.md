@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Jun's Pages
 
-You can use the [editor on GitHub](https://github.com/samjcheng/samjcheng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Jun Cheng (程 骏). I am a Professor in Cixi Institute of Biomedical Engineering, Chinese Academy of Sciences, China. Earlier, I worked at the Institute of Infocomm Research,  Agency of Science, Research and Technology, as Senior Scientist and Research Lead of Intelligent Medical Imaging team. I obtained my PhD from Nanyang Technological University and Bachelor from University of Sciences and Technlogy of China. I am currently the Associate Editor of "the best ranked medical imaging journal" IEEE Transactions on Medical Imaging. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+ 
+
+### Research Interest
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
