@@ -10,11 +10,12 @@ My name is Jun Cheng (程 骏). I am a Professor in Cixi Institute of Biomedical
 Medical Image Processing, Medical Image Analysis, Medical Image Understanding
  
 
-- Color Fundus Image
+- Color Fundus Image 
+   
 - Optical Coherence Tomography
 
-1. 
-2. List
+1. Glaucoma screening
+2. Age-related Macular Degeneration (AMD) Detection
 
 **Bold** and _Italic_ and `Code` text
 
