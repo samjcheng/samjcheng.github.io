@@ -11,11 +11,11 @@ Medical Image Processing, Medical Image Analysis, Medical Image Understanding
  
 
 - Color Fundus Image 
-   
-- Optical Coherence Tomography
+   1. Glaucoma screening
+   2. Age-related Macular Degeneration (AMD) Detection
 
-1. Glaucoma screening
-2. Age-related Macular Degeneration (AMD) Detection
+- Optical Coherence Tomography (OCT)
+   1. OCT denoise
 
 **Bold** and _Italic_ and `Code` text
 
