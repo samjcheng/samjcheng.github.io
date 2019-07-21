@@ -18,11 +18,10 @@ Medical Image Processing, Medical Image Analysis, Medical Image Understanding
    1. OCT denoise
 ### Templates
 #### Tabels
-|  |  |  |  |  |
+| IMED | year 2018 |  |  |  |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
-#### Clikc Box
-* [ ]CLIK BOX
+
 #### Cite
 >cite somebodys' words 
 #### Code
