@@ -22,6 +22,10 @@ Medical Image Processing, Medical Image Analysis, Medical Image Understanding
 [Link](url) and ![Image](src)
 
 ### News
+"CE-Net: Context Encoder Network for Medical Image Segmentation", 
+Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu, 
+IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/Guzaiwang/CE-Net) ***"MICS 2019 Best poster!"***
+![CE_NET](ce-net.png)
 
 -2018-06: One paper has been accepted by IEEE TMI.
 -2018-05: Two papers have been accepted by IEEE TMI.
