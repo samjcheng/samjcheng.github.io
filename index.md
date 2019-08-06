@@ -10,9 +10,9 @@ He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Acade
 * Machine Learning
 
 ## Academic Services 
-# ***Associate Editor***:
+### ***Associate Editor***:
   **IEEE TMI** 2015-present
-# ***Area Chair***:
+### ***Area Chair***:
 *  **MICCAI 2017**
 *  **MICCAI 2019**
  
