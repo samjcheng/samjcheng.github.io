@@ -25,7 +25,7 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 
 ## News:
 
-* 2019-07: Our TMI paper wond MICS best poster award.
+* 2019-07: Our TMI paper "CE-Net: Context Encoder Network for Medical Image Segmentation" won the MICS best poster award.
 * 2019-07: Be the Guest Editor of Special Issue on  ["Special Issue on Ophthalmic Image Analysis and Informatics"](https://jbhi.embs.org/special-issues/ophthalmic-image-analysis-and-informatics) in IEEE J-BHI.
 * 2019-07: One paper has been accepted by ICCV 2019.  
 * 2019-06: TREEE papers have been accepted by MICCAI 2019.
