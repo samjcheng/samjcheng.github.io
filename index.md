@@ -4,12 +4,15 @@ Jun Cheng received the B. E. degree in electronic engineering and information sc
 
 He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Academy of Sciences, China. He was a senior scientist and the research lead  in the Intelligent Medical Imaging (iMED) department in the Institute for Infocomm Research, leading the research of medical image processing & understanding. He has developed many algorithms for automated ocular disease detection including glaucoma, age-related macular degeneration, pathological myopia. He has received the IES Prestigious Engineering Achievement Award 2013. His research interests include computer vision, image processing, medical imaging and machine learning. Previously, he worked on automatic glaucoma screening in AGLAIA project and his technology for glaucoma screening has been licensed. He is currently the PI of the Automatic Cardiac optical coherence Tomograph Image Analysis for coronary artery disease risk assessment (ACTIA) project. He has authored/co-authored many publications at prestigious journals/conferences, such as TMI, TIP, TBME, IOVS, JAMIA, MICCAI, CVPR and invented more than 10 patents. He serves as reviewers for many journal and conferences. He is currently associate editor for TMI. 
 
+## Research Interest: Computer Vision, Medical Image Computing
+
+## Academic Services 
 * ***Associate Editor***:
   **IEEE TMI**
 * ***Area Chair***:
   **MICCAI 2017**
   **MICCAI 2019**
-* Professor of Chinese Academy of Sciences
+ 
 
 ## News:
 "CE-Net: Context Encoder Network for Medical Image Segmentation", 
