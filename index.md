@@ -5,8 +5,8 @@ Jun Cheng received the B. E. degree in electronic engineering and information sc
 He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Academy of Sciences, China. He was a senior scientist and the research lead  in the Intelligent Medical Imaging (iMED) department in the Institute for Infocomm Research, leading the research of medical image processing & understanding. He has developed many algorithms for automated ocular disease detection including glaucoma, age-related macular degeneration, pathological myopia. He has received the IES Prestigious Engineering Achievement Award 2013. His research interests include computer vision, image processing, medical imaging and machine learning. Previously, he worked on automatic glaucoma screening in AGLAIA project and his technology for glaucoma screening has been licensed. He is currently the PI of the Automatic Cardiac optical coherence Tomograph Image Analysis for coronary artery disease risk assessment (ACTIA) project. He has authored/co-authored many publications at prestigious journals/conferences, such as TMI, TIP, TBME, IOVS, JAMIA, MICCAI, CVPR and invented more than 10 patents. He serves as reviewers for many journal and conferences. He is currently associate editor for TMI. 
 
 ## Research Interest: 
-*** Computer Vision
-*** Medical Image Computing
+* Computer Vision
+* Medical Image Computing
 
 ## Academic Services 
 * ***Associate Editor***:
@@ -30,12 +30,9 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 ### Journal:
 
 * Z. Gu, Jun Cheng*, H. Fu, K. Zhou, H. Hao, Y. Zhao, T. Zhang, S. Gao and J. Liu, CE-Net: Context Encoder Network for 2D Medical Image Segmentation, in press, IEEE Trans. On Medical Imaging, 2019. (MICS Best Poster 2019)
-
 * Y. Jiang, L. Duan*, Jun Cheng*, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li and Jiang Liu, JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation, IEEE Trans. On Biomedical Engineering, 2019.  
-
-C. W. Lim, Jun Cheng, E. L. T. Tay, H. Y. Teo, E. P. Y. Wong, V. K. Y. Yong, B. A. Lim, O. K. Hee, H. T. Wong, L. W. L. Yip, Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects, BMC ophthalmology, 2018.
-
-V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel，Jun Cheng, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip, Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes, Journal of Glaucoma, 2018.
+* C. W. Lim, Jun Cheng, E. L. T. Tay, H. Y. Teo, E. P. Y. Wong, V. K. Y. Yong, B. A. Lim, O. K. Hee, H. T. Wong, L. W. L. Yip, Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects, BMC ophthalmology, 2018.
+* V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel，Jun Cheng, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip, Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes, Journal of Glaucoma, 2018.
 
 Jun Cheng, "Sparse Range-constrained Learning and Its Application for Medical Image Grading",  IEEE Transactions on Medical Imaging, vol. 37, no. 12, pp. 2729-2738, 2018. 
 
