@@ -17,6 +17,7 @@ He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Acade
 ### ***Area Chair***:
 *  **MICCAI 2017**
 *  **MICCAI 2019**
+
 ## Project:
 * "CE-Net: Context Encoder Network for Medical Image Segmentation", 
 Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu, 
