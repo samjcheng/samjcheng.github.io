@@ -9,7 +9,6 @@ He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Acade
 * ***Area Chair***:
   **MICCAI 2017**
   **MICCAI 2019**
-* Professor of Chinese Academy of Sciences
 
 ## News:
 "CE-Net: Context Encoder Network for Medical Image Segmentation", 
