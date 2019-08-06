@@ -10,8 +10,10 @@ He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Acade
 * Machine Learning
 
 ## Academic Services 
+
 ### ***Associate Editor***:
-  **IEEE TMI** 2015-present
+*  **IEEE Transactions on Medical Imaging** 2015-present
+*  **IEEE Journal on Biomedical and Health Informatics** 2019 Guest Editor  
 ### ***Area Chair***:
 *  **MICCAI 2017**
 *  **MICCAI 2019**
