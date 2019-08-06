@@ -11,10 +11,10 @@ He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Acade
 
 ## Academic Services 
 * ***Associate Editor***:
-  **IEEE TMI**
+  **IEEE TMI** 2015-present
 * ***Area Chair***:
-  **MICCAI 2017**
-  **MICCAI 2019**
+*  **MICCAI 2017**
+*  **MICCAI 2019**
  
 
 ## News:
