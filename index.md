@@ -66,3 +66,4 @@ have undergone DSAEK (Descemet Stripping Automated Endothelial Keratoplasty, BMC
 Jun Cheng and A. C. Kot, “Steganalysis of halftone images using inverse halftoning”, Signal Processing , vol. 89, Issue 6, pp. 1000-1010, June 2009. 
 
 Jun Cheng and A. C. Kot, “Objective distortion measure for binary text image based on edge line segment similarity”, IEEE Trans. On Image Processing,  vol. 16, pp. 1691-1695, June 2007.  
+ 
