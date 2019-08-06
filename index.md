@@ -17,16 +17,20 @@ He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Acade
 ### ***Area Chair***:
 *  **MICCAI 2017**
 *  **MICCAI 2019**
- 
-
-## News:
+## Project:
 * "CE-Net: Context Encoder Network for Medical Image Segmentation", 
 Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu, 
 IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/Guzaiwang/CE-Net) ***"MICS 2019 Best poster!"***
 ![CE_NET](ce-net.png)
 
+## News:
+
+* 2019-07: Our TMI paper wond MICS best poster award.
 * 2019-07: Be the Guest Editor of Special Issue on  ["Special Issue on Ophthalmic Image Analysis and Informatics"](https://jbhi.embs.org/special-issues/ophthalmic-image-analysis-and-informatics) in IEEE J-BHI.
 * 2019-07: One paper has been accepted by ICCV 2019.  
+* 2019-06: TREEE papers have been accepted by MICCAI 2019.
+* 2019-04: One paper "JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation" has been accepted by IEEE TBME.
+* 2019-03: One paper "CE-Net: Context Encoder Network for Medical Image Segmentation" has been accepted by IEEE TMI. 
 ## Publication：
 ### Book Chapter: 
 * **Jun Cheng**, F. Yin, D. W. K. Wong, J. Liu, Automatic segmentation of retinal images for glaucoma screening, Frontiers of Medical Imaging, C. H. Chen (eds.), World Scientific, 2014
