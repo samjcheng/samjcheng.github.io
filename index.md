@@ -30,7 +30,7 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 
 ### Journal:
 
-* Z. Gu, Jun Cheng*, H. Fu, K. Zhou, H. Hao, Y. Zhao, T. Zhang, S. Gao and J. Liu, CE-Net: Context Encoder Network for 2D Medical Image Segmentation, in press, IEEE Trans. On Medical Imaging (**TMI**), 2019. ( ***"MICS 2019 Best poster!"***)
+* Z. Gu, (**J0un Cheng**)*, H. Fu, K. Zhou, H. Hao, Y. Zhao, T. Zhang, S. Gao and J. Liu, CE-Net: Context Encoder Network for 2D Medical Image Segmentation, in press, IEEE Trans. On Medical Imaging (**TMI**), 2019. ( ***"MICS 2019 Best poster!"***)
 * Y. Jiang, L. Duan*, Jun Cheng*, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li and Jiang Liu, JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation, IEEE Trans. On Biomedical Engineering (**TBME**), 2019.  
 * C. W. Lim, Jun Cheng, E. L. T. Tay, H. Y. Teo, E. P. Y. Wong, V. K. Y. Yong, B. A. Lim, O. K. Hee, H. T. Wong, L. W. L. Yip, Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects, BMC ophthalmology (**BMC**), 2018.
 * V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel，Jun Cheng, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip, Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes, Journal of Glaucoma (**JOG**), 2019.
@@ -51,6 +51,7 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 * M. H. Wong, A. Chew, H. M. Htoon, B. H. Lee, Jun Cheng, J. Liu, D. T. Tan and J. S. Mehta, Reproducibility of Corneal Graft Thickness measurements with COLGATE in patients who have undergone DSAEK (Descemet Stripping Automated Endothelial Keratoplasty, BMC Med Imaging (**BMC**),12(1):25, 2012. 
 * Jun Cheng and A. C. Kot, “Steganalysis of halftone images using inverse halftoning”, Signal Processing , vol. 89, Issue 6, pp. 1000-1010, June 2009. 
 * Jun Cheng and A. C. Kot, “Objective distortion measure for binary text image based on edge line segment similarity”, IEEE Trans. On Image Processing (**TIP**),  vol. 16, pp. 1691-1695, June 2007.
+
 ### Conference:
 * J. A. Lee, P. Liu, Jun Cheng* and H. Fu, A Deep Step Pattern Representation for Multimodal Retinal Image Registration, in IEEE International Conference in Computer Vision (**ICCV**), 2019.
 * Jianyang Xie, Yitian Zhao, Yonghuai Liu, Pan Su, Yalin Zheng, Yifan Zhao, Jun Cheng, Jiang Liu, Topology Reconstruction of Tree-like Structure in Images via Structural Similarity Measure and Dominant Set Clustering, in IEEE International Conference in Computer vision and Pattern Recognition (**CVPR**), Long Beach, USA, June, 2019. 
