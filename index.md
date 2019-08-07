@@ -60,7 +60,7 @@ in IEEE International Conference in Computer vision and Pattern Recognition (**C
 * **Ki-GAN: Knowledge Infusion Generative Adversarial Network for Photoacoustic Image Reconstruction in vivo**,  
 H. Lan, K. Zhou, C. Yang, **Jun Cheng**, J. Liu, S. Gao, F. Gao,   
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
-* **CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation**, 
+* **CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation**,   
 L. Mou, Y. Zhao, L. Chen, **Jun Cheng**, H. Qi, Y. Zheng, A. Frangi, J. Liu,    
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
 * **SkrGAN: Sketching-rendering Unconditional Generative Adversarial Networks for Medical Image Synthesis**,  
