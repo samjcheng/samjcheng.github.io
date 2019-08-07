@@ -84,6 +84,9 @@ Biomedical Optics Express (**BOE**), vol. 9, no. 8, pp. 3590-3606, 2018.
 * A. Li, Z. Niu, **Jun Cheng**, F. Yin, D. W. K. Wong, S. Yan, J. Liu, Learning Supervised Descent Directions for Optic Disc Segmentation, Neurocomputing, vol. 275, pp. 350-357 2018.
 * **Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects**,  Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip,   
 BMC ophthalmology (**BMC**), 2018.
+* **Retinal Artery and Vein Classification via Dominant Sets Clustering-based Vascular Topology Estimation**, 
+Yitian Zhao, Jianyang Xie, Yalin Zheng, Yonghuai Liu, Pan Su, Yifan Zhao, **Jun Cheng**, Jiang Liu,  
+in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), pp. 56-64, Granada, Spain, September, 2018.
 
 ## 2017 and before
 
@@ -109,7 +112,7 @@ IEEE Trans. On Image Processing (**TIP**),  vol. 16, pp. 1691-1695, June 2007.
 
  
 
-* Yitian Zhao, Jianyang Xie, Yalin Zheng, Yonghuai Liu, Pan Su, Yifan Zhao, **Jun Cheng**, Jiang Liu, Retinal Artery and Vein Classification via Dominant Sets Clustering-based Vascular Topology Estimation, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), pp. 56-64, Granada, Spain, September, 2018.
+
 * E. P. Ong, J. A. Lee, **Jun Cheng**, Guozhen Xu, Beng Hai Lee, Augustinus LaudeStephen TeohTock Han LimDamon W. K. WongJiang Liu, A robust outlier’s elimination approach for multimodal retinal image registration, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 329–337, 2015.
 * J. A. Lee, **Jun Cheng**, G. Xu, et al., Registration of color and OCT fundus image using low-dimensional step pattern analysis, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 214-221, 2015.  
 * J. A. Lee, **Jun Cheng**, B. H. Lee,  et. al.,  A Low-dimensional Step Pattern Analysis Algorithm with Application to Multimodal Retinal Image Registration , in Computer Vision and Pattern Recognition (**CVPR**), pp.1046-1053, 2015.  
