@@ -73,10 +73,18 @@ Biomedical Optics Express (**BOE**), vol. 9, no. 8, pp. 3590-3606, 2018.
 * M. Baskaran, **Jun Cheng**, S. A. Perera, T. A. Tun, J. Liu and T. Aung, Automated Analysis of Angle Closure From Anterior Chamber Angle Images, Investigative Ophthalmology & Visual Science (**IOVS**), 55(11):7669-7673, 2014. 
 * **Jun Cheng***,  J. Liu, Y. Xu, F. Yin, D. W. K. Wong, N. M. Tan, D. Tao, C. Y. Cheng, T. Aung and T. Y. Wong, Superpixel Classification based Optic Disc and Optic Cup Segmentation for Glaucoma Screening, IEEE Trans. on Med. Imaging (**TMI**), vol. 32, no. 6, pp. 1019-1032, 2013.  (Selected for highlighting by A*STAR Research)
 * J. Liu, Z. Zhang, D. W. K. Wong, Y. Xu, F. Yin, **Jun Cheng**, N. M. Tan , C. K. Kwoh, D. Xu, Y. C. Tham, T. Aung and T. Y. Wong, Automatic Glaucoma Diagnosis through Medical Imaging Informatics, Journal of the American Medical Informatics Association (**JAMIA**), 20(6):1021-7, 2013.
-* **Jun Cheng***, D. Tao, J. Liu, D. W. K. Wong, N. M. Tan, T. Y. Wong and S. M. Saw, Peripapillary Atrophy Detection  by Sparse Biologically Inspired Feature Manifold, IEEE Trans. on Med. Imaging (**TMI**), vol. 31, no. 12, pp. 2355-2365, 2012. (IF2012: 4.027) 
-* M. H. Wong, A. Chew, H. M. Htoon, B. H. Lee, **Jun Cheng**, J. Liu, D. T. Tan and J. S. Mehta, Reproducibility of Corneal Graft Thickness measurements with COLGATE in patients who have undergone DSAEK (Descemet Stripping Automated Endothelial Keratoplasty, BMC Med Imaging (**BMC**),12(1):25, 2012. 
-* **Jun Cheng*** and A. C. Kot, “Steganalysis of halftone images using inverse halftoning”, Signal Processing , vol. 89, Issue 6, pp. 1000-1010, June 2009. 
-* **Jun Cheng*** and A. C. Kot, “Objective distortion measure for binary text image based on edge line segment similarity”, IEEE Trans. On Image Processing (**TIP**),  vol. 16, pp. 1691-1695, June 2007.
+*  **Peripapillary Atrophy Detection  by Sparse Biologically Inspired Feature Manifold**,  
+**Jun Cheng***, D. Tao, J. Liu, D. W. K. Wong, N. M. Tan, T. Y. Wong and S. M. Saw,    
+IEEE Trans. on Med. Imaging (**TMI**), vol. 31, no. 12, pp. 2355-2365, 2012. (IF2012: 4.027) 
+*  **Reproducibility of Corneal Graft Thickness measurements with COLGATE in patients who have undergone DSAEK (Descemet Stripping Automated Endothelial Keratoplasty**,  
+M. H. Wong, A. Chew, H. M. Htoon, B. H. Lee, **Jun Cheng**, J. Liu, D. T. Tan and J. S. Mehta,   
+BMC Med Imaging (**BMC**),12(1):25, 2012. 
+*  **Steganalysis of halftone images using inverse halftoning**,  
+**Jun Cheng*** and A. C. Kot,    
+Signal Processing , vol. 89, Issue 6, pp. 1000-1010, June 2009. 
+* **Objective distortion measure for binary text image based on edge line segment similarity”**,  
+**Jun Cheng*** and A. C. Kot,  
+IEEE Trans. On Image Processing (**TIP**),  vol. 16, pp. 1691-1695, June 2007.
 
 ### Conference:
 * J. A. Lee, P. Liu, **Jun Cheng*** and H. Fu, A Deep Step Pattern Representation for Multimodal Retinal Image Registration, in IEEE International Conference in Computer Vision (**ICCV**), 2019.
