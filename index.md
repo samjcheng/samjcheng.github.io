@@ -38,13 +38,13 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 
 ### Journal:
 
-* **CE-Net: Context Encoder Network for 2D Medical Image Segmentation**    
+* **CE-Net: Context Encoder Network for 2D Medical Image Segmentation**,    
 Zaiwang Gu, **Jun Cheng***, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu,   
 IEEE Trans. On Medical Imaging (**TMI**), 2019. ***"MICS 2019 Best poster!"***
-* **JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation**  
+* **JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation**,  
 Yuming Jiang, Lixin Duan, **Jun Cheng**, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li, Jiang Liu,    
 IEEE Trans. On Biomedical Engineering (**TBME**), 2019.  
-* **Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects**  
+* **Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects**,  
 Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip,   
 BMC ophthalmology (**BMC**), 2018.
 * **Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes** 
@@ -56,14 +56,15 @@ IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 12, pp. 2729-2738, 
 * **Structure-preserving Guided Retinal Image Filtering and Its Application for Optic Disc Analysis**,  
 **Jun Cheng***, Zhengguo Li, Zaiwang Gu, Huazhu Fu, Damon Wing Kee Wong, Jiang Liu,   
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2536-2546, 2018.
-* **Disc-aware Ensemble Network for Glaucoma Screening from Fundus Image**  
+* **Disc-aware Ensemble Network for Glaucoma Screening from Fundus Image**,  
 Huazhu Fu, **Jun Cheng***, Yanwu Xu*,  Changqing Zhang, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,  
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2493-2501, 2018. 
 * **Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation**,  
 Huazhu Fu, **Jun Cheng**, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,   
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no 7, pp. 1597-1605, 2018. 
 * **3D graph-based skin layer segmentation in optical coherence tomography images for roughness estimation"**,  
-R. Srivastava, A. P. Yow, **Jun Cheng**, D. W. K. Wong,  H. L. Tey, , Biomedical Optics Express (**BOE**), vol. 9, no. 8, pp. 3590-3606, 2018.
+R. Srivastava, A. P. Yow, **Jun Cheng**, D. W. K. Wong,  H. L. Tey,   
+Biomedical Optics Express (**BOE**), vol. 9, no. 8, pp. 3590-3606, 2018.
 * A. Li, Z. Niu, **Jun Cheng**, F. Yin, D. W. K. Wong, S. Yan, J. Liu, Learning Supervised Descent Directions for Optic Disc Segmentation, Neurocomputing, vol. 275, pp. 350-357 2018.
 * **Jun Cheng***, Z. Zhang, D. Tao, D. W. K. Wong, J. Liu, M. Baskaran, T. Aung, T. Y. Wong, Similarity regularized Sparse Group Lasso for Cup to Disc Ratio Computation, Biomedical Optics Express (**BOE**), vol. 8, issue  8, pp. 3763-3777, 2017.
 * **Jun Cheng***, D. Tao, D. W. K. Wong, and J. Liu, Quadratic divergence regularized SVM for Optic Disc Segmentation, Biomedical Optics Express (**BOE**), vol.8, issue 5, pp. 2687-2696, 2017.
