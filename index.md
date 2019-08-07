@@ -37,6 +37,7 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 * **Jun Cheng**, F. Yin, D. W. K. Wong, J. Liu, Automatic segmentation of retinal images for glaucoma screening, Frontiers of Medical Imaging, C. H. Chen (eds.), World Scientific, 2014
 
 ### Journal:
+## 2019
 
 * **CE-Net: Context Encoder Network for 2D Medical Image Segmentation**,    
 Zaiwang Gu, **Jun Cheng***, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu,   
@@ -44,12 +45,11 @@ IEEE Trans. On Medical Imaging (**TMI**), 2019. ***"MICS 2019 Best poster!"***
 * **JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation**,  
 Yuming Jiang, Lixin Duan, **Jun Cheng**, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li, Jiang Liu,    
 IEEE Trans. On Biomedical Engineering (**TBME**), 2019.  
-* **Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects**,  
-Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip,   
-BMC ophthalmology (**BMC**), 2018.
 * **Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes** 
 V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel，**Jun Cheng**, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip,     
-Journal of Glaucoma (**JOG**), 2019.
+Journal of Glaucoma (**JOG**), Jan;28(1):80-87, 2019.
+
+## 2018
 * **Sparse Range-constrained Learning and Its Application for Medical Image Grading**,   
 **Jun Cheng***,   
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 12, pp. 2729-2738, 2018. 
@@ -66,6 +66,8 @@ IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no 7, pp. 1597-1605, 20
 R. Srivastava, A. P. Yow, **Jun Cheng**, D. W. K. Wong,  H. L. Tey,   
 Biomedical Optics Express (**BOE**), vol. 9, no. 8, pp. 3590-3606, 2018.
 * A. Li, Z. Niu, **Jun Cheng**, F. Yin, D. W. K. Wong, S. Yan, J. Liu, Learning Supervised Descent Directions for Optic Disc Segmentation, Neurocomputing, vol. 275, pp. 350-357 2018.
+* **Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects**,  Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip,   
+BMC ophthalmology (**BMC**), 2018.
 * **Jun Cheng***, Z. Zhang, D. Tao, D. W. K. Wong, J. Liu, M. Baskaran, T. Aung, T. Y. Wong, Similarity regularized Sparse Group Lasso for Cup to Disc Ratio Computation, Biomedical Optics Express (**BOE**), vol. 8, issue  8, pp. 3763-3777, 2017.
 * **Jun Cheng***, D. Tao, D. W. K. Wong, and J. Liu, Quadratic divergence regularized SVM for Optic Disc Segmentation, Biomedical Optics Express (**BOE**), vol.8, issue 5, pp. 2687-2696, 2017.
 * **Jun Cheng***, D. Tao, Y. Quan, D. W. K. Wong,  G. C. M. Cheung, M. Akiba and J. Liu, Speckle Reduction in 3D Optical Coherence Tomography of Retina  by A-Scan Reconstruction, IEEE Trans on Medical Imaging (**TMI**), vol. 35, no. 10, pp. 2270-2279, 2016. 
