@@ -21,7 +21,7 @@ He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Acade
 ## Project:
 * "CE-Net: Context Encoder Network for Medical Image Segmentation", 
 Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu, 
-IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/Guzaiwang/CE-Net)```diff - ***"MICS 2019 Best poster!"***
+IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/Guzaiwang/CE-Net) ***"MICS 2019 Best poster!"***
 ![CE_NET](ce-net.png)
 
 ## News:
@@ -41,10 +41,18 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 * **CE-Net: Context Encoder Network for 2D Medical Image Segmentation**    
 Zaiwang Gu, **Jun Cheng***, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu   
 IEEE Trans. On Medical Imaging (**TMI**), 2019. ***"MICS 2019 Best poster!"***
-* Yuming Jiang, Lixin Duan, **Jun Cheng**, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li, Jiang Liu, JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation, IEEE Trans. On Biomedical Engineering (**TBME**), 2019.  
-* Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip, Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects, BMC ophthalmology (**BMC**), 2018.
-* V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel，**Jun Cheng**, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip, Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes, Journal of Glaucoma (**JOG**), 2019.
-* **Jun Cheng**, "Sparse Range-constrained Learning and Its Application for Medical Image Grading",  IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 12, pp. 2729-2738, 2018. 
+* **JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation**  
+Yuming Jiang, Lixin Duan, **Jun Cheng**, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li, Jiang Liu    
+IEEE Trans. On Biomedical Engineering (**TBME**), 2019.  
+* **Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects**  
+Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip, 
+BMC ophthalmology (**BMC**), 2018.
+* **Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes** 
+V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel，**Jun Cheng**, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip,   
+Journal of Glaucoma (**JOG**), 2019.
+* **Sparse Range-constrained Learning and Its Application for Medical Image Grading**   
+**Jun Cheng**, 
+IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 12, pp. 2729-2738, 2018. 
 * **Jun Cheng**, Zhengguo Li, Zaiwang Gu, Huazhu Fu, Damon Wing Kee Wong, Jiang Liu, ，"Structure-preserving Guided Retinal Image Filtering and Its Application for Optic Disc Analysis", IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2536-2546, 2018.
 * Huazhu Fu, **Jun Cheng***, Yanwu Xu,  Changqing Zhang, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao, "Disc-aware Ensemble Network for Glaucoma Screening from Fundus Image",  IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2493-2501, 2018. 
 * Huazhu Fu, **Jun Cheng**, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,, Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation, IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no 7, pp. 1597-1605, 2018. 
