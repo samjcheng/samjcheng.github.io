@@ -34,10 +34,7 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 * 2019-04: One paper "JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation" has been accepted by IEEE TBME.
 * 2019-03: One paper "CE-Net: Context Encoder Network for Medical Image Segmentation" has been accepted by IEEE TMI. 
 ## Selected Publications:
-### Book Chapter: 
-* **Jun Cheng**, F. Yin, D. W. K. Wong, J. Liu, Automatic segmentation of retinal images for glaucoma screening, Frontiers of Medical Imaging, C. H. Chen (eds.), World Scientific, 2014
 
- 
 ## 2019
 
 * **CE-Net: Context Encoder Network for 2D Medical Image Segmentation**,    
@@ -120,3 +117,7 @@ IEEE Trans. On Image Processing (**TIP**),  vol. 16, pp. 1691-1695, June 2007.
 * **Jun Cheng***， L. Duan, D. W. K. Wong, D. Tao, M. Akiba, J. Liu, Speckle Reduction in Optical Coherence Tomography by Image Registration and Matrix Completion, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part I, LNCS 8673, pp. 162-169, 2014.  
 * **Jun Cheng***, J. Liu, D. Tao, F. Yin, D. W. K. Wong, T. Y. Wong, Superpixel Classification based Optic Cup Segmentation, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 8151, pp. 421–428, 2013.   
 * **Jun Cheng***, D. Tao, J. Liu, D. W. K. Wong, B. H. Lee, M. Baskaran, T. Y. Wong and T. Aung, Focal Biologically Inspired Feature for Glaucoma Type Classification,  Int. Conf. on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 6893, pp. 91-98. Springer, Heidelberg, 2011. 
+
+### Book Chapter: 
+* **Jun Cheng**, F. Yin, D. W. K. Wong, J. Liu, Automatic segmentation of retinal images for glaucoma screening, Frontiers of Medical Imaging, C. H. Chen (eds.), World Scientific, 2014
+ 
