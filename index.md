@@ -32,13 +32,14 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 * 2019-06: TREEE papers have been accepted by MICCAI 2019.
 * 2019-04: One paper "JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation" has been accepted by IEEE TBME.
 * 2019-03: One paper "CE-Net: Context Encoder Network for Medical Image Segmentation" has been accepted by IEEE TMI. 
-## Publication：
+## Selected Publications:
 ### Book Chapter: 
 * **Jun Cheng**, F. Yin, D. W. K. Wong, J. Liu, Automatic segmentation of retinal images for glaucoma screening, Frontiers of Medical Imaging, C. H. Chen (eds.), World Scientific, 2014
 
 ### Journal:
 
-* Zaiwang Gu, **Jun Cheng***, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu, CE-Net: Context Encoder Network for 2D Medical Image Segmentation, IEEE Trans. On Medical Imaging (**TMI**), 2019. ***"MICS 2019 Best poster!"***
+* **CE-Net: Context Encoder Network for 2D Medical Image Segmentation**
+Zaiwang Gu, **Jun Cheng***, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu, CE-Net: Context Encoder Network for 2D Medical Image Segmentation, IEEE Trans. On Medical Imaging (**TMI**), 2019. ***"MICS 2019 Best poster!"***
 * Yuming Jiang, Lixin Duan, **Jun Cheng**, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li, Jiang Liu, JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation, IEEE Trans. On Biomedical Engineering (**TBME**), 2019.  
 * Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip, Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects, BMC ophthalmology (**BMC**), 2018.
 * V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel，**Jun Cheng**, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip, Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes, Journal of Glaucoma (**JOG**), 2019.
