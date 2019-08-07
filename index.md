@@ -24,7 +24,7 @@ Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang 
 IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/Guzaiwang/CE-Net)   ***"MICS 2019 Best poster!"*** 
 ![CE_NET](ce-net.png)
 
- - ![#f03c15](https://placehold.it/150/ffffff/ff0000?text=MICS 2019 Best poster!)
+ - ![#f03c15](https://placehold.it/150/ffffff/ff0000?text=hello!)
 ## News:
 
 * 2019-07: Our TMI paper "CE-Net: Context Encoder Network for Medical Image Segmentation" won the MICS best poster award.
