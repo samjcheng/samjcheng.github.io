@@ -51,9 +51,11 @@ BMC ophthalmology (**BMC**), 2018.
 V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel，**Jun Cheng**, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip,   
 Journal of Glaucoma (**JOG**), 2019.
 * **Sparse Range-constrained Learning and Its Application for Medical Image Grading**   
-**Jun Cheng**, 
+**Jun Cheng**,   
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 12, pp. 2729-2738, 2018. 
-* **Jun Cheng**, Zhengguo Li, Zaiwang Gu, Huazhu Fu, Damon Wing Kee Wong, Jiang Liu, ，"Structure-preserving Guided Retinal Image Filtering and Its Application for Optic Disc Analysis", IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2536-2546, 2018.
+* **Structure-preserving Guided Retinal Image Filtering and Its Application for Optic Disc Analysis**  
+**Jun Cheng**, Zhengguo Li, Zaiwang Gu, Huazhu Fu, Damon Wing Kee Wong, Jiang Liu,   
+IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2536-2546, 2018.
 * Huazhu Fu, **Jun Cheng***, Yanwu Xu,  Changqing Zhang, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao, "Disc-aware Ensemble Network for Glaucoma Screening from Fundus Image",  IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2493-2501, 2018. 
 * Huazhu Fu, **Jun Cheng**, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,, Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation, IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no 7, pp. 1597-1605, 2018. 
 * R. Srivastava, A. P. Yow, **Jun Cheng**, D. W. K. Wong,  H. L. Tey, "3D graph-based skin layer segmentation in optical coherence tomography images for roughness estimation", Biomedical Optics Express (**BOE**), vol. 9, no. 8, pp. 3590-3606, 2018.
