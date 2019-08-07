@@ -36,7 +36,7 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 ### Book Chapter: 
 * **Jun Cheng**, F. Yin, D. W. K. Wong, J. Liu, Automatic segmentation of retinal images for glaucoma screening, Frontiers of Medical Imaging, C. H. Chen (eds.), World Scientific, 2014
 
-### Journal:
+ 
 ## 2019
 
 * **CE-Net: Context Encoder Network for 2D Medical Image Segmentation**,    
@@ -48,8 +48,24 @@ IEEE Trans. On Biomedical Engineering (**TBME**), 2019.
 * **Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes** 
 V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel，**Jun Cheng**, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip,     
 Journal of Glaucoma (**JOG**), Jan;28(1):80-87, 2019.
+* **A Deep Step Pattern Representation for Multimodal Retinal Image Registration**,  
+J. A. Lee, P. Liu, **Jun Cheng*** and H. Fu,   
+in IEEE International Conference in Computer Vision (**ICCV**), 2019.
+* **Topology Reconstruction of Tree-like Structure in Images via Structural Similarity Measure and Dominant Set Clustering**,  
+Jianyang Xie, Yitian Zhao, Yonghuai Liu, Pan Su, Yalin Zheng, Yifan Zhao, **Jun Cheng**, Jiang Liu,   
+in IEEE International Conference in Computer vision and Pattern Recognition (**CVPR**), Long Beach, USA, June, 2019. 
+* **Ki-GAN: Knowledge Infusion Generative Adversarial Network for Photoacoustic Image Reconstruction in vivo**,  
+H. Lan, K. Zhou, C. Yang, **Jun Cheng**, J. Liu, S. Gao, F. Gao,   
+in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
+* ** CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation**, 
+L. Mou, Y. Zhao, L. Chen, **Jun Cheng**, H. Qi, Y. Zheng, A. Frangi, J. Liu,    
+in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
+* **SkrGAN: Sketching-rendering Unconditional Generative Adversarial Networks for Medical Image Synthesis**,  
+T. Zhang, H. Fu, Y. Zhao, **Jun Cheng**, Mengjie Guo, Zaiwang Gu, Bing Yang, Yuting Xiao, Shenghua Gao, Jiang Liu,   
+in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
 
 ## 2018
+
 * **Sparse Range-constrained Learning and Its Application for Medical Image Grading**,   
 **Jun Cheng***,   
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 12, pp. 2729-2738, 2018. 
@@ -68,6 +84,9 @@ Biomedical Optics Express (**BOE**), vol. 9, no. 8, pp. 3590-3606, 2018.
 * A. Li, Z. Niu, **Jun Cheng**, F. Yin, D. W. K. Wong, S. Yan, J. Liu, Learning Supervised Descent Directions for Optic Disc Segmentation, Neurocomputing, vol. 275, pp. 350-357 2018.
 * **Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects**,  Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip,   
 BMC ophthalmology (**BMC**), 2018.
+
+## 2017 and before
+
 * **Jun Cheng***, Z. Zhang, D. Tao, D. W. K. Wong, J. Liu, M. Baskaran, T. Aung, T. Y. Wong, Similarity regularized Sparse Group Lasso for Cup to Disc Ratio Computation, Biomedical Optics Express (**BOE**), vol. 8, issue  8, pp. 3763-3777, 2017.
 * **Jun Cheng***, D. Tao, D. W. K. Wong, and J. Liu, Quadratic divergence regularized SVM for Optic Disc Segmentation, Biomedical Optics Express (**BOE**), vol.8, issue 5, pp. 2687-2696, 2017.
 * **Jun Cheng***, D. Tao, Y. Quan, D. W. K. Wong,  G. C. M. Cheung, M. Akiba and J. Liu, Speckle Reduction in 3D Optical Coherence Tomography of Retina  by A-Scan Reconstruction, IEEE Trans on Medical Imaging (**TMI**), vol. 35, no. 10, pp. 2270-2279, 2016. 
@@ -88,12 +107,8 @@ Signal Processing , vol. 89, Issue 6, pp. 1000-1010, June 2009.
 **Jun Cheng*** and A. C. Kot,  
 IEEE Trans. On Image Processing (**TIP**),  vol. 16, pp. 1691-1695, June 2007.
 
-### Conference:
-* J. A. Lee, P. Liu, **Jun Cheng*** and H. Fu, A Deep Step Pattern Representation for Multimodal Retinal Image Registration, in IEEE International Conference in Computer Vision (**ICCV**), 2019.
-* Jianyang Xie, Yitian Zhao, Yonghuai Liu, Pan Su, Yalin Zheng, Yifan Zhao, **Jun Cheng**, Jiang Liu, Topology Reconstruction of Tree-like Structure in Images via Structural Similarity Measure and Dominant Set Clustering, in IEEE International Conference in Computer vision and Pattern Recognition (**CVPR**), Long Beach, USA, June, 2019. 
-* H. Lan, K. Zhou, C. Yang, **Jun Cheng**, J. Liu, S. Gao, F. Gao, Ki-GAN: Knowledge Infusion Generative Adversarial Network for Photoacoustic Image Reconstruction in vivo, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
-* L. Mou, Y. Zhao, L. Chen, **Jun Cheng**, H. Qi, Y. Zheng, A. Frangi, J. Liu, CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
-* T. Zhang, H. Fu, Y. Zhao, **Jun Cheng**, Mengjie Guo, Zaiwang Gu, Bing Yang, Yuting Xiao, Shenghua Gao, Jiang Liu, "SkrGAN: Sketching-rendering Unconditional Generative Adversarial Networks for Medical Image Synthesis", in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
+ 
+
 * Yitian Zhao, Jianyang Xie, Yalin Zheng, Yonghuai Liu, Pan Su, Yifan Zhao, **Jun Cheng**, Jiang Liu, Retinal Artery and Vein Classification via Dominant Sets Clustering-based Vascular Topology Estimation, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), pp. 56-64, Granada, Spain, September, 2018.
 * E. P. Ong, J. A. Lee, **Jun Cheng**, Guozhen Xu, Beng Hai Lee, Augustinus LaudeStephen TeohTock Han LimDamon W. K. WongJiang Liu, A robust outlier’s elimination approach for multimodal retinal image registration, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 329–337, 2015.
 * J. A. Lee, **Jun Cheng**, G. Xu, et al., Registration of color and OCT fundus image using low-dimensional step pattern analysis, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 214-221, 2015.  
