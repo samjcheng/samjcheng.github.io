@@ -93,13 +93,26 @@ in International Conference on Medical Image Computing and Computer Assisted Int
 
 ## 2017 and before
 
-* **Jun Cheng***, Z. Zhang, D. Tao, D. W. K. Wong, J. Liu, M. Baskaran, T. Aung, T. Y. Wong, Similarity regularized Sparse Group Lasso for Cup to Disc Ratio Computation, Biomedical Optics Express (**BOE**), vol. 8, issue  8, pp. 3763-3777, 2017.
-* **Jun Cheng***, D. Tao, D. W. K. Wong, and J. Liu, Quadratic divergence regularized SVM for Optic Disc Segmentation, Biomedical Optics Express (**BOE**), vol.8, issue 5, pp. 2687-2696, 2017.
-* **Jun Cheng***, D. Tao, Y. Quan, D. W. K. Wong,  G. C. M. Cheung, M. Akiba and J. Liu, Speckle Reduction in 3D Optical Coherence Tomography of Retina  by A-Scan Reconstruction, IEEE Trans on Medical Imaging (**TMI**), vol. 35, no. 10, pp. 2270-2279, 2016. 
-* **Jun Cheng***, F. Yin, D. W. K. Wong, D. Tao and J. Liu, Sparse Dissimilarity-Constrained Coding For Glaucoma Screening, IEEE Trans. on Biomedical Engineering (**TBME**), vol. 62, Issue 5, pp. 1395-1403, 2015.
-* M. Baskaran, **Jun Cheng**, S. A. Perera, T. A. Tun, J. Liu and T. Aung, Automated Analysis of Angle Closure From Anterior Chamber Angle Images, Investigative Ophthalmology & Visual Science (**IOVS**), 55(11):7669-7673, 2014. 
-* **Jun Cheng***,  J. Liu, Y. Xu, F. Yin, D. W. K. Wong, N. M. Tan, D. Tao, C. Y. Cheng, T. Aung and T. Y. Wong, Superpixel Classification based Optic Disc and Optic Cup Segmentation for Glaucoma Screening, IEEE Trans. on Med. Imaging (**TMI**), vol. 32, no. 6, pp. 1019-1032, 2013.  (Selected for highlighting by A*STAR Research)
-* J. Liu, Z. Zhang, D. W. K. Wong, Y. Xu, F. Yin, **Jun Cheng**, N. M. Tan , C. K. Kwoh, D. Xu, Y. C. Tham, T. Aung and T. Y. Wong, Automatic Glaucoma Diagnosis through Medical Imaging Informatics, Journal of the American Medical Informatics Association (**JAMIA**), 20(6):1021-7, 2013.
+* **Similarity regularized Sparse Group Lasso for Cup to Disc Ratio Computation**,  
+**Jun Cheng***, Z. Zhang, D. Tao, D. W. K. Wong, J. Liu, M. Baskaran, T. Aung, T. Y. Wong,  
+Biomedical Optics Express (**BOE**), vol. 8, issue  8, pp. 3763-3777, 2017.
+* **Quadratic divergence regularized SVM for Optic Disc Segmentation**,   
+**Jun Cheng***, D. Tao, D. W. K. Wong, and J. Liu,   
+Biomedical Optics Express (**BOE**), vol.8, issue 5, pp. 2687-2696, 2017.
+* **Speckle Reduction in 3D Optical Coherence Tomography of Retina  by A-Scan Reconstruction**,  
+**Jun Cheng***, D. Tao, Y. Quan, D. W. K. Wong,  G. C. M. Cheung, M. Akiba and J. Liu,   
+IEEE Trans on Medical Imaging (**TMI**), vol. 35, no. 10, pp. 2270-2279, 2016. 
+*  **Sparse Dissimilarity-Constrained Coding For Glaucoma Screening**,  
+**Jun Cheng***, F. Yin, D. W. K. Wong, D. Tao and J. Liu,  
+IEEE Trans. on Biomedical Engineering (**TBME**), vol. 62, Issue 5, pp. 1395-1403, 2015.
+* **Automated Analysis of Angle Closure From Anterior Chamber Angle Images**, 
+M. Baskaran, **Jun Cheng**, S. A. Perera, T. A. Tun, J. Liu and T. Aung,   
+Investigative Ophthalmology & Visual Science (**IOVS**), 55(11):7669-7673, 2014. 
+* **Superpixel Classification based Optic Disc and Optic Cup Segmentation for Glaucoma Screening**,   
+**Jun Cheng***,  J. Liu, Y. Xu, F. Yin, D. W. K. Wong, N. M. Tan, D. Tao, C. Y. Cheng, T. Aung and T. Y. Wong,   
+IEEE Trans. on Med. Imaging (**TMI**), vol. 32, no. 6, pp. 1019-1032, 2013.  (Selected for highlighting by A*STAR Research)
+*  **Automatic Glaucoma Diagnosis through Medical Imaging Informatics**,  
+J. Liu, Z. Zhang, D. W. K. Wong, Y. Xu, F. Yin, **Jun Cheng**, N. M. Tan , C. K. Kwoh, D. Xu, Y. C. Tham, T. Aung and T. Y. Wong,    Journal of the American Medical Informatics Association (**JAMIA**), 20(6):1021-7, 2013.
 *  **Peripapillary Atrophy Detection  by Sparse Biologically Inspired Feature Manifold**,  
 **Jun Cheng***, D. Tao, J. Liu, D. W. K. Wong, N. M. Tan, T. Y. Wong and S. M. Saw,    
 IEEE Trans. on Med. Imaging (**TMI**), vol. 31, no. 12, pp. 2355-2365, 2012. (IF2012: 4.027) 
