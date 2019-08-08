@@ -40,10 +40,10 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 * 2019-06: Three papers have been accepted by MICCAI 2019.
 * 2019-04: One paper "JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation" has been accepted by IEEE TBME.
 * 2019-03: One paper "CE-Net: Context Encoder Network for Medical Image Segmentation" has been accepted by IEEE TMI. 
+
 ## Selected Publications:
 
 ## 2019
-
 * **CE-Net: Context Encoder Network for 2D Medical Image Segmentation**,    
 Zaiwang Gu, **Jun Cheng***, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu,   
 IEEE Trans. On Medical Imaging (**TMI**), 2019.   ***"MICS 2019 Best poster!"*** 
@@ -70,7 +70,6 @@ T. Zhang, H. Fu, Y. Zhao, **Jun Cheng**, Mengjie Guo, Zaiwang Gu, Bing Yang, Yut
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
 
 ## 2018
-
 * **Sparse Range-constrained Learning and Its Application for Medical Image Grading**,   
 **Jun Cheng***,   
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 12, pp. 2729-2738, 2018. 
@@ -94,7 +93,6 @@ Yitian Zhao, Jianyang Xie, Yalin Zheng, Yonghuai Liu, Pan Su, Yifan Zhao, **Jun 
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), pp. 56-64, Granada, Spain, September, 2018.
 
 ## 2017 and before
-
 * **Similarity regularized Sparse Group Lasso for Cup to Disc Ratio Computation**,  
 **Jun Cheng***, Z. Zhang, D. Tao, D. W. K. Wong, J. Liu, M. Baskaran, T. Aung, T. Y. Wong,  
 Biomedical Optics Express (**BOE**), vol. 8, issue  8, pp. 3763-3777, 2017.
@@ -127,10 +125,6 @@ Signal Processing , vol. 89, Issue 6, pp. 1000-1010, June 2009.
 * **Objective distortion measure for binary text image based on edge line segment similarity”**,  
 **Jun Cheng*** and A. C. Kot,  
 IEEE Trans. On Image Processing (**TIP**),  vol. 16, pp. 1691-1695, June 2007.
-
- 
-
-
 * E. P. Ong, J. A. Lee, **Jun Cheng**, Guozhen Xu, Beng Hai Lee, Augustinus LaudeStephen TeohTock Han LimDamon W. K. WongJiang Liu, A robust outlier’s elimination approach for multimodal retinal image registration, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 329–337, 2015.
 * J. A. Lee, **Jun Cheng**, G. Xu, et al., Registration of color and OCT fundus image using low-dimensional step pattern analysis, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 214-221, 2015.  
 * J. A. Lee, **Jun Cheng**, B. H. Lee,  et. al.,  A Low-dimensional Step Pattern Analysis Algorithm with Application to Multimodal Retinal Image Registration , in Computer Vision and Pattern Recognition (**CVPR**), pp.1046-1053, 2015.  
