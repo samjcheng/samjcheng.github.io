@@ -85,7 +85,9 @@ IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no 7, pp. 1597-1605, 20
 * **3D graph-based skin layer segmentation in optical coherence tomography images for roughness estimation"**,  
 R. Srivastava, A. P. Yow, **Jun Cheng**, D. W. K. Wong,  H. L. Tey,   
 Biomedical Optics Express (**BOE**), vol. 9, no. 8, pp. 3590-3606, 2018.
-* A. Li, Z. Niu, **Jun Cheng**, F. Yin, D. W. K. Wong, S. Yan, J. Liu, Learning Supervised Descent Directions for Optic Disc Segmentation, Neurocomputing, vol. 275, pp. 350-357 2018.
+* **Learning Supervised Descent Directions for Optic Disc Segmentation**,   
+Annan. Li, Zhiheng Niu, **Jun Cheng**, Fengshou Yin, Damon Wing Kee Wong, Shuicheng Yan, Jiang Liu,      
+Neurocomputing, vol. 275, pp. 350-357 2018.
 * **Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects**,  Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip,   
 BMC ophthalmology (**BMC**), 2018.
 * **Retinal Artery and Vein Classification via Dominant Sets Clustering-based Vascular Topology Estimation**, 
