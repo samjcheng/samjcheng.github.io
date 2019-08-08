@@ -126,7 +126,7 @@ Signal Processing , vol. 89, Issue 6, pp. 1000-1010, June 2009.
 **Jun Cheng*** and A. C. Kot,  
 IEEE Trans. On Image Processing (**TIP**),  vol. 16, pp. 1691-1695, June 2007.
 * **A robust outlier’s elimination approach for multimodal retinal image registration**,  
-E. P. Ong, J. A. Lee, **Jun Cheng**, Guozhen Xu, Beng Hai Lee, Augustinus LaudeStephen TeohTock Han LimDamon W. K. WongJiang Liu,   
+E. P. Ong, J. A. Lee, **Jun Cheng**, Guozhen Xu, Beng Hai Lee, Augustinus Laude, Stephen Teoh, Tock Han Lim, Damon W. K. Wong, Jiang Liu,   
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 329–337, 2015.
 *  **Registration of color and OCT fundus image using low-dimensional step pattern analysis**,  
 J. A. Lee, **Jun Cheng**, G. Xu, et al.,     
