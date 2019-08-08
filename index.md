@@ -125,10 +125,18 @@ Signal Processing , vol. 89, Issue 6, pp. 1000-1010, June 2009.
 * **Objective distortion measure for binary text image based on edge line segment similarity”**,  
 **Jun Cheng*** and A. C. Kot,  
 IEEE Trans. On Image Processing (**TIP**),  vol. 16, pp. 1691-1695, June 2007.
-* E. P. Ong, J. A. Lee, **Jun Cheng**, Guozhen Xu, Beng Hai Lee, Augustinus LaudeStephen TeohTock Han LimDamon W. K. WongJiang Liu, A robust outlier’s elimination approach for multimodal retinal image registration, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 329–337, 2015.
-* J. A. Lee, **Jun Cheng**, G. Xu, et al., Registration of color and OCT fundus image using low-dimensional step pattern analysis, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 214-221, 2015.  
-* J. A. Lee, **Jun Cheng**, B. H. Lee,  et. al.,  A Low-dimensional Step Pattern Analysis Algorithm with Application to Multimodal Retinal Image Registration , in Computer Vision and Pattern Recognition (**CVPR**), pp.1046-1053, 2015.  
-* **Jun Cheng***， L. Duan, D. W. K. Wong, D. Tao, M. Akiba, J. Liu, Speckle Reduction in Optical Coherence Tomography by Image Registration and Matrix Completion, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part I, LNCS 8673, pp. 162-169, 2014.  
+* **A robust outlier’s elimination approach for multimodal retinal image registration**,  
+E. P. Ong, J. A. Lee, **Jun Cheng**, Guozhen Xu, Beng Hai Lee, Augustinus LaudeStephen TeohTock Han LimDamon W. K. WongJiang Liu,   
+in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 329–337, 2015.
+*  **Registration of color and OCT fundus image using low-dimensional step pattern analysis**,  
+J. A. Lee, **Jun Cheng**, G. Xu, et al.,     
+in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 214-221, 2015.  
+* **A Low-dimensional Step Pattern Analysis Algorithm with Application to Multimodal Retinal Image Registration**,  
+J. A. Lee, **Jun Cheng**, B. H. Lee,  et. al., 
+in Computer Vision and Pattern Recognition (**CVPR**), pp.1046-1053, 2015.  
+* **Speckle Reduction in Optical Coherence Tomography by Image Registration and Matrix Completion**,  
+**Jun Cheng***, Lixin Duan, Damon Wing King Wong, Dacheng Tao, Masaharo Akiba, Jiang Liu,  
+in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part I, LNCS 8673, pp. 162-169, 2014.  
 * **Superpixel Classification based Optic Cup Segmentation**,  
 **Jun Cheng***, J. Liu, D. Tao, F. Yin, D. W. K. Wong, T. Y. Wong,   
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 8151, pp. 421–428, 2013.   
