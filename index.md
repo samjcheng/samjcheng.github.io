@@ -18,8 +18,10 @@ He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Acade
 
 ### ***Associate Editor***:
 *  **IEEE Transactions on Medical Imaging** 2015-present
+
 ### ***Guest Editor***:
-*  **IEEE Journal on Biomedical and Health Informatics** Special Issue on Ophthalmic Image Analysis and Informatics, 2019  
+*  **IEEE Journal on Biomedical and Health Informatics** Special Issue on Ophthalmic Image Analysis and Informatics, 2019
+
 ### ***Area Chair***:
 *  **MICCAI 2017**
 *  **MICCAI 2019**
