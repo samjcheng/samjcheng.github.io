@@ -129,9 +129,15 @@ IEEE Trans. On Image Processing (**TIP**),  vol. 16, pp. 1691-1695, June 2007.
 * J. A. Lee, **Jun Cheng**, G. Xu, et al., Registration of color and OCT fundus image using low-dimensional step pattern analysis, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 214-221, 2015.  
 * J. A. Lee, **Jun Cheng**, B. H. Lee,  et. al.,  A Low-dimensional Step Pattern Analysis Algorithm with Application to Multimodal Retinal Image Registration , in Computer Vision and Pattern Recognition (**CVPR**), pp.1046-1053, 2015.  
 * **Jun Cheng***， L. Duan, D. W. K. Wong, D. Tao, M. Akiba, J. Liu, Speckle Reduction in Optical Coherence Tomography by Image Registration and Matrix Completion, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part I, LNCS 8673, pp. 162-169, 2014.  
-* **Jun Cheng***, J. Liu, D. Tao, F. Yin, D. W. K. Wong, T. Y. Wong, Superpixel Classification based Optic Cup Segmentation, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 8151, pp. 421–428, 2013.   
-* **Jun Cheng***, D. Tao, J. Liu, D. W. K. Wong, B. H. Lee, M. Baskaran, T. Y. Wong and T. Aung, Focal Biologically Inspired Feature for Glaucoma Type Classification,  Int. Conf. on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 6893, pp. 91-98. Springer, Heidelberg, 2011. 
+* **Superpixel Classification based Optic Cup Segmentation**,  
+**Jun Cheng***, J. Liu, D. Tao, F. Yin, D. W. K. Wong, T. Y. Wong,   
+in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 8151, pp. 421–428, 2013.   
+*  **Focal Biologically Inspired Feature for Glaucoma Type Classification**,  
+**Jun Cheng***, D. Tao, J. Liu, D. W. K. Wong, B. H. Lee, M. Baskaran, T. Y. Wong and T. Aung,   
+Int. Conf. on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 6893, pp. 91-98. Springer, Heidelberg, 2011. 
 
 ### Book Chapter: 
-* **Jun Cheng**, F. Yin, D. W. K. Wong, J. Liu, Automatic segmentation of retinal images for glaucoma screening, Frontiers of Medical Imaging, C. H. Chen (eds.), World Scientific, 2014
+* **Automatic segmentation of retinal images for glaucoma screening**,   
+**Jun Cheng**, F. Yin, D. W. K. Wong, J. Liu,    
+Frontiers of Medical Imaging, C. H. Chen (eds.), World Scientific, 2014
  
