@@ -1,8 +1,10 @@
 # Jun Cheng (程骏） 
 ## Professor
 ## Cixi Institute of Biomedical Engineering, Chinese Academy of Sciences, China
-
-<p style="color:#FF0000";>Red paragraph text</p >Call For Papers: The ["Special Issue on Ophthalmic Image Analysis and Informatics"](https://jbhi.embs.org/special-issues/ophthalmic-image-analysis-and-informatics)  in IEEE Journal of Biomedical and Health Informatics (IEEE J-BHI, IF = 4.217).
+'''diff
+-
+Call For Papers:
+'''The ["Special Issue on Ophthalmic Image Analysis and Informatics"](https://jbhi.embs.org/special-issues/ophthalmic-image-analysis-and-informatics)  in IEEE Journal of Biomedical and Health Informatics (IEEE J-BHI, IF = 4.217).
 
 ## Brief Bio:
 Jun Cheng received the B. E. degree in electronic engineering and information science from the University of Science and Technology of China, and the Ph. D. degree in electrical and electronic engineering from Nanyang Technological University, Singapore. In 2009, he joined the Institute for Infocomm Research, Agency of Science, Technology and Research (A*STAR), Singapore. Earlier, he worked for more than two years with Panasonic Singapore Laboratories.
