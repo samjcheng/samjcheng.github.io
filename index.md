@@ -88,7 +88,8 @@ Biomedical Optics Express (**BOE**), vol. 9, no. 8, pp. 3590-3606, 2018.
 * **Learning Supervised Descent Directions for Optic Disc Segmentation**,   
 Annan. Li, Zhiheng Niu, **Jun Cheng**, Fengshou Yin, Damon Wing Kee Wong, Shuicheng Yan, Jiang Liu,      
 Neurocomputing, vol. 275, pp. 350-357 2018.
-* **Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects**,  Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip,   
+* **Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects**,     
+Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip,   
 BMC ophthalmology (**BMC**), 2018.
 * **Retinal Artery and Vein Classification via Dominant Sets Clustering-based Vascular Topology Estimation**,  
 Yitian Zhao, Jianyang Xie, Yalin Zheng, Yonghuai Liu, Pan Su, Yifan Zhao, **Jun Cheng**, Jiang Liu,   
