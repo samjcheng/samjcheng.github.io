@@ -34,7 +34,7 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 ![CE_NET](ce-net.png)
 
 ## News:  
-
+* 2019-08: Keynote Talk on "Glaucoma Screening from Fundus Images And Its Challenges” at BOOM workshop in conjuction with IJCAI 2019.
 * 2019-07: Our TMI paper "CE-Net: Context Encoder Network for Medical Image Segmentation" won the MICS best poster award.
 * 2019-07: Be the Guest Editor of Special Issue on  ["Special Issue on Ophthalmic Image Analysis and Informatics"](https://jbhi.embs.org/special-issues/ophthalmic-image-analysis-and-informatics) in IEEE J-BHI.
 * 2019-07: One paper has been accepted by ICCV 2019.  
