@@ -30,7 +30,7 @@ He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Acade
 ## Project:
 * "CE-Net: Context Encoder Network for Medical Image Segmentation", 
 Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu, 
-IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/Guzaiwang/CE-Net)   ***"MICS 2019 Best poster!"*** 
+IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/Guzaiwang/CE-Net)   *** "MICS 2019 Best poster!"*** 
 ![CE_NET](ce-net.png)
 
 ## News:  
