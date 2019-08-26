@@ -52,7 +52,7 @@ IEEE Trans. On Medical Imaging (**TMI**), 2019.   [\[PDF\]](https://arxiv.org/ab
 Yuming Jiang, Lixin Duan, **Jun Cheng**, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li, Jiang Liu,    
 IEEE Trans. On Biomedical Engineering (**TBME**), 2019.  
 * **Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes**,   
-V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel，**Jun Cheng**, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip,     
+Vivien Yip, Hon Wong, Vernon Yong, Boon Lim, Owen Hee, Jun Cheng, uazhu Fu, Chingwei Lim, Elton Tay, Roselyn Loo-Valdez, Hwei Teo, Angela Lim PH, Leonard Yip,     
 Journal of Glaucoma (**JOG**), Jan;28(1):80-87, 2019.
 * **A Deep Step Pattern Representation for Multimodal Retinal Image Registration**,  
 Jimmy Addison Lee, Peng Liu, **Jun Cheng*** and Huazhu Fu,   
