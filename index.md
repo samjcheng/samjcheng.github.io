@@ -61,7 +61,7 @@ in IEEE International Conference in Computer Vision (**ICCV**), 2019.
 Jianyang Xie, Yitian Zhao, Yonghuai Liu, Pan Su, Yalin Zheng, Yifan Zhao, **Jun Cheng**, Jiang Liu,   
 in IEEE International Conference in Computer vision and Pattern Recognition (**CVPR**), Long Beach, USA, June, 2019. 
 * **Ki-GAN: Knowledge Infusion Generative Adversarial Network for Photoacoustic Image Reconstruction in vivo**,  
-H. Lan, K. Zhou, C. Yang, **Jun Cheng**, J. Liu, S. Gao, F. Gao,   
+Hengrong Lan, Kang Zhou, Changchun Yang, **Jun Cheng**, Jiang Liu, Shenghua Gao, Fei Gao 
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
 * **CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation**,   
 Lei Mou, Yitian Zhao, Li Chen, **Jun Cheng**, Zaiwang Gu, Huaying Hao, Hong Qi,  Yalin Zheng, Alex Frangi, Jiang Liu,    
