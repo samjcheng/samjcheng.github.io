@@ -84,10 +84,10 @@ IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2493-2501, 
 Huazhu Fu, **Jun Cheng**, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,   
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no 7, pp. 1597-1605, 2018. 
 * **3D graph-based skin layer segmentation in optical coherence tomography images for roughness estimation"**,  
-R. Srivastava, A. P. Yow, **Jun Cheng**, D. W. K. Wong,  H. L. Tey,   
+Ruchir Srivastava, Ai Ping Yow, **Jun Cheng**, Damon Wing Kee Wong,  Hong Liang Tey,   
 Biomedical Optics Express (**BOE**), vol. 9, no. 8, pp. 3590-3606, 2018.
 * **Learning Supervised Descent Directions for Optic Disc Segmentation**,   
-Annan. Li, Zhiheng Niu, **Jun Cheng**, Fengshou Yin, Damon Wing Kee Wong, Shuicheng Yan, Jiang Liu,      
+Annan Li, Zhiheng Niu, **Jun Cheng**, Fengshou Yin, Damon Wing Kee Wong, Shuicheng Yan, Jiang Liu,      
 Neurocomputing, vol. 275, pp. 350-357 2018.
 * **Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects**,     
 Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip,   
@@ -98,16 +98,16 @@ in International Conference on Medical Image Computing and Computer Assisted Int
 
 ## 2017 and before
 * **Similarity regularized Sparse Group Lasso for Cup to Disc Ratio Computation**,  
-**Jun Cheng***, Z. Zhang, D. Tao, D. W. K. Wong, J. Liu, M. Baskaran, T. Aung, T. Y. Wong,  
+**Jun Cheng***, Zhuo Zhang, Dacheng Tao, Damong Wing Kee Wong, Jiang Liu, Mani Baskaran, Tin Aung, Tien Yin Wong,  
 Biomedical Optics Express (**BOE**), vol. 8, issue  8, pp. 3763-3777, 2017.
 * **Quadratic divergence regularized SVM for Optic Disc Segmentation**,   
-**Jun Cheng***, D. Tao, D. W. K. Wong, and J. Liu,   
+**Jun Cheng***, Dacheng Tao, Damon Wing Kee Wong, Jiang Liu,   
 Biomedical Optics Express (**BOE**), vol.8, issue 5, pp. 2687-2696, 2017.
 * **Speckle Reduction in 3D Optical Coherence Tomography of Retina  by A-Scan Reconstruction**,  
-**Jun Cheng***, D. Tao, Y. Quan, D. W. K. Wong,  G. C. M. Cheung, M. Akiba and J. Liu,   
+**Jun Cheng***, Dacheng Tao, Ying Quan, Damon Wing Kee Wong,   Gemmy Chui Ming Cheung, Masahiro Akiba, Jiang Liu,   
 IEEE Trans on Medical Imaging (**TMI**), vol. 35, no. 10, pp. 2270-2279, 2016. 
 *  **Sparse Dissimilarity-Constrained Coding For Glaucoma Screening**,  
-**Jun Cheng***, F. Yin, D. W. K. Wong, D. Tao and J. Liu,  
+**Jun Cheng***, Fengshou Yin, Damon Wing Kee Wong, Dacheng Tao and Jiang Liu,  
 IEEE Trans. on Biomedical Engineering (**TBME**), vol. 62, Issue 5, pp. 1395-1403, 2015.
 * **Automated Analysis of Angle Closure From Anterior Chamber Angle Images**, 
 M. Baskaran, **Jun Cheng**, S. A. Perera, T. A. Tun, J. Liu and T. Aung,   
