@@ -55,7 +55,7 @@ IEEE Trans. On Biomedical Engineering (**TBME**), 2019.
 V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel，**Jun Cheng**, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip,     
 Journal of Glaucoma (**JOG**), Jan;28(1):80-87, 2019.
 * **A Deep Step Pattern Representation for Multimodal Retinal Image Registration**,  
-J. A. Lee, P. Liu, **Jun Cheng*** and H. Fu,   
+Jimmy Addison Lee, Peng Liu, **Jun Cheng*** and Huazhu Fu,   
 in IEEE International Conference in Computer Vision (**ICCV**), 2019.
 * **Topology Reconstruction of Tree-like Structure in Images via Structural Similarity Measure and Dominant Set Clustering**,  
 Jianyang Xie, Yitian Zhao, Yonghuai Liu, Pan Su, Yalin Zheng, Yifan Zhao, **Jun Cheng**, Jiang Liu,   
@@ -64,10 +64,10 @@ in IEEE International Conference in Computer vision and Pattern Recognition (**C
 H. Lan, K. Zhou, C. Yang, **Jun Cheng**, J. Liu, S. Gao, F. Gao,   
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
 * **CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation**,   
-L. Mou, Y. Zhao, L. Chen, **Jun Cheng**, H. Qi, Y. Zheng, A. Frangi, J. Liu,    
+Lei Mou, Yitian Zhao, Li Chen, **Jun Cheng**, Zaiwang Gu, Huaying Hao, Hong Qi,  Yalin Zheng, Alex Frangi, Jiang Liu,    
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
 * **SkrGAN: Sketching-rendering Unconditional Generative Adversarial Networks for Medical Image Synthesis**,  
-T. Zhang, H. Fu, Y. Zhao, **Jun Cheng**, Mengjie Guo, Zaiwang Gu, Bing Yang, Yuting Xiao, Shenghua Gao, Jiang Liu,   
+Tianyang Zhang, Huazhu Fu, Yitian Zhao, **Jun Cheng**, Mengjie Guo, Zaiwang Gu, Bing Yang, Yuting Xiao, Shenghua Gao, Jiang Liu,   
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
 
 ## 2018
