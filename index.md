@@ -33,6 +33,10 @@ Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang 
 IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/Guzaiwang/CE-Net)   ***"MICS 2019 Best poster!"*** 
 ![CE_NET](ce-net.png)
 
+## Invited Talks:
+
+* Glaucoma Screening from Fundus Images And Its Challenges, BOOM workshop in conjuction with IJCAI 2019.
+
 ## News:  
 * 2019-08: Keynote Talk on "Glaucoma Screening from Fundus Images And Its Challenges” at BOOM workshop in conjuction with IJCAI 2019.
 * 2019-07: Our TMI paper "CE-Net: Context Encoder Network for Medical Image Segmentation" won the MICS best poster award.
