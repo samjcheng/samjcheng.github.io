@@ -36,7 +36,7 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 * "Noise Adaptation Generative Adversarial Network for Medical Image Analysis",
 Tianyang Zhang, **Jun Cheng***, Huazhu Fu, Zaiwang Gu, Yuting Xiao, Kang Zhou, Shenghua Gao, Rui Zheng, Jiang Liu,
 IEEE Transactions on Medical Imaging (**TMI**), 2019.
-(https://github.com/NeilZhang-IMED/NAGAN)    
+[\[Code\]](https://github.com/NeilZhang-IMED/NAGAN)    
 ![NAGAN](nagan.png)
 
 ## Invited Talks:
