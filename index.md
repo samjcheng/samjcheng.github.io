@@ -51,6 +51,9 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 ## Selected Publications:
 
 ## 2019
+* **Noise Adaptation Generative Adversarial Network for Medical Image Analysis**, 
+Tianyang Zhang, **Jun Cheng***, Huazhu Fu, Zaiwang Gu, Yuting Xiao, Kang Zhou, Shenghua Gao, Rui Zheng, Jiang Liu,
+IEEE Trans. On Medical Imaging (**TMI**), 2019. 
 * **CE-Net: Context Encoder Network for 2D Medical Image Segmentation**,    
 Zaiwang Gu, **Jun Cheng***, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu,   
 IEEE Trans. On Medical Imaging (**TMI**), 2019.   [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/Guzaiwang/CE-Net) ***"MICS 2019 Best poster!"*** 
