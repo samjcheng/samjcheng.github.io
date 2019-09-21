@@ -134,7 +134,7 @@ IEEE Trans. on Med. Imaging (**TMI**), vol. 32, no. 6, pp. 1019-1032, 2013.  (Se
 *  **Automatic Glaucoma Diagnosis through Medical Imaging Informatics**,  
 J. Liu, Z. Zhang, D. W. K. Wong, Y. Xu, F. Yin, **Jun Cheng**, N. M. Tan , C. K. Kwoh, D. Xu, Y. C. Tham, T. Aung and T. Y. Wong,    Journal of the American Medical Informatics Association (**JAMIA**), 20(6):1021-7, 2013.
 *  **Peripapillary Atrophy Detection  by Sparse Biologically Inspired Feature Manifold**,  
-**Jun Cheng***, D. Tao, J. Liu, D. W. K. Wong, N. M. Tan, T. Y. Wong and S. M. Saw,    
+**Jun Cheng***, Dacheng Tao, Jiang Liu, Damon Wing Kee Wong, Ngan Meng Tan, Tien Yin Wong and Seang Mei Saw,
 IEEE Trans. on Med. Imaging (**TMI**), vol. 31, no. 12, pp. 2355-2365, 2012. (IF2012: 4.027) 
 *  **Reproducibility of Corneal Graft Thickness measurements with COLGATE in patients who have undergone DSAEK (Descemet Stripping Automated Endothelial Keratoplasty**,  
 M. H. Wong, A. Chew, H. M. Htoon, B. H. Lee, **Jun Cheng**, J. Liu, D. T. Tan and J. S. Mehta,   
@@ -146,22 +146,22 @@ Signal Processing , vol. 89, Issue 6, pp. 1000-1010, June 2009.
 **Jun Cheng*** and A. C. Kot,  
 IEEE Trans. On Image Processing (**TIP**),  vol. 16, pp. 1691-1695, June 2007.
 * **A robust outlier’s elimination approach for multimodal retinal image registration**,  
-E. P. Ong, J. A. Lee, **Jun Cheng**, Guozhen Xu, Beng Hai Lee, Augustinus Laude, Stephen Teoh, Tock Han Lim, Damon W. K. Wong, Jiang Liu,   
+Ee Ping Ong, Jimmy Addison Lee, **Jun Cheng**, Guozhen Xu, Beng Hai Lee, Augustinus Laude, Stephen Teoh, Tock Han Lim, Damon W. K. Wong, Jiang Liu,   
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 329–337, 2015.
 *  **Registration of color and OCT fundus image using low-dimensional step pattern analysis**,  
-J. A. Lee, **Jun Cheng**, G. Xu, et al.,     
+Jimmy Addison Lee, **Jun Cheng**, Guozhen Xu, Ee Ping Ong, Beng Hai Lee, Damon Wing Kee Wong, Jiang Liu,    
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 214-221, 2015.  
 * **A Low-dimensional Step Pattern Analysis Algorithm with Application to Multimodal Retinal Image Registration**,  
-J. A. Lee, **Jun Cheng**, B. H. Lee,  et. al., 
+Jimmy Addison Lee, **Jun Cheng**, Beng Hai Lee, Ee Ping Ong, Guozhen Xu, Damon Wing Kee Wong, Jiang Liu, Augustinus Laude, Tock Han Lim, 
 in Computer Vision and Pattern Recognition (**CVPR**), pp.1046-1053, 2015.  
 * **Speckle Reduction in Optical Coherence Tomography by Image Registration and Matrix Completion**,  
 **Jun Cheng***, Lixin Duan, Damon Wing King Wong, Dacheng Tao, Masaharo Akiba, Jiang Liu,  
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part I, LNCS 8673, pp. 162-169, 2014.  
 * **Superpixel Classification based Optic Cup Segmentation**,  
-**Jun Cheng***, J. Liu, D. Tao, F. Yin, D. W. K. Wong, T. Y. Wong,   
+**Jun Cheng***, Jiang Liu, Dacheng Tao, Fengshou Yin, Damon Wing Kee Wong, Tien Yin Wong,   
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 8151, pp. 421–428, 2013.   
 *  **Focal Biologically Inspired Feature for Glaucoma Type Classification**,  
-**Jun Cheng***, D. Tao, J. Liu, D. W. K. Wong, B. H. Lee, M. Baskaran, T. Y. Wong and T. Aung,   
+**Jun Cheng***, Dacheng Tao, Jiang Liu, Damon Wing Kee Wong, Beng Hai Lee, Mani Baskaran, Tien Yin Wong and Tin Aung,   
 Int. Conf. on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 6893, pp. 91-98. Springer, Heidelberg, 2011. 
 
 ### Book Chapter: 
