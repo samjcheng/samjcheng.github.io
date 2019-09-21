@@ -33,6 +33,12 @@ Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang 
 IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/Guzaiwang/CE-Net)   ***"MICS 2019 Best poster!"*** 
 ![CE_NET](ce-net.png)
 
+* "Noise Adaptation Generative Adversarial Network for Medical Image Analysis",
+Tianyang Zhang, **Jun Cheng***, Huazhu Fu, Zaiwang Gu, Yuting Xiao, Kang Zhou, Shenghua Gao, Rui Zheng, Jiang Liu,
+IEEE Transactions on Medical Imaging (**TMI**), 2019.
+(https://github.com/NeilZhang-IMED/NAGAN)    
+![NAGAN](nagan.png)
+
 ## Invited Talks:
 
 * Glaucoma Screening from Fundus Images And Its Challenges, BOOM workshop in conjuction with IJCAI 2019.
