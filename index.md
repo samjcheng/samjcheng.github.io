@@ -94,7 +94,7 @@ IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 12, pp. 2729-2738, 
 **Jun Cheng***, Zhengguo Li, Zaiwang Gu, Huazhu Fu, Damon Wing Kee Wong, Jiang Liu,   
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2536-2546, 2018.
 * **Disc-aware Ensemble Network for Glaucoma Screening from Fundus Image**,  
-Huazhu Fu, **Jun Cheng***, Yanwu Xu*,  Changqing Zhang, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,  
+Huazhu Fu, **Jun Cheng***, Yanwu Xu,  Changqing Zhang, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,  
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2493-2501, 2018. 
 * **Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation**,  
 Huazhu Fu, **Jun Cheng**, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,   
