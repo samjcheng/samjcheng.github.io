@@ -30,7 +30,7 @@ He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Acade
 ## Project:
 * "CE-Net: Context Encoder Network for Medical Image Segmentation", 
 Zaiwang Gu, **Jun Cheng***, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu, 
-IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/Guzaiwang/CE-Net)   ***"MICS 2019 Best poster!"*** 
+IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/Guzaiwang/CE-Net)   **MICS 2019 Best poster!** 
 ![CE_NET](ce-net.png)
 
 * "Noise Adaptation Generative Adversarial Network for Medical Image Analysis",
@@ -63,7 +63,7 @@ Tianyang Zhang, **Jun Cheng***, Huazhu Fu, Zaiwang Gu, Yuting Xiao, Kang Zhou, S
 IEEE Trans. On Medical Imaging (**TMI**), 2019. 
 * **CE-Net: Context Encoder Network for 2D Medical Image Segmentation**,   
 Zaiwang Gu, **Jun Cheng***, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu,    
-IEEE Trans. On Medical Imaging (**TMI**), 2019.   [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/Guzaiwang/CE-Net)  ***"MICS 2019 Best poster!"*** 
+IEEE Trans. On Medical Imaging (**TMI**), 2019.   [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/Guzaiwang/CE-Net)  **MICS 2019 Best poster!** 
 * **JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation**,  
 Yuming Jiang, Lixin Duan*, **Jun Cheng***, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li, Jiang Liu,    
 IEEE Trans. On Biomedical Engineering (**TBME**), 2019.  
