@@ -65,13 +65,13 @@ IEEE Trans. On Medical Imaging (**TMI**), 2019.
 Zaiwang Gu, **Jun Cheng**\*, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu,    
 IEEE Trans. On Medical Imaging (**TMI**), 2019.   [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/Guzaiwang/CE-Net)  **MICS 2019 Best poster!** 
 * **JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation**,  
-Yuming Jiang, Lixin Duan*, **Jun Cheng***, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li, Jiang Liu,    
+Yuming Jiang, Lixin Duan\*, **Jun Cheng**\*, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li, Jiang Liu,    
 IEEE Trans. On Biomedical Engineering (**TBME**), 2019.  
 * **Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes**,   
 V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel, **Jun Cheng**, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip,      
 Journal of Glaucoma (**JOG**), Jan;28(1):80-87, 2019.
 * **A Deep Step Pattern Representation for Multimodal Retinal Image Registration**,  
-Jimmy Addison Lee, Peng Liu, **Jun Cheng*** and Huazhu Fu,   
+Jimmy Addison Lee, Peng Liu, **Jun Cheng**\* and Huazhu Fu,   
 in IEEE International Conference in Computer Vision (**ICCV**), 2019.
 * **Topology Reconstruction of Tree-like Structure in Images via Structural Similarity Measure and Dominant Set Clustering**,  
 Jianyang Xie, Yitian Zhao, Yonghuai Liu, Pan Su, Yalin Zheng, Yifan Zhao, **Jun Cheng**, Jiang Liu,   
@@ -88,13 +88,13 @@ in International Conference on Medical Image Computing and Computer Assisted Int
 
 ## 2018
 * **Sparse Range-constrained Learning and Its Application for Medical Image Grading**,   
-**Jun Cheng***,   
+**Jun Cheng**\*,   
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 12, pp. 2729-2738, 2018. 
 * **Structure-preserving Guided Retinal Image Filtering and Its Application for Optic Disc Analysis**,  
-**Jun Cheng***, Zhengguo Li, Zaiwang Gu, Huazhu Fu, Damon Wing Kee Wong, Jiang Liu,   
+**Jun Cheng**\*, Zhengguo Li, Zaiwang Gu, Huazhu Fu, Damon Wing Kee Wong, Jiang Liu,   
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2536-2546, 2018.
 * **Disc-aware Ensemble Network for Glaucoma Screening from Fundus Image**,  
-Huazhu Fu, **Jun Cheng***, Yanwu Xu,  Changqing Zhang, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,  
+Huazhu Fu, **Jun Cheng**\*, Yanwu Xu\*,  Changqing Zhang, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,  
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2493-2501, 2018. 
 * **Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation**,  
 Huazhu Fu, **Jun Cheng**, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,   
@@ -114,27 +114,27 @@ in International Conference on Medical Image Computing and Computer Assisted Int
 
 ## 2017 and before
 * **Similarity regularized Sparse Group Lasso for Cup to Disc Ratio Computation**,  
-**Jun Cheng***, Zhuo Zhang, Dacheng Tao, Damong Wing Kee Wong, Jiang Liu, Mani Baskaran, Tin Aung, Tien Yin Wong,  
+**Jun Cheng**\*, Zhuo Zhang, Dacheng Tao, Damong Wing Kee Wong, Jiang Liu, Mani Baskaran, Tin Aung, Tien Yin Wong,  
 Biomedical Optics Express (**BOE**), vol. 8, issue  8, pp. 3763-3777, 2017.
 * **Quadratic divergence regularized SVM for Optic Disc Segmentation**,   
-**Jun Cheng***, Dacheng Tao, Damon Wing Kee Wong, Jiang Liu,   
+**Jun Cheng**\*, Dacheng Tao, Damon Wing Kee Wong, Jiang Liu,   
 Biomedical Optics Express (**BOE**), vol.8, issue 5, pp. 2687-2696, 2017.
 * **Speckle Reduction in 3D Optical Coherence Tomography of Retina  by A-Scan Reconstruction**,  
-**Jun Cheng***, Dacheng Tao, Ying Quan, Damon Wing Kee Wong,   Gemmy Chui Ming Cheung, Masahiro Akiba, Jiang Liu,   
+**Jun Cheng**\*, Dacheng Tao, Ying Quan, Damon Wing Kee Wong,   Gemmy Chui Ming Cheung, Masahiro Akiba, Jiang Liu,   
 IEEE Trans on Medical Imaging (**TMI**), vol. 35, no. 10, pp. 2270-2279, 2016. 
 *  **Sparse Dissimilarity-Constrained Coding For Glaucoma Screening**,  
-**Jun Cheng***, Fengshou Yin, Damon Wing Kee Wong, Dacheng Tao and Jiang Liu,  
+**Jun Cheng**\*, Fengshou Yin, Damon Wing Kee Wong, Dacheng Tao and Jiang Liu,  
 IEEE Trans. on Biomedical Engineering (**TBME**), vol. 62, Issue 5, pp. 1395-1403, 2015.
 * **Automated Analysis of Angle Closure From Anterior Chamber Angle Images**, 
 M. Baskaran, **Jun Cheng**, S. A. Perera, T. A. Tun, J. Liu and T. Aung,   
 Investigative Ophthalmology & Visual Science (**IOVS**), 55(11):7669-7673, 2014. 
 * **Superpixel Classification based Optic Disc and Optic Cup Segmentation for Glaucoma Screening**,   
 **Jun Cheng***,  J. Liu, Y. Xu, F. Yin, D. W. K. Wong, N. M. Tan, D. Tao, C. Y. Cheng, T. Aung and T. Y. Wong,   
-IEEE Trans. on Med. Imaging (**TMI**), vol. 32, no. 6, pp. 1019-1032, 2013.  (Selected for highlighting by A*STAR Research)
-*  **Automatic Glaucoma Diagnosis through Medical Imaging Informatics**,  
+IEEE Trans. on Med. Imaging (**TMI**), vol. 32, no. 6, pp. 1019-1032, 2013.  (Selected for highlighting by A\*STAR Research)
+* **Automatic Glaucoma Diagnosis through Medical Imaging Informatics**,  
 J. Liu, Z. Zhang, D. W. K. Wong, Y. Xu, F. Yin, **Jun Cheng**, N. M. Tan , C. K. Kwoh, D. Xu, Y. C. Tham, T. Aung and T. Y. Wong,    Journal of the American Medical Informatics Association (**JAMIA**), 20(6):1021-7, 2013.
 *  **Peripapillary Atrophy Detection  by Sparse Biologically Inspired Feature Manifold**,  
-**Jun Cheng***, Dacheng Tao, Jiang Liu, Damon Wing Kee Wong, Ngan Meng Tan, Tien Yin Wong and Seang Mei Saw,
+**Jun Cheng**\*, Dacheng Tao, Jiang Liu, Damon Wing Kee Wong, Ngan Meng Tan, Tien Yin Wong and Seang Mei Saw,
 IEEE Trans. on Med. Imaging (**TMI**), vol. 31, no. 12, pp. 2355-2365, 2012. (IF2012: 4.027) 
 *  **Reproducibility of Corneal Graft Thickness measurements with COLGATE in patients who have undergone DSAEK (Descemet Stripping Automated Endothelial Keratoplasty**,  
 M. H. Wong, A. Chew, H. M. Htoon, B. H. Lee, **Jun Cheng**, J. Liu, D. T. Tan and J. S. Mehta,   
@@ -143,7 +143,7 @@ BMC Med Imaging (**BMC**),12(1):25, 2012.
 **Jun Cheng*** and A. C. Kot,    
 Signal Processing , vol. 89, Issue 6, pp. 1000-1010, June 2009. 
 * **Objective distortion measure for binary text image based on edge line segment similarity”**,  
-**Jun Cheng*** and A. C. Kot,  
+**Jun Cheng**\* and A. C. Kot,  
 IEEE Trans. On Image Processing (**TIP**),  vol. 16, pp. 1691-1695, June 2007.
 * **A robust outlier’s elimination approach for multimodal retinal image registration**,  
 Ee Ping Ong, Jimmy Addison Lee, **Jun Cheng**, Guozhen Xu, Beng Hai Lee, Augustinus Laude, Stephen Teoh, Tock Han Lim, Damon W. K. Wong, Jiang Liu,   
@@ -155,13 +155,13 @@ in International Conference on Medical Image Computing and Computer Assisted Int
 Jimmy Addison Lee, **Jun Cheng**, Beng Hai Lee, Ee Ping Ong, Guozhen Xu, Damon Wing Kee Wong, Jiang Liu, Augustinus Laude, Tock Han Lim, 
 in Computer Vision and Pattern Recognition (**CVPR**), pp.1046-1053, 2015.  
 * **Speckle Reduction in Optical Coherence Tomography by Image Registration and Matrix Completion**,  
-**Jun Cheng***, Lixin Duan, Damon Wing King Wong, Dacheng Tao, Masaharo Akiba, Jiang Liu,  
+**Jun Cheng**\*, Lixin Duan, Damon Wing King Wong, Dacheng Tao, Masaharo Akiba, Jiang Liu,  
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part I, LNCS 8673, pp. 162-169, 2014.  
 * **Superpixel Classification based Optic Cup Segmentation**,  
-**Jun Cheng***, Jiang Liu, Dacheng Tao, Fengshou Yin, Damon Wing Kee Wong, Tien Yin Wong,   
+**Jun Cheng**\*, Jiang Liu, Dacheng Tao, Fengshou Yin, Damon Wing Kee Wong, Tien Yin Wong,   
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 8151, pp. 421–428, 2013.   
 *  **Focal Biologically Inspired Feature for Glaucoma Type Classification**,  
-**Jun Cheng***, Dacheng Tao, Jiang Liu, Damon Wing Kee Wong, Beng Hai Lee, Mani Baskaran, Tien Yin Wong and Tin Aung,   
+**Jun Cheng**\*, Dacheng Tao, Jiang Liu, Damon Wing Kee Wong, Beng Hai Lee, Mani Baskaran, Tien Yin Wong and Tin Aung,   
 Int. Conf. on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 6893, pp. 91-98. Springer, Heidelberg, 2011. 
 
 ### Book Chapter: 
