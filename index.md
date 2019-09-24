@@ -168,6 +168,6 @@ Int. Conf. on Medical Image Computing and Computer Assisted Intervention (**MICC
 * **Automatic segmentation of retinal images for glaucoma screening**,   
 **Jun Cheng**, F. Yin, D. W. K. Wong, J. Liu,    
 Frontiers of Medical Imaging, C. H. Chen (eds.), World Scientific, 2014
-* **Glaucoma Detection Based on Deep Learning Network in Fundus Image**,
-Huazhu Fu, **Jun Cheng**, Yanwu Xu, Jiang Liu,
+* **Glaucoma Detection Based on Deep Learning Network in Fundus Image**,  
+Huazhu Fu, **Jun Cheng**, Yanwu Xu, Jiang Liu,  
 Deep Learning and Convolutional Neural Networks for Medical Imaging and Clinical Informatics, Springer, 2019
