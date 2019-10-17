@@ -47,6 +47,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+* 2019-10：One paper "Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes" has been accepted by JAIHC.
 * 2019-09: One paper "Noise Adaptation Generative Adversarial Network for Medical Image Analysis" has been accepted by IEEE TMI.
 * 2019-08: Keynote Talk on "Glaucoma Screening from Fundus Images And Its Challenges” at BOOM workshop in conjuction with IJCAI 2019.
 * 2019-07: Our TMI paper "CE-Net: Context Encoder Network for Medical Image Segmentation" won the MICS best poster award.
@@ -60,6 +61,9 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 ## Selected Publications:
 
 ## 2019
+* **Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes**,  
+Qifeng Yan, Mengdi Xu,Damon Wing Kee Wong, Akira Taruya, Atsushi Tanaka, Jiang Liu, Philip Wong, **Jun Cheng***,
+Journal of Ambient Intelligence and Humanized Computing, 2019.
 * **Noise Adaptation Generative Adversarial Network for Medical Image Analysis**,  
 Tianyang Zhang, **Jun Cheng**\*, Huazhu Fu, Zaiwang Gu, Yuting Xiao, Kang Zhou, Shenghua Gao, Rui Zheng, Jiang Liu,
 IEEE Trans. On Medical Imaging (**TMI**), 2019. [\[Code\]](https://github.com/NeilZhang-IMED/NAGAN)    
