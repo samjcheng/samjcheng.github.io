@@ -22,6 +22,10 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 * Jun Cheng, F. Yin, D. W. K. Wong, J. Liu, Automatic segmentation of retinal images for glaucoma screening, Frontiers of Medical Imaging, C. H. Chen (eds.), World Scientific, 2014
 
 ### Journal:
+ 
+Qifeng Yan, Mengdi Xu,Damon Wing Kee Wong, Akira Taruya, Atsushi Tanaka, Jiang Liu, Philip Wong, **Jun Cheng***, Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes, Journal of Ambient Intelligence and Humanized Computing, 2019.
+
+Tianyang Zhang, **Jun Cheng**\*, Huazhu Fu, Zaiwang Gu, Yuting Xiao, Kang Zhou, Shenghua Gao, Rui Zheng, Jiang Liu, Noise Adaptation Generative Adversarial Network for Medical Image Analysis, IEEE Trans. On Medical Imaging, 2019.
 
 Z. Gu, Jun Cheng*, H. Fu, K. Zhou, H. Hao, Y. Zhao, T. Zhang, S. Gao and J. Liu, CE-Net: Context Encoder Network for 2D Medical Image Segmentation, in press, IEEE Trans. On Medical Imaging, 2019. (MICS Best Poster 2019)
 
