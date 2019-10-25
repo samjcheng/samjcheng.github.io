@@ -47,6 +47,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+* 2019-10：One paper "Dense Dilated Network with Probability Regularized Walk for Vessel Detection" has been accepted by IEEE TMI.
 * 2019-10：One paper "Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes" has been accepted by JAIHC.
 * 2019-09: One paper "Noise Adaptation Generative Adversarial Network for Medical Image Analysis" has been accepted by IEEE TMI.
 * 2019-08: Keynote Talk on "Glaucoma Screening from Fundus Images And Its Challenges” at BOOM workshop in conjuction with IJCAI 2019.
@@ -58,9 +59,12 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * 2019-04: One paper "JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation" has been accepted by IEEE TBME.
 * 2019-03: One paper "CE-Net: Context Encoder Network for Medical Image Segmentation" has been accepted by IEEE TMI. 
 
-## Selected Publications:
+## Selected Publications: (* Correspondence)
 
 ## 2019
+* **Dense Dilated Network with Probability Regularized Walk for Vessel Detection**,    
+Lei Mou, Li Chen\*,  **Jun Cheng**\*, Zaiwang Gu, Yitian Zhao and Jiang Liu,  
+IEEE Trans. On Medical Imaging (**TMI**), 2019.
 * **Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes**,  
 Qifeng Yan, Mengdi Xu,Damon Wing Kee Wong, Akira Taruya, Atsushi Tanaka, Jiang Liu, Philip Wong, **Jun Cheng***,
 Journal of Ambient Intelligence and Humanized Computing, 2019.
