@@ -59,7 +59,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * 2019-04: One paper "JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation" has been accepted by IEEE TBME.
 * 2019-03: One paper "CE-Net: Context Encoder Network for Medical Image Segmentation" has been accepted by IEEE TMI. 
 
-## Selected Publications: (* Correspondence)
+## Selected Publications:  
 
 ## 2019
 * **Dense Dilated Network with Probability Regularized Walk for Vessel Detection**,    
