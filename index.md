@@ -182,3 +182,6 @@ Frontiers of Medical Imaging, C. H. Chen (eds.), World Scientific, 2014
 * **Glaucoma Detection Based on Deep Learning Network in Fundus Image**,  
 Huazhu Fu, **Jun Cheng**, Yanwu Xu, Jiang Liu,  
 Deep Learning and Convolutional Neural Networks for Medical Imaging and Clinical Informatics, Springer, 2019
+**Structure-preserving Guided Retinal Image Filtering for Optic Disc Analysis**   
+**Jun Cheng**, Z. Li, H. Fu, Z. Gu, D. W. K. Wong and J. Liu,
+Computational Retinal Image Analysis, E. Trucco (eds.), Elsevier, 2019.
