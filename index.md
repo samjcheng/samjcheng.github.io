@@ -47,6 +47,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+* 2019-11: One book "Computational Retinal Image Analysis", ISBN 9780081028162 has been published.
 * 2019-10：One paper "Dense Dilated Network with Probability Regularized Walk for Vessel Detection" has been accepted by IEEE TMI.
 * 2019-10：One paper "Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes" has been accepted by JAIHC.
 * 2019-09: One paper "Noise Adaptation Generative Adversarial Network for Medical Image Analysis" has been accepted by IEEE TMI.
