@@ -63,8 +63,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 ## Selected Publications:  
 ## 2020
 * **JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation**,  
-Yuming Jiang, Lixin Duan\*, **Jun Cheng**\*, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li, Jiang Liu,    
-IEEE Trans. On Biomedical Engineering (**TBME**), vol. 67, no. 2, pp. 335-343, 2020.  
+Yuming Jiang, Lixin Duan\*, **Jun Cheng**\*, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li, Jiang Liu, IEEE Trans. On Biomedical Engineering (**TBME**), vol. 67, no. 2, pp. 335-343, 2020.  
 ## 2019
 * **Dense Dilated Network with Probability Regularized Walk for Vessel Detection**,    
 Lei Mou, Li Chen\*,  **Jun Cheng**\*, Zaiwang Gu, Yitian Zhao and Jiang Liu,  
