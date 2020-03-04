@@ -21,6 +21,7 @@ IEEE Transactions on Medical Imaging (**TMI**), 2019. [\[PDF\]](https://arxiv.or
 ### Book Chapter: 
 * Jun Cheng, F. Yin, D. W. K. Wong, J. Liu, Automatic segmentation of retinal images for glaucoma screening, Frontiers of Medical Imaging, C. H. Chen (eds.), World Scientific, 2014
 
+* A. P. Yow, R. Srivastava, Jun Cheng, A. Li, J. Liu, L. Schmetterer, H. L. Tey, D. W. K. Wong, Techniques and Applications in Skin OCT Analysis, Deep Learning in Medical Image Analysis Challenges and Applications, Editors: Lee, Gobert, Fujita, Hiroshi (Eds.), Springer, 2020.
 ### Journal:
 
 Lei Mou, Li Chen*, Jun Cheng*, Zaiwang Gu, Yitian Zhao and Jiang Liu, Dense Dilated Network with Probability Regularized Walk for Vessel Detection, IEEE Trans. On Medical Imaging (TMI), 2019.
