@@ -178,8 +178,8 @@ in International Conference on Medical Image Computing and Computer Assisted Int
 Int. Conf. on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 6893, pp. 91-98. Springer, Heidelberg, 2011. 
 
 ### Book Chapter: 
-* **Techniques and Applications in Skin OCT Analysis**,
-A. P. Yow, R. Srivastava, **Jun Cheng**, A. Li, J. Liu, L. Schmetterer, H. L. Tey, D. W. K. Wong,  
+* **Techniques and Applications in Skin OCT Analysis**,  
+A. P. Yow, R. Srivastava, **Jun Cheng**, A. Li, J. Liu, L. Schmetterer, H. L. Tey, D. W. K. Wong,   
 Deep Learning in Medical Image Analysis Challenges and Applications, Editors: Lee, Gobert, Fujita, Hiroshi (Eds.), Springer, 2020.  
 * **Automatic segmentation of retinal images for glaucoma screening**,   
 **Jun Cheng**, F. Yin, D. W. K. Wong, J. Liu,    
