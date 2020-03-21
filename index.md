@@ -47,6 +47,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+* 2020-02: One book "" has been published.
 * 2019-11: One book "Computational Retinal Image Analysis", ISBN 9780081028162 has been published.
 * 2019-10：One paper "Dense Dilated Network with Probability Regularized Walk for Vessel Detection" has been accepted by IEEE TMI.
 * 2019-10：One paper "Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes" has been accepted by JAIHC.
@@ -177,6 +178,9 @@ in International Conference on Medical Image Computing and Computer Assisted Int
 Int. Conf. on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 6893, pp. 91-98. Springer, Heidelberg, 2011. 
 
 ### Book Chapter: 
+* **Techniques and Applications in Skin OCT Analysis**,
+A. P. Yow, R. Srivastava, **Jun Cheng**, A. Li, J. Liu, L. Schmetterer, H. L. Tey, D. W. K. Wong,  
+Deep Learning in Medical Image Analysis Challenges and Applications, Editors: Lee, Gobert, Fujita, Hiroshi (Eds.), Springer, 2020.  
 * **Automatic segmentation of retinal images for glaucoma screening**,   
 **Jun Cheng**, F. Yin, D. W. K. Wong, J. Liu,    
 Frontiers of Medical Imaging, C. H. Chen (eds.), World Scientific, 2014
