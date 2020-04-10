@@ -63,6 +63,9 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 
 ## Selected Publications:  
 ## 2020
+* **Noise Adaptation Generative Adversarial Network for Medical Image Analysis**,  
+Tianyang Zhang, **Jun Cheng**\*, Huazhu Fu, Zaiwang Gu, Yuting Xiao, Kang Zhou, Shenghua Gao, Rui Zheng, Jiang Liu,
+IEEE Trans. On Medical Imaging (**TMI**), vol. 39, no. 4, pp. 1149-1159, 2020. [\[Code\]](https://github.com/NeilZhang-IMED/NAGAN)    
 * **JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation**,  
 Yuming Jiang, Lixin Duan\*, **Jun Cheng**\*, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li, Jiang Liu,  
 IEEE Trans. On Biomedical Engineering (**TBME**), vol. 67, no. 2, pp. 335-343, 2020.  
@@ -73,9 +76,6 @@ IEEE Trans. On Medical Imaging (**TMI**), 2019.
 * **Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes**,  
 Qifeng Yan, Mengdi Xu,Damon Wing Kee Wong, Akira Taruya, Atsushi Tanaka, Jiang Liu, Philip Wong, **Jun Cheng***,
 Journal of Ambient Intelligence and Humanized Computing, 2019.
-* **Noise Adaptation Generative Adversarial Network for Medical Image Analysis**,  
-Tianyang Zhang, **Jun Cheng**\*, Huazhu Fu, Zaiwang Gu, Yuting Xiao, Kang Zhou, Shenghua Gao, Rui Zheng, Jiang Liu,
-IEEE Trans. On Medical Imaging (**TMI**), 2019. [\[Code\]](https://github.com/NeilZhang-IMED/NAGAN)    
 * **CE-Net: Context Encoder Network for 2D Medical Image Segmentation**,   
 Zaiwang Gu, **Jun Cheng**\*, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu,    
 IEEE Trans. On Medical Imaging (**TMI**), vol. 38, no. 10, pp. 2281-2292, 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/samjcheng/CE-Net)   
