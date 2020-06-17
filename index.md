@@ -46,6 +46,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+* 2020-05：One paper "Digital resolution enhancement in low transverse sampling optical coherence tomography angiography using deep learning" accepted by OSA Continuum.
 * 2020-02: One book "Deep Learning in Medical Image Analysis Challenges and Applications", ISBN 9783030331276 has been published.
 * 2020-01：Four papers accepted by ISBI 2020.
 * 2019-11: One book "Computational Retinal Image Analysis", ISBN 9780081028162 has been published.
