@@ -76,6 +76,10 @@ IEEE Trans. On Biomedical Engineering (**TBME**), vol. 67, no. 2, pp. 335-343, 2
 * **Digital resolution enhancement in low transverse sampling optical coherence tomography angiography using deep learning**,   
 Ting Zhou, Jianlong Yang, Kang Zhou, Liyang Fang, Yan Hu, Jun Cheng, Yitian Zhao, Xiangping Chen, Shenghua Gao, and Jiang Liu,  
 OSA Continuum,  Vol. 3, Issue 6, pp. 1664-1678, 2020.
+
+* **Sparse-GAN: Sparsity-constrained Generative Adversarial Network for Anomaly Detection in Retinal OCT Image**,  
+Kang Zhou, Shenghua Gao, **Jun Cheng**, Zaiwang Gu, Huazhu Fu, Zhi Tu, Jianlong Yang, Yitian Zhao, Jiang Liu,  
+International Symposium on Biomedical Imaging, 2020.
 ## 2019
 
 * **Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes**,  
