@@ -79,7 +79,6 @@ OSA Continuum,  Vol. 3, Issue 6, pp. 1664-1678, 2020.
 * **Sparse-GAN: Sparsity-constrained Generative Adversarial Network for Anomaly Detection in Retinal OCT Image**,  
 Kang Zhou, Shenghua Gao, **Jun Cheng**, Zaiwang Gu, Huazhu Fu, Zhi Tu, Jianlong Yang, Yitian Zhao, Jiang Liu,  
 International Symposium on Biomedical Imaging, 2020.
-
 * **Noise Redistribution and 3D Shearlet Filtering for Speckle Reduction in Optical Coherence Tomography**,  
 Yan Hu, Jianlong Yang, **Jun Cheng**, Jiang Liu,  
 International Symposium on Biomedical Imaging, 2020.
