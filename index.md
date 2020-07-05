@@ -67,10 +67,10 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 ## Selected Publications:  
 ## 2020
 * **Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images**,  
-Kang Zhou, Yuting Xiao, Jianlong Yang, Jun Cheng, Wen Liu, Weixin Luo, ZAIWANG GU, Jiang Liu, Shenghua Gao,  
+Kang Zhou, Yuting Xiao, Jianlong Yang, **Jun Cheng**, Wen Liu, Weixin Luo, ZAIWANG GU, Jiang Liu, Shenghua Gao,  
 European Conference on Computer Vision 2020.
 * **Cycle Structure and Illumination Constrained GAN for Medical Image Enhancement**,  
-Yuhui Ma, Yonghuai Liu, Jun Cheng, Yalin Zheng, Morteza Ghahremani, Honghan Chen, Jiang Liu, Yitian Zhao,  
+Yuhui Ma, Yonghuai Liu, **Jun Cheng**, Yalin Zheng, Morteza Ghahremani, Honghan Chen, Jiang Liu, Yitian Zhao,  
 Medical Image Computing and Computer Assisted Interventions, 2020
 * **Dense Dilated Network with Probability Regularized Walk for Vessel Detection**,    
 Lei Mou, Li Chen,  **Jun Cheng**\*, Zaiwang Gu, Yitian Zhao and Jiang Liu,  
