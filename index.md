@@ -46,6 +46,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+* 2020-07：Our paper "CE-Net: Context Encoder Network for 2D Medical Image Segmentation" has become a ESI highly cited paper.
 * 2020-07：One paper "Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images" has been accepted by ECCV 2020.
 * 2020-06：One paper "Cycle Structure and Illumination Constrained GAN for Medical Image Enhancement" has been accepted by MICCAI 2020.
 * 2020-05：One paper "Digital resolution enhancement in low transverse sampling optical coherence tomography angiography using deep learning" accepted by OSA Continuum.
@@ -103,7 +104,7 @@ Journal of Ambient Intelligence and Humanized Computing, 2019.
 * **CE-Net: Context Encoder Network for 2D Medical Image Segmentation**,   
 Zaiwang Gu, **Jun Cheng**\*, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu,    
 IEEE Trans. On Medical Imaging (**TMI**), vol. 38, no. 10, pp. 2281-2292, 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/samjcheng/CE-Net)   
-***"MICS 2019 Best poster!"*** 
+***MICS 2019 Best poster! ESI Highly Cited*** 
 * **Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes**,   
 V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel, **Jun Cheng**, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip,      
 Journal of Glaucoma (**JOG**), Jan;28(1):80-87, 2019.
