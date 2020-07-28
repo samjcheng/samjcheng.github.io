@@ -110,7 +110,7 @@ V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel, **Jun Cheng**, H
 Journal of Glaucoma (**JOG**), Jan;28(1):80-87, 2019.
 * **A Deep Step Pattern Representation for Multimodal Retinal Image Registration**,  
 Jimmy Addison Lee, Peng Liu, **Jun Cheng**\* and Huazhu Fu,   
-in IEEE International Conference in Computer Vision (**ICCV**), 2019.
+in IEEE International Conference in Computer Vision (**ICCV**), 2019. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_A_Deep_Step_Pattern_Representation_for_Multimodal_Retinal_Image_Registration_ICCV_2019_paper.pdf)
 * **Topology Reconstruction of Tree-like Structure in Images via Structural Similarity Measure and Dominant Set Clustering**,  
 Jianyang Xie, Yitian Zhao, Yonghuai Liu, Pan Su, Yalin Zheng, Yifan Zhao, **Jun Cheng**, Jiang Liu,   
 in IEEE International Conference in Computer vision and Pattern Recognition (**CVPR**), Long Beach, USA, June, 2019. 
