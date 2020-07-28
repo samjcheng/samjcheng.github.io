@@ -130,7 +130,7 @@ in International Conference on Medical Image Computing and Computer Assisted Int
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 12, pp. 2729-2738, 2018. 
 * **Structure-preserving Guided Retinal Image Filtering and Its Application for Optic Disc Analysis**,  
 **Jun Cheng**\*, Zhengguo Li, Zaiwang Gu, Huazhu Fu, Damon Wing Kee Wong, Jiang Liu,   
-IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2536-2546, 2018.  [\[Code\]](https://github.com/samjcheng/structure-preserving-guided-retinal-image-filtering)   
+IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2536-2546, 2018.  [\[PDF\]](https://arxiv.org/abs/1805.06625) [\[Code\]](https://github.com/samjcheng/structure-preserving-guided-retinal-image-filtering)   
 * **Disc-aware Ensemble Network for Glaucoma Screening from Fundus Image**,  
 Huazhu Fu, **Jun Cheng**\*, Yanwu Xu\*,  Changqing Zhang, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,  
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2493-2501, 2018.  [\[PDF\]](https://arxiv.org/abs/1805.07549) [\[Code\]](https://github.com/samjcheng/CE-Net)   
