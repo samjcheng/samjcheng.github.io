@@ -136,7 +136,7 @@ Huazhu Fu, **Jun Cheng**\*, Yanwu Xu\*,  Changqing Zhang, Damon Wing Kee Wong, J
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2493-2501, 2018. [\[Code\]](https://github.com/samjcheng/CE-Net)   
 * **Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation**,  
 Huazhu Fu, **Jun Cheng**, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,   
-IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no 7, pp. 1597-1605, 2018.    [\[Code\]](https://github.com/HzFu/MNet_DeepCDR)(ESI Highly Cited)
+IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no 7, pp. 1597-1605, 2018. [\[PDF\]](https://arxiv.org/abs/1801.00926) [\[Code\]](https://github.com/HzFu/MNet_DeepCDR)(ESI Highly Cited)
 * **3D graph-based skin layer segmentation in optical coherence tomography images for roughness estimation"**,  
 Ruchir Srivastava, Ai Ping Yow, **Jun Cheng**, Damon Wing Kee Wong,  Hong Liang Tey,   
 Biomedical Optics Express (**BOE**), vol. 9, no. 8, pp. 3590-3606, 2018.
