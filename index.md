@@ -133,7 +133,7 @@ IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 12, pp. 2729-2738, 
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2536-2546, 2018.  [\[Code\]](https://github.com/samjcheng/structure-preserving-guided-retinal-image-filtering)   
 * **Disc-aware Ensemble Network for Glaucoma Screening from Fundus Image**,  
 Huazhu Fu, **Jun Cheng**\*, Yanwu Xu\*,  Changqing Zhang, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,  
-IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2493-2501, 2018. [\[Code\]](https://github.com/samjcheng/CE-Net)   
+IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2493-2501, 2018.  [\[PDF\]](https://arxiv.org/abs/1805.07549) [\[Code\]](https://github.com/samjcheng/CE-Net)   
 * **Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation**,  
 Huazhu Fu, **Jun Cheng**, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,   
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no 7, pp. 1597-1605, 2018. [\[PDF\]](https://arxiv.org/abs/1801.00926) [\[Code\]](https://github.com/HzFu/MNet_DeepCDR)(ESI Highly Cited)
