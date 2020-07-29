@@ -29,7 +29,7 @@ He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Acade
 ## Project:
 * "Noise Adaptation Generative Adversarial Network for Medical Image Analysis",
 Tianyang Zhang, **Jun Cheng**\*, Huazhu Fu, Zaiwang Gu, Yuting Xiao, Kang Zhou, Shenghua Gao, Rui Zheng, Jiang Liu,
-IEEE Transactions on Medical Imaging (**TMI**), 2019.
+IEEE Transactions on Medical Imaging (**TMI**), vol. 39, no. 4, pp. 1149-1159, 2020.
 [\[Code\]](https://github.com/NeilZhang-IMED/NAGAN)    
 ![NAGAN](nagan.png)
 
