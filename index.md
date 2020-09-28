@@ -186,12 +186,9 @@ Signal Processing , vol. 89, Issue 6, pp. 1000-1010, June 2009.
 * **Objective distortion measure for binary text image based on edge line segment similarity”**,  
 **Jun Cheng**\* and A. C. Kot,  
 IEEE Trans. On Image Processing (**TIP**),  vol. 16, pp. 1691-1695, June 2007.
-* **A robust outlier’s elimination approach for multimodal retinal image registration**,  
-Ee Ping Ong, Jimmy Addison Lee, **Jun Cheng**, Guozhen Xu, Beng Hai Lee, Augustinus Laude, Stephen Teoh, Tock Han Lim, Damon W. K. Wong, Jiang Liu,   
-in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 329–337, 2015.
-*  **Registration of color and OCT fundus image using low-dimensional step pattern analysis**,  
-Jimmy Addison Lee, **Jun Cheng**, Guozhen Xu, Ee Ping Ong, Beng Hai Lee, Damon Wing Kee Wong, Jiang Liu,    
-in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 214-221, 2015.  
+* Ee Ping Ong, Jimmy Addison Lee, **Jun Cheng**, Guozhen Xu, Beng Hai Lee, Augustinus Laude, Stephen Teoh, Tock Han Lim, Damon W. K. Wong, Jiang Liu,   
+ **A robust outlier’s elimination approach for multimodal retinal image registration**, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 329–337, 2015.
+* Jimmy Addison Lee, **Jun Cheng**, Guozhen Xu, Ee Ping Ong, Beng Hai Lee, Damon Wing Kee Wong, Jiang Liu, Registration of color and OCT fundus image using low-dimensional step pattern analysis, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 214-221, 2015.  
 * Jimmy Addison Lee, **Jun Cheng**, Beng Hai Lee, Ee Ping Ong, Guozhen Xu, Damon Wing Kee Wong, Jiang Liu, Augustinus Laude, Tock Han Lim,  A Low-dimensional Step Pattern Analysis Algorithm with Application to Multimodal Retinal Image Registration,
 in Computer Vision and Pattern Recognition (**CVPR**), pp.1046-1053, 2015.  
 * **Jun Cheng**\*, Lixin Duan, Damon Wing King Wong, Dacheng Tao, Masaharo Akiba, Jiang Liu,  Speckle Reduction in Optical Coherence Tomography by Image Registration and Matri Completion, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part I, LNCS 8673, pp. 162-169, 2014.  
