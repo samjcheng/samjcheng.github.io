@@ -82,23 +82,23 @@ IEEE Trans. On Medical Imaging (**TMI**), vol. 39, no. 4, pp. 1149-1159, 2020. [
 * Yuming Jiang, Lixin Duan, **Jun Cheng**\*, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li, Jiang Liu,  
 **JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation**,  
 IEEE Trans. On Biomedical Engineering (**TBME**), vol. 67, no. 2, pp. 335-343, 2020.  
-* **Universal digital filtering for denoising volumetric retinal OCT and OCT angiography in 3D shearlet domain**,  
-Jianlong Yang*, Yan Hu, Liyang Fang, Jun Cheng, Jiang Liu,  
+* Jianlong Yang*, Yan Hu, Liyang Fang, Jun Cheng, Jiang Liu,  
+**Universal digital filtering for denoising volumetric retinal OCT and OCT angiography in 3D shearlet domain**,  
 Optics Letters 45(3), 694-697, 2020.
-* **Digital resolution enhancement in low transverse sampling optical coherence tomography angiography using deep learning**,   
-Ting Zhou, Jianlong Yang, Kang Zhou, Liyang Fang, Yan Hu, Jun Cheng, Yitian Zhao, Xiangping Chen, Shenghua Gao, and Jiang Liu,  
+* Ting Zhou, Jianlong Yang, Kang Zhou, Liyang Fang, Yan Hu, Jun Cheng, Yitian Zhao, Xiangping Chen, Shenghua Gao, and Jiang Liu,  
+**Digital resolution enhancement in low transverse sampling optical coherence tomography angiography using deep learning**,   
 OSA Continuum,  Vol. 3, Issue 6, pp. 1664-1678, 2020.
-* **Sparse-GAN: Sparsity-constrained Generative Adversarial Network for Anomaly Detection in Retinal OCT Image**,  
-Kang Zhou, Shenghua Gao, **Jun Cheng**, Zaiwang Gu, Huazhu Fu, Zhi Tu, Jianlong Yang, Yitian Zhao, Jiang Liu,  
+* Kang Zhou, Shenghua Gao, **Jun Cheng**, Zaiwang Gu, Huazhu Fu, Zhi Tu, Jianlong Yang, Yitian Zhao, Jiang Liu,  
+**Sparse-GAN: Sparsity-constrained Generative Adversarial Network for Anomaly Detection in Retinal OCT Image**,  
 International Symposium on Biomedical Imaging, 2020.
-* **Noise Redistribution and 3D Shearlet Filtering for Speckle Reduction in Optical Coherence Tomography**,  
-Yan Hu, Jianlong Yang, **Jun Cheng**, Jiang Liu,  
+* Yan Hu, Jianlong Yang, **Jun Cheng**, Jiang Liu,  
+**Noise Redistribution and 3D Shearlet Filtering for Speckle Reduction in Optical Coherence Tomography**, 
 International Symposium on Biomedical Imaging, 2020.
-* **SUNet: A Lesion Regularized Model for Simultaneous Diabetic Retinopathy and Diabetic Macular Edema Grading**,
-Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Huazhu Fu, Zaiwang Gu, **Jun Cheng**, Zehao Yu, Jiang Liu,  
+* Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Huazhu Fu, Zaiwang Gu, **Jun Cheng**, Zehao Yu, Jiang Liu,  
+**SUNet: A Lesion Regularized Model for Simultaneous Diabetic Retinopathy and Diabetic Macular Edema Grading**,
 International Symposium on Biomedical Imaging, 2020.
-* **Open-Set Oct Image Recognition with Synthetic Learning**,  
-Yuting Xiao, Shenghua Gao, Zhenjie Chai, Kang Zhou, Tianyang Zhang, Yitian Zhao, **Jun Cheng**, Jiang Liu,  
+* Yuting Xiao, Shenghua Gao, Zhenjie Chai, Kang Zhou, Tianyang Zhang, Yitian Zhao, **Jun Cheng**, Jiang Liu,  
+ **Open-Set Oct Image Recognition with Synthetic Learning**,  
 International Symposium on Biomedical Imaging, 2020.
 ## 2019
 * **Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes**,  
