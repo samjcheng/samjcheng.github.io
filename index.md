@@ -201,9 +201,8 @@ in International Conference on Medical Image Computing and Computer Assisted Int
 * **Superpixel Classification based Optic Cup Segmentation**,  
 **Jun Cheng**\*, Jiang Liu, Dacheng Tao, Fengshou Yin, Damon Wing Kee Wong, Tien Yin Wong,   
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 8151, pp. 421–428, 2013.   
-*  **Focal Biologically Inspired Feature for Glaucoma Type Classification**,  
-**Jun Cheng**\*, Dacheng Tao, Jiang Liu, Damon Wing Kee Wong, Beng Hai Lee, Mani Baskaran, Tien Yin Wong and Tin Aung,   
-Int. Conf. on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 6893, pp. 91-98. Springer, Heidelberg, 2011. 
+*  
+**Jun Cheng**\*, Dacheng Tao, Jiang Liu, Damon Wing Kee Wong, Beng Hai Lee, Mani Baskaran, Tien Yin Wong and Tin Aung, Focal Biologically Inspired Feature for Glaucoma Type Classification,  Int. Conf. on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part III, LNCS 6893, pp. 91-98. Springer, Heidelberg, 2011. 
 
 ### Book Chapter: 
 * **Techniques and Applications in Skin OCT Analysis**,  
