@@ -82,7 +82,7 @@ IEEE Trans. On Medical Imaging (**TMI**), vol. 39, no. 4, pp. 1149-1159, 2020. [
 * **JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation**,  
 Yuming Jiang, Lixin Duan, **Jun Cheng**\*, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li, Jiang Liu,  
 IEEE Trans. On Biomedical Engineering (**TBME**), vol. 67, no. 2, pp. 335-343, 2020.  
-* **Universal digital filtering for denoising volumetric retinal OCT and OCT angiography in 3D shearlet domain**, 
+* **Universal digital filtering for denoising volumetric retinal OCT and OCT angiography in 3D shearlet domain**,  
 Jianlong Yang*, Yan Hu, Liyang Fang, Jun Cheng, Jiang Liu,  
 Optics Letters 45(3), 694-697, 2020.
 * **Digital resolution enhancement in low transverse sampling optical coherence tomography angiography using deep learning**,   
