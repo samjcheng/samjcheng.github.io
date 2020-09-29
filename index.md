@@ -40,7 +40,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 
 
 
-## Kenote Speech & Invited Talks:
+## Keynote Speech & Invited Talks:
 
 * Glaucoma Screening from Fundus Images And Its Challenges, at BOOM workshop in conjuction with IJCAI 2019.
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
