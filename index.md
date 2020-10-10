@@ -69,13 +69,13 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 ## 2020
 * Lei Mou, Yitian Zhao, Huazhu Fu, Yonghuai Liu, Jun Cheng, Yalin Zheng, Pan Su, Jianlong Yang, Li Chen, Alejandro Frangi, Masahiro Akiba, Jiang Liu,  
 **CS2-Net:Deep Learning Segmentation of Curvilinear Structures in Medical Imaging**,  
-Medical Image Analysis, 2020.
+Medical Image Analysis (**MIA**), 2020.
 * Kang Zhou, Yuting Xiao, Jianlong Yang, **Jun Cheng**, Wen Liu, Weixin Luo, ZAIWANG GU, Jiang Liu, Shenghua Gao,  
 **Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images**,  
-European Conference on Computer Vision 2020.
+European Conference on Computer Vision (**ECCV**), 2020.
 * Yuhui Ma, Yonghuai Liu, **Jun Cheng**, Yalin Zheng, Morteza Ghahremani, Honghan Chen, Jiang Liu, Yitian Zhao,  
 **Cycle Structure and Illumination Constrained GAN for Medical Image Enhancement**,  
-Medical Image Computing and Computer Assisted Interventions, 2020
+Medical Image Computing and Computer Assisted Interventions (**MICCAI**), 2020
 * Lei Mou, Li Chen,  **Jun Cheng**\*, Zaiwang Gu, Yitian Zhao and Jiang Liu,  
 **Dense Dilated Network with Probability Regularized Walk for Vessel Detection**,    
 IEEE Trans. On Medical Imaging (**TMI**), vol. 39, no. 5, pp. 1392-1403, 2020
