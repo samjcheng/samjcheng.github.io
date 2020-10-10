@@ -46,7 +46,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
-
+* 2020-10：One paper "CS2-Net:Deep Learning Segmentation of Curvilinear Structures in Medical Imaging" has been accepted by Medical Image Analysis.
 * 2020-07：One paper "Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images" has been accepted by ECCV 2020.
 * 2020-06：One paper "Cycle Structure and Illumination Constrained GAN for Medical Image Enhancement" has been accepted by MICCAI 2020.
 * 2020-05：One paper "Digital resolution enhancement in low transverse sampling optical coherence tomography angiography using deep learning" accepted by OSA Continuum.
@@ -67,6 +67,9 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 
 ## Selected Publications:  
 ## 2020
+* Lei Mou, Yitian Zhao, Huazhu Fu, Yonghuai Liu, Jun Cheng, Yalin Zheng, Pan Su, Jianlong Yang, Li Chen, Alejandro Frangi, Masahiro Akiba, Jiang Liu,  
+**CS2-Net:Deep Learning Segmentation of Curvilinear Structures in Medical Imaging**,  
+Medical Image Analysis, 2020.
 * Kang Zhou, Yuting Xiao, Jianlong Yang, **Jun Cheng**, Wen Liu, Weixin Luo, ZAIWANG GU, Jiang Liu, Shenghua Gao,  
 **Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images**,  
 European Conference on Computer Vision 2020.
