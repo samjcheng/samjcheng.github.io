@@ -27,7 +27,7 @@ He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Acade
 *  **MICCAI 2019**
 
 ## Professional Membership 
-* ** Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
+* Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
 
 ## Project:
 * "Noise Adaptation Generative Adversarial Network for Medical Image Analysis",
