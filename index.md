@@ -26,6 +26,9 @@ He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Acade
 *  **MICCAI 2017**
 *  **MICCAI 2019**
 
+## Professional Membership 
+* ** Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
+
 ## Project:
 * "Noise Adaptation Generative Adversarial Network for Medical Image Analysis",
 Tianyang Zhang, **Jun Cheng**\*, Huazhu Fu, Zaiwang Gu, Yuting Xiao, Kang Zhou, Shenghua Gao, Rui Zheng, Jiang Liu,
@@ -46,6 +49,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+
 * 2020-10：One paper "CS2-Net:Deep Learning Segmentation of Curvilinear Structures in Medical Imaging" has been accepted by Medical Image Analysis.
 * 2020-07：One paper "Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images" has been accepted by ECCV 2020.
 * 2020-06：One paper "Cycle Structure and Illumination Constrained GAN for Medical Image Enhancement" has been accepted by MICCAI 2020.
