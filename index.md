@@ -13,6 +13,7 @@ He is now a professor in Cixi Institute of Biomedical Engineering, Chinese Acade
 * Computer Vision
 * Medical Image Computing
 * Machine Learning
+* Machine Intelligence
 
 ## Academic Services 
 
