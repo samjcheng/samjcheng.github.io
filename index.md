@@ -52,6 +52,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 ## News:  
 
 * 2020-10：One paper "CS2-Net:Deep Learning Segmentation of Curvilinear Structures in Medical Imaging" has been accepted by Medical Image Analysis.
+* 2020-07: Our paper "CE-Net: Context Encoder Network for 2D Medical Image Segmentation becomes an "ESI Highly Cited Paper".
 * 2020-07：One paper "Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images" has been accepted by ECCV 2020.
 * 2020-06：One paper "Cycle Structure and Illumination Constrained GAN for Medical Image Enhancement" has been accepted by MICCAI 2020.
 * 2020-05：One paper "Digital resolution enhancement in low transverse sampling optical coherence tomography angiography using deep learning" accepted by OSA Continuum.
