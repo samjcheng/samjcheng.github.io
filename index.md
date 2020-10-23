@@ -73,7 +73,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 
 ## Selected Publications:  
 ## 2020
-* Ae Ra Kee; Vivien Cherng Hui Yip; Elton Lik Tong Tay; Ching Wei Lim; Jun Cheng; Hwei Yee Teo; Chun Hau Chua, BSc; Leonard Wei Leon Yip,  
+* Ae Ra Kee, Vivien Cherng Hui Yip, Elton Lik Tong Tay, Ching Wei Lim, **Jun Cheng**, Hwei Yee Teo, Chun Hau Chua, Leonard Wei Leon Yip,  
 **Comparison of two different optical coherence tomography angiography devices in detecting healthy versus glaucomatous eyes – An observational cross-sectional study**,  
 BMC Ophthalmology, 2020
 * Lei Mou, Yitian Zhao, Huazhu Fu, Yonghuai Liu, Jun Cheng, Yalin Zheng, Pan Su, Jianlong Yang, Li Chen, Alejandro Frangi, Masahiro Akiba, Jiang Liu,  
