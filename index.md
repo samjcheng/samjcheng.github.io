@@ -50,6 +50,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+* 2020-11: One paper "Attention-aware Concentrated Network for Saliency Prediction" has been accepted by Neurocomputing.
 * 2020-10: One paper "Comparison of two different optical coherence tomography angiography devices in detecting healthy versus glaucomatous eyes – An observational cross-sectional study" has been accepted by BMC Ophthalmology.
 * 2020-10：One paper "CS2-Net:Deep Learning Segmentation of Curvilinear Structures in Medical Imaging" has been accepted by Medical Image Analysis.
 * 2020-07: Our paper "CE-Net: Context Encoder Network for 2D Medical Image Segmentation becomes an "ESI Highly Cited Paper".
@@ -73,9 +74,12 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 
 ## Selected Publications:  
 ## 2020
+* Pengqian Li, Xiaofen Xing, Xiangmin Xu, Bolun Cai, **Jun Cheng**,  
+**Attention-aware Concentrated Network for Saliency Prediction**,  
+Neurocomputing, 2020.
 * Ae Ra Kee, Vivien Cherng Hui Yip, Elton Lik Tong Tay, Ching Wei Lim, **Jun Cheng**, Hwei Yee Teo, Chun Hau Chua, Leonard Wei Leon Yip,  
 **Comparison of two different optical coherence tomography angiography devices in detecting healthy versus glaucomatous eyes – An observational cross-sectional study**,  
-BMC Ophthalmology, 2020
+BMC Ophthalmology, 2020.
 * Lei Mou, Yitian Zhao, Huazhu Fu, Yonghuai Liu, Jun Cheng, Yalin Zheng, Pan Su, Jianlong Yang, Li Chen, Alejandro Frangi, Masahiro Akiba, Jiang Liu,  
 **CS2-Net:Deep Learning Segmentation of Curvilinear Structures in Medical Imaging**,  
 Medical Image Analysis (**MIA**), 2020.
