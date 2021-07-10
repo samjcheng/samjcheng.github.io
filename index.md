@@ -60,10 +60,12 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * 2020-02: One book "Deep Learning in Medical Image Analysis Challenges and Applications", ISBN 9783030331276 has been published.
  
 ## Selected Publications:  
-## 2020
+Attention-aware Concentrated Network for Saliency Prediction
+## 2021
 * Pengqian Li, Xiaofen Xing, Xiangmin Xu, Bolun Cai, **Jun Cheng**,  
 **Attention-aware Concentrated Network for Saliency Prediction**,  
-Neurocomputing, 2020.
+Neurocomputing,  vol. 429,  pp. 199-214, 2021.
+## 2020
 * Ae Ra Kee, Vivien Cherng Hui Yip, Elton Lik Tong Tay, Ching Wei Lim, **Jun Cheng**, Hwei Yee Teo, Chun Hau Chua, Leonard Wei Leon Yip,  
 **Comparison of two different optical coherence tomography angiography devices in detecting healthy versus glaucomatous eyes – An observational cross-sectional study**,  
 BMC Ophthalmology, 2020.
