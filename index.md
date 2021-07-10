@@ -1,5 +1,5 @@
 # Jun CHENG (程骏) 
-## Senior Research Scientist
+
 ## Institute for Infocomm Research
  
 
