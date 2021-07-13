@@ -12,8 +12,8 @@ He is now a senior research scientist in the Institute for Infocomm Research, wo
 ## Research Interest: 
 * Computer Vision
 * Medical Image Computing
-* Machine Learning
-* Machine Intelligence
+* Robotics
+* Autonomous Vehicle
 
 ## Academic Services 
 
