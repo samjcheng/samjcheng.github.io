@@ -61,8 +61,11 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * 2020-02: One book "Deep Learning in Medical Image Analysis Challenges and Applications", ISBN 9783030331276 has been published.
  
 ## Selected Publications:  
-Attention-aware Concentrated Network for Saliency Prediction
+ 
 ## 2021
+* Kang Zhou, Jing Li, Yuting Xiao, Jianlong Yang, Jun Cheng, Wen Liu, Weixin Luo, Jiang Liu, Shenghua Gao,
+**Memorizing Structure-Texture Correspondence for Image Anomaly Detection**,
+IEEE Transactions on Neural Networks and Learning Systems, 2021.
 * Pengqian Li, Xiaofen Xing, Xiangmin Xu, Bolun Cai, **Jun Cheng**,  
 **Attention-aware Concentrated Network for Saliency Prediction**,  
 Neurocomputing,  vol. 429,  pp. 199-214, 2021.
