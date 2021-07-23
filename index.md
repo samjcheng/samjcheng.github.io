@@ -76,7 +76,7 @@ BMC Ophthalmology, 2020.
 * Lei Mou, Yitian Zhao, Huazhu Fu, Yonghuai Liu, Jun Cheng, Yalin Zheng, Pan Su, Jianlong Yang, Li Chen, Alejandro Frangi, Masahiro Akiba, Jiang Liu,  
 **CS2-Net:Deep Learning Segmentation of Curvilinear Structures in Medical Imaging**,  
 Medical Image Analysis (**MIA**), 2020.
-* Kang Zhou, Yuting Xiao, Jianlong Yang, **Jun Cheng**, Wen Liu, Weixin Luo, ZAIWANG GU, Jiang Liu, Shenghua Gao,  
+* Kang Zhou, Yuting Xiao, Jianlong Yang, **Jun Cheng**, Wen Liu, Weixin Luo, Zaiwang Gu, Jiang Liu, Shenghua Gao,  
 **Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images**,  
 European Conference on Computer Vision (**ECCV**), 2020.
 * Yuhui Ma, Yonghuai Liu, **Jun Cheng**, Yalin Zheng, Morteza Ghahremani, Honghan Chen, Jiang Liu, Yitian Zhao,  
