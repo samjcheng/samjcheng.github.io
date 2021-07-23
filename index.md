@@ -50,6 +50,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+* 2021-07: One paper "Memorizing Structure-Texture Correspondence for Image Anomaly Detection" has been accepted by IEEE Transactions on Neural Networks and Learning Systems. 
 * 2020-11: One paper "Attention-aware Concentrated Network for Saliency Prediction" has been accepted by Neurocomputing.
 * 2020-10: One paper "Comparison of two different optical coherence tomography angiography devices in detecting healthy versus glaucomatous eyes – An observational cross-sectional study" has been accepted by BMC Ophthalmology.
 * 2020-10：One paper "CS2-Net:Deep Learning Segmentation of Curvilinear Structures in Medical Imaging" has been accepted by Medical Image Analysis.
