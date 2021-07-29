@@ -82,8 +82,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Huazhu Fu, Zaiwang Gu, **Jun Cheng**, Zehao Yu, Jiang Liu, SUNet: A Lesion Regularized Model for Simultaneous Diabetic Retinopathy and Diabetic Macular Edema Grading, International Symposium on Biomedical Imaging, 2020.
 * Yuting Xiao, Shenghua Gao, Zhenjie Chai, Kang Zhou, Tianyang Zhang, Yitian Zhao, **Jun Cheng**, Jiang Liu, Open-Set Oct Image Recognition with Synthetic Learning, International Symposium on Biomedical Imaging, 2020.
 ## 2019
-* Qifeng Yan, Mengdi Xu,Damon Wing Kee Wong, Akira Taruya, Atsushi Tanaka, Jiang Liu, Philip Wong, **Jun Cheng***,  
-**Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes**,  
+* Qifeng Yan, Mengdi Xu,Damon Wing Kee Wong, Akira Taruya, Atsushi Tanaka, Jiang Liu, Philip Wong, **Jun Cheng***, Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes,  
 Journal of Ambient Intelligence and Humanized Computing, 2019.
 * Zaiwang Gu, **Jun Cheng**\*, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu,    
  **CE-Net: Context Encoder Network for 2D Medical Image Segmentation**, 
