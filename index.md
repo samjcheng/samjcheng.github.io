@@ -84,8 +84,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 ## 2019
 * Qifeng Yan, Mengdi Xu,Damon Wing Kee Wong, Akira Taruya, Atsushi Tanaka, Jiang Liu, Philip Wong, **Jun Cheng***, Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes,  
 Journal of Ambient Intelligence and Humanized Computing, 2019.
-* Zaiwang Gu, **Jun Cheng**\*, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu,    
- **CE-Net: Context Encoder Network for 2D Medical Image Segmentation**, 
+* Zaiwang Gu, **Jun Cheng**\*, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu, vCE-Net: Context Encoder Network for 2D Medical Image Segmentation,
 IEEE Trans. On Medical Imaging (**TMI**), vol. 38, no. 10, pp. 2281-2292, 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/samjcheng/CE-Net)   
 ***MICS 2019 Best poster!*** ***"ESI Highly Cited Paper"*** 
 *  V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel, **Jun Cheng**, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip,     **Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes**,   
