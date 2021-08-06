@@ -87,23 +87,14 @@ Journal of Ambient Intelligence and Humanized Computing, 2019.
 * Zaiwang Gu, **Jun Cheng**\*, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu, vCE-Net: Context Encoder Network for 2D Medical Image Segmentation,
 IEEE Trans. On Medical Imaging (**TMI**), vol. 38, no. 10, pp. 2281-2292, 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/samjcheng/CE-Net)   
 ***MICS 2019 Best poster!*** ***"ESI Highly Cited Paper"*** 
-*  V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel, **Jun Cheng**, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip,     **Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes**,   
-Journal of Glaucoma (**JOG**), Jan;28(1):80-87, 2019.
-* Jimmy Addison Lee, Peng Liu, **Jun Cheng**\* and Huazhu Fu,   
-**A Deep Step Pattern Representation for Multimodal Retinal Image Registration**,  
+*  V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel, **Jun Cheng**, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip,   Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes, Journal of Glaucoma (**JOG**), Jan;28(1):80-87, 2019.
+* Jimmy Addison Lee, Peng Liu, **Jun Cheng**\* and Huazhu Fu,  A Deep Step Pattern Representation for Multimodal Retinal Image Registration,  
 in IEEE International Conference in Computer Vision (**ICCV**), 2019. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_A_Deep_Step_Pattern_Representation_for_Multimodal_Retinal_Image_Registration_ICCV_2019_paper.pdf)
 * Jianyang Xie, Yitian Zhao, Yonghuai Liu, Pan Su, Yalin Zheng, Yifan Zhao, **Jun Cheng**, Jiang Liu,   
-**Topology Reconstruction of Tree-like Structure in Images via Structural Similarity Measure and Dominant Set Clustering**,  
-in IEEE International Conference in Computer vision and Pattern Recognition (**CVPR**), Long Beach, USA, June, 2019. 
-* Hengrong Lan, Kang Zhou, Changchun Yang, **Jun Cheng**, Jiang Liu, Shenghua Gao, Fei Gao,   
-**Ki-GAN: Knowledge Infusion Generative Adversarial Network for Photoacoustic Image Reconstruction in vivo**,  
-in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
-* Lei Mou, Yitian Zhao, Li Chen, **Jun Cheng**, Zaiwang Gu, Huaying Hao, Hong Qi,  Yalin Zheng, Alex Frangi, Jiang Liu,    
-**CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation**,   
-in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
-* Tianyang Zhang, Huazhu Fu, Yitian Zhao, **Jun Cheng**, Mengjie Guo, Zaiwang Gu, Bing Yang, Yuting Xiao, Shenghua Gao, Jiang Liu,   
-**SkrGAN: Sketching-rendering Unconditional Generative Adversarial Networks for Medical Image Synthesis**,  
-in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
+Topology Reconstruction of Tree-like Structure in Images via Structural Similarity Measure and Dominant Set Clustering, in IEEE International Conference in Computer vision and Pattern Recognition (**CVPR**), Long Beach, USA, June, 2019. 
+* Hengrong Lan, Kang Zhou, Changchun Yang, **Jun Cheng**, Jiang Liu, Shenghua Gao, Fei Gao, Ki-GAN: Knowledge Infusion Generative Adversarial Network for Photoacoustic Image Reconstruction in vivo, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
+* Lei Mou, Yitian Zhao, Li Chen, **Jun Cheng**, Zaiwang Gu, Huaying Hao, Hong Qi,  Yalin Zheng, Alex Frangi, Jiang Liu, CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
+* Tianyang Zhang, Huazhu Fu, Yitian Zhao, **Jun Cheng**, Mengjie Guo, Zaiwang Gu, Bing Yang, Yuting Xiao, Shenghua Gao, Jiang Liu,  SkrGAN: Sketching-rendering Unconditional Generative Adversarial Networks for Medical Image Synthesis, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
 
 ## 2018
 * **Jun Cheng**\*,   
