@@ -101,7 +101,7 @@ Topology Reconstruction of Tree-like Structure in Images via Structural Similari
 * Huazhu Fu, **Jun Cheng**\*, Yanwu Xu\*,  Changqing Zhang, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao, Disc-aware Ensemble Network for Glaucoma Screening from Fundus Image,  
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2493-2501, 2018.  [\[PDF\]](https://arxiv.org/abs/1805.07549) [\[Code\]](https://github.com/samjcheng/CE-Net)   
 * Huazhu Fu, **Jun Cheng**, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao, Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation, IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no 7, pp. 1597-1605, 2018. [\[PDF\]](https://arxiv.org/abs/1801.00926) [\[Code\]](https://github.com/HzFu/MNet_DeepCDR)
-(ESI Highly Cited)
+***(ESI Highly Cited)***
 * Ruchir Srivastava, Ai Ping Yow, **Jun Cheng**, Damon Wing Kee Wong,  Hong Liang Tey, 3D graph-based skin layer segmentation in optical coherence tomography images for roughness estimation", Biomedical Optics Express (**BOE**), vol. 9, no. 8, pp. 3590-3606, 2018.
 * Annan Li, Zhiheng Niu, **Jun Cheng**, Fengshou Yin, Damon Wing Kee Wong, Shuicheng Yan, Jiang Liu, Learning Supervised Descent Directions for Optic Disc Segmentation,Neurocomputing, vol. 275, pp. 350-357 2018.
 * Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip, 
