@@ -82,8 +82,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Huazhu Fu, Zaiwang Gu, **Jun Cheng**, Zehao Yu, Jiang Liu, SUNet: A Lesion Regularized Model for Simultaneous Diabetic Retinopathy and Diabetic Macular Edema Grading, International Symposium on Biomedical Imaging, 2020.
 * Yuting Xiao, Shenghua Gao, Zhenjie Chai, Kang Zhou, Tianyang Zhang, Yitian Zhao, **Jun Cheng**, Jiang Liu, Open-Set Oct Image Recognition with Synthetic Learning, International Symposium on Biomedical Imaging, 2020.
 ## 2019
-* Qifeng Yan, Mengdi Xu,Damon Wing Kee Wong, Akira Taruya, Atsushi Tanaka, Jiang Liu, Philip Wong, **Jun Cheng***, Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes,  
-Journal of Ambient Intelligence and Humanized Computing, 2019.
+* Qifeng Yan, Mengdi Xu,Damon Wing Kee Wong, Akira Taruya, Atsushi Tanaka, Jiang Liu, Philip Wong, **Jun Cheng***, Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes, Journal of Ambient Intelligence and Humanized Computing, 2019.
 * Zaiwang Gu, **Jun Cheng**\*, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu, vCE-Net: Context Encoder Network for 2D Medical Image Segmentation,
 IEEE Trans. On Medical Imaging (**TMI**), vol. 38, no. 10, pp. 2281-2292, 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/samjcheng/CE-Net)   
 ***MICS 2019 Best poster!*** ***"ESI Highly Cited Paper"*** 
@@ -97,27 +96,15 @@ Topology Reconstruction of Tree-like Structure in Images via Structural Similari
 * Tianyang Zhang, Huazhu Fu, Yitian Zhao, **Jun Cheng**, Mengjie Guo, Zaiwang Gu, Bing Yang, Yuting Xiao, Shenghua Gao, Jiang Liu,  SkrGAN: Sketching-rendering Unconditional Generative Adversarial Networks for Medical Image Synthesis, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2019.
 
 ## 2018
-* **Jun Cheng**\*,   
-**Sparse Range-constrained Learning and Its Application for Medical Image Grading**,   
-IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 12, pp. 2729-2738, 2018. 
-* **Jun Cheng**\*, Zhengguo Li, Zaiwang Gu, Huazhu Fu, Damon Wing Kee Wong, Jiang Liu,   
- **Structure-preserving Guided Retinal Image Filtering and Its Application for Optic Disc Analysis**,  
-IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2536-2546, 2018.  [\[PDF\]](https://arxiv.org/abs/1805.06625) [\[Code\]](https://github.com/samjcheng/structure-preserving-guided-retinal-image-filtering)   
-* Huazhu Fu, **Jun Cheng**\*, Yanwu Xu\*,  Changqing Zhang, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,  
- **Disc-aware Ensemble Network for Glaucoma Screening from Fundus Image**,  
+* **Jun Cheng**\*, Sparse Range-constrained Learning and Its Application for Medical Image Grading, IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 12, pp. 2729-2738, 2018. 
+* **Jun Cheng**\*, Zhengguo Li, Zaiwang Gu, Huazhu Fu, Damon Wing Kee Wong, Jiang Liu, Structure-preserving Guided Retinal Image Filtering and Its Application for Optic Disc Analysis, IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2536-2546, 2018.  [\[PDF\]](https://arxiv.org/abs/1805.06625) [\[Code\]](https://github.com/samjcheng/structure-preserving-guided-retinal-image-filtering)   
+* Huazhu Fu, **Jun Cheng**\*, Yanwu Xu\*,  Changqing Zhang, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao, Disc-aware Ensemble Network for Glaucoma Screening from Fundus Image,  
 IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2493-2501, 2018.  [\[PDF\]](https://arxiv.org/abs/1805.07549) [\[Code\]](https://github.com/samjcheng/CE-Net)   
-* Huazhu Fu, **Jun Cheng**, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao,   
- **Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation**,  
-IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no 7, pp. 1597-1605, 2018. [\[PDF\]](https://arxiv.org/abs/1801.00926) [\[Code\]](https://github.com/HzFu/MNet_DeepCDR)(ESI Highly Cited)
-* Ruchir Srivastava, Ai Ping Yow, **Jun Cheng**, Damon Wing Kee Wong,  Hong Liang Tey,   
-**3D graph-based skin layer segmentation in optical coherence tomography images for roughness estimation"**,  
-Biomedical Optics Express (**BOE**), vol. 9, no. 8, pp. 3590-3606, 2018.
-* Annan Li, Zhiheng Niu, **Jun Cheng**, Fengshou Yin, Damon Wing Kee Wong, Shuicheng Yan, Jiang Liu,      
-**Learning Supervised Descent Directions for Optic Disc Segmentation**,   
-Neurocomputing, vol. 275, pp. 350-357 2018.
-* Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip,   
-**Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects**,     
-BMC ophthalmology (**BMC**), 2018.
+* Huazhu Fu, **Jun Cheng**, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, Xiaochun Cao, Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation, IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no 7, pp. 1597-1605, 2018. [\[PDF\]](https://arxiv.org/abs/1801.00926) [\[Code\]](https://github.com/HzFu/MNet_DeepCDR)(ESI Highly Cited)
+* Ruchir Srivastava, Ai Ping Yow, **Jun Cheng**, Damon Wing Kee Wong,  Hong Liang Tey, 3D graph-based skin layer segmentation in optical coherence tomography images for roughness estimation", Biomedical Optics Express (**BOE**), vol. 9, no. 8, pp. 3590-3606, 2018.
+* Annan Li, Zhiheng Niu, **Jun Cheng**, Fengshou Yin, Damon Wing Kee Wong, Shuicheng Yan, Jiang Liu, Learning Supervised Descent Directions for Optic Disc Segmentation,Neurocomputing, vol. 275, pp. 350-357 2018.
+* Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip, 
+Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects, BMC ophthalmology (**BMC**), 2018.
 * Yitian Zhao, Jianyang Xie, Yalin Zheng, Yonghuai Liu, Pan Su, Yifan Zhao, **Jun Cheng**, Jiang Liu,   
 **Retinal Artery and Vein Classification via Dominant Sets Clustering-based Vascular Topology Estimation**,  
 in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), pp. 56-64, Granada, Spain, September, 2018.
