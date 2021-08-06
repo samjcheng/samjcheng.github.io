@@ -110,8 +110,7 @@ Optical coherence tomography of the macula and optic nerve head: microvascular d
 
 ## 2017 and before
 * **Jun Cheng**\*, Zhuo Zhang, Dacheng Tao, Damong Wing Kee Wong, Jiang Liu, Mani Baskaran, Tin Aung, Tien Yin Wong,  Similarity regularized Sparse Group Lasso for Cup to Disc Ratio Computation**,  Biomedical Optics Express (**BOE**), vol. 8, issue  8, pp. 3763-3777, 2017.
-* **Jun Cheng**\*, Dacheng Tao, Damon Wing Kee Wong, Jiang Liu,  Quadratic divergence regularized SVM for Optic Disc Segmentation,   
-Biomedical Optics Express (**BOE**), vol.8, issue 5, pp. 2687-2696, 2017.
+* **Jun Cheng**\*, Dacheng Tao, Damon Wing Kee Wong, Jiang Liu,  Quadratic divergence regularized SVM for Optic Disc Segmentation, Biomedical Optics Express (**BOE**), vol.8, issue 5, pp. 2687-2696, 2017.
 * **Jun Cheng**\*, Dacheng Tao, Ying Quan, Damon Wing Kee Wong,   Gemmy Chui Ming Cheung, Masahiro Akiba, Jiang Liu,  Speckle Reduction in 3D Optical Coherence Tomography of Retina  by A-Scan Reconstruction, IEEE Trans on Medical Imaging (**TMI**), vol. 35, no. 10, pp. 2270-2279, 2016. 
 *  **Jun Cheng**\*, Fengshou Yin, Damon Wing Kee Wong, Dacheng Tao and Jiang Liu,  Sparse Dissimilarity-Constrained Coding For Glaucoma Screening, IEEE Trans. on Biomedical Engineering (**TBME**), vol. 62, Issue 5, pp. 1395-1403, 2015.
 * M. Baskaran, **Jun Cheng**, S. A. Perera, T. A. Tun, J. Liu and T. Aung,  Automated Analysis of Angle Closure From Anterior Chamber Angle Images,  Investigative Ophthalmology & Visual Science (**IOVS**), 55(11):7669-7673, 2014. 
@@ -120,8 +119,7 @@ Biomedical Optics Express (**BOE**), vol.8, issue 5, pp. 2687-2696, 2017.
 *  **Jun Cheng**\*, Dacheng Tao, Jiang Liu, Damon Wing Kee Wong, Ngan Meng Tan, Tien Yin Wong and Seang Mei Saw, Peripapillary Atrophy Detection  by Sparse Biologically Inspired Feature Manifold, IEEE Trans. on Med. Imaging (**TMI**), vol. 31, no. 12, pp. 2355-2365, 2012. (IF2012: 4.027) 
 *  M. H. Wong, A. Chew, H. M. Htoon, B. H. Lee, **Jun Cheng**, J. Liu, D. T. Tan and J. S. Mehta, Reproducibility of Corneal Graft Thickness measurements with COLGATE in patients who have undergone DSAEK (Descemet Stripping Automated Endothelial Keratoplasty, BMC Med Imaging (**BMC**),12(1):25, 2012. 
 *  **Jun Cheng*** and A. C. Kot,  Steganalysis of halftone images using inverse halftoning, Signal Processing , vol. 89, Issue 6, pp. 1000-1010, June 2009. 
-* **Jun Cheng**\* and A. C. Kot, Objective distortion measure for binary text image based on edge line segment similarity,  
-IEEE Trans. On Image Processing (**TIP**),  vol. 16, pp. 1691-1695, June 2007.
+* **Jun Cheng**\* and A. C. Kot, Objective distortion measure for binary text image based on edge line segment similarity,  EEE Trans. On Image Processing (**TIP**),  vol. 16, pp. 1691-1695, June 2007.
 * Ee Ping Ong, Jimmy Addison Lee, **Jun Cheng**, Guozhen Xu, Beng Hai Lee, Augustinus Laude, Stephen Teoh, Tock Han Lim, Damon W. K. Wong, Jiang Liu, A robust outlier’s elimination approach for multimodal retinal image registration, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 329–337, 2015.
 * Jimmy Addison Lee, **Jun Cheng**, Guozhen Xu, Ee Ping Ong, Beng Hai Lee, Damon Wing Kee Wong, Jiang Liu,  Registration of color and OCT fundus image using low-dimensional step pattern analysis,  in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Part II, LNCS 9350, pp. 214-221, 2015.  
 * Jimmy Addison Lee, **Jun Cheng**, Beng Hai Lee, Ee Ping Ong, Guozhen Xu, Damon Wing Kee Wong, Jiang Liu, Augustinus Laude, Tock Han Lim,  A Low-dimensional Step Pattern Analysis Algorithm with Application to Multimodal Retinal Image Registration, in Computer Vision and Pattern Recognition (**CVPR**), pp.1046-1053, 2015.  
