@@ -106,9 +106,7 @@ IEEE Transactions on Medical Imaging (**TMI**), vol. 37, no. 11, pp. 2493-2501, 
 * Annan Li, Zhiheng Niu, **Jun Cheng**, Fengshou Yin, Damon Wing Kee Wong, Shuicheng Yan, Jiang Liu, Learning Supervised Descent Directions for Optic Disc Segmentation,Neurocomputing, vol. 275, pp. 350-357 2018.
 * Ching Wei Lim, **Jun Cheng**, Elton Lik Tong Tay, Hwei Yee Teo, Elizabeth Poh Ying Wong, Vernon Khet Yau Yong, Boon Ang Lim, Owen Kim Hee, Hon Tym Wong,	Leonard Wei Leon Yip, 
 Optical coherence tomography of the macula and optic nerve head: microvascular density and test-retest repeatability in normal subjects, BMC ophthalmology (**BMC**), 2018.
-* Yitian Zhao, Jianyang Xie, Yalin Zheng, Yonghuai Liu, Pan Su, Yifan Zhao, **Jun Cheng**, Jiang Liu,   
-**Retinal Artery and Vein Classification via Dominant Sets Clustering-based Vascular Topology Estimation**,  
-in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), pp. 56-64, Granada, Spain, September, 2018.
+* Yitian Zhao, Jianyang Xie, Yalin Zheng, Yonghuai Liu, Pan Su, Yifan Zhao, **Jun Cheng**, Jiang Liu, Retinal Artery and Vein Classification via Dominant Sets Clustering-based Vascular Topology Estimation, in International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), pp. 56-64, Granada, Spain, September, 2018.
 
 ## 2017 and before
 * **Jun Cheng**\*, Zhuo Zhang, Dacheng Tao, Damong Wing Kee Wong, Jiang Liu, Mani Baskaran, Tin Aung, Tien Yin Wong,  
