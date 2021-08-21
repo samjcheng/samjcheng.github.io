@@ -64,9 +64,9 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 ## Selected Publications:  
  
 ## 2021
-* Yuhui Ma, Jiang Liu, Yonghuai Liu, Huazhu Fu, Yan Hu, **Jun Cheng**, Hong Qi, Yufei Wu, Jiong Zhang, Yitian Zhao, Structure and Illumination Constrained GAN for Medical Image Enhancement, IEEE Transactions on Medical Imaging, 2021.
-* Kang Zhou, Jing Li, Yuting Xiao, Jianlong Yang, **Jun Cheng**, Wen Liu, Weixin Luo, Jiang Liu, Shenghua Gao, Memorizing Structure-Texture Correspondence for Image Anomaly Detection, IEEE Transactions on Neural Networks and Learning Systems, 2021.
-* Pengqian Li, Xiaofen Xing, Xiangmin Xu, Bolun Cai, **Jun Cheng**, Attention-aware Concentrated Network for Saliency Prediction, Neurocomputing,  vol. 429,  pp. 199-214, 2021.
+* Yuhui Ma, Jiang Liu, Yonghuai Liu, Huazhu Fu, Yan Hu, **Jun Cheng**, Hong Qi, Yufei Wu, Jiong Zhang, Yitian Zhao, Structure and Illumination Constrained GAN for Medical Image Enhancement, IEEE Transactions on Medical Imaging (**TMI**) 2021.
+* Kang Zhou, Jing Li, Yuting Xiao, Jianlong Yang, **Jun Cheng**, Wen Liu, Weixin Luo, Jiang Liu, Shenghua Gao, Memorizing Structure-Texture Correspondence for Image Anomaly Detection, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021.
+* Pengqian Li, Xiaofen Xing, Xiangmin Xu, Bolun Cai, **Jun Cheng**, Attention Concentrated Network for Saliency Prediction, Neurocomputing,  vol. 429,  pp. 199-214, 2021.
 ## 2020
 * Ae Ra Kee, Vivien Cherng Hui Yip, Elton Lik Tong Tay, Ching Wei Lim, **Jun Cheng**, Hwei Yee Teo, Chun Hau Chua, Leonard Wei Leon Yip, Comparison of two different optical coherence tomography angiography devices in detecting healthy versus glaucomatous eyes – An observational cross-sectional study, BMC Ophthalmology, 2020.
 * Lei Mou, Yitian Zhao, Huazhu Fu, Yonghuai Liu, Jun Cheng, Yalin Zheng, Pan Su, Jianlong Yang, Li Chen, Alejandro Frangi, Masahiro Akiba, Jiang Liu, CS2-Net:Deep Learning Segmentation of Curvilinear Structures in Medical Imaging, Medical Image Analysis (**MIA**), 2020.
@@ -75,15 +75,15 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Lei Mou, Li Chen,  **Jun Cheng**\*, Zaiwang Gu, Yitian Zhao and Jiang Liu, Dense Dilated Network with Probability Regularized Walk for Vessel Detection, IEEE Trans. On Medical Imaging (**TMI**), vol. 39, no. 5, pp. 1392-1403, 2020
 * Tianyang Zhang, **Jun Cheng**\*, Huazhu Fu, Zaiwang Gu, Yuting Xiao, Kang Zhou, Shenghua Gao, Rui Zheng, Jiang Liu, Noise Adaptation Generative Adversarial Network for Medical Image Analysis, IEEE Trans. On Medical Imaging (**TMI**), vol. 39, no. 4, pp. 1149-1159, 2020. [\[Code\]](https://github.com/NeilZhang-IMED/NAGAN)    
 * Yuming Jiang, Lixin Duan, **Jun Cheng**\*, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li, Jiang Liu, JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation, IEEE Trans. On Biomedical Engineering (**TBME**), vol. 67, no. 2, pp. 335-343, 2020.  
-* Jianlong Yang*, Yan Hu, Liyang Fang, Jun Cheng, Jiang Liu, Universal digital filtering for denoising volumetric retinal OCT and OCT angiography in 3D shearlet domain,  Optics Letters 45(3), 694-697, 2020.
+* Jianlong Yang*, Yan Hu, Liyang Fang, Jun Cheng, Jiang Liu, Universal digital filtering for denoising volumetric retinal OCT and OCT angiography in 3D shearlet domain,  Optics Letters (**OL**) 45(3), 694-697, 2020.
 * Ting Zhou, Jianlong Yang, Kang Zhou, Liyang Fang, Yan Hu, Jun Cheng, Yitian Zhao, Xiangping Chen, Shenghua Gao, and Jiang Liu, Digital resolution enhancement in low transverse sampling optical coherence tomography angiography using deep learning, OSA Continuum,  Vol. 3, Issue 6, pp. 1664-1678, 2020.
-* Kang Zhou, Shenghua Gao, **Jun Cheng**, Zaiwang Gu, Huazhu Fu, Zhi Tu, Jianlong Yang, Yitian Zhao, Jiang Liu, Sparse-GAN: Sparsity-constrained Generative Adversarial Network for Anomaly Detection in Retinal OCT Image, International Symposium on Biomedical Imaging, 2020.
-* Yan Hu, Jianlong Yang, **Jun Cheng**, Jiang Liu, Noise Redistribution and 3D Shearlet Filtering for Speckle Reduction in Optical Coherence Tomography, International Symposium on Biomedical Imaging, 2020.
-* Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Huazhu Fu, Zaiwang Gu, **Jun Cheng**, Zehao Yu, Jiang Liu, SUNet: A Lesion Regularized Model for Simultaneous Diabetic Retinopathy and Diabetic Macular Edema Grading, International Symposium on Biomedical Imaging, 2020.
-* Yuting Xiao, Shenghua Gao, Zhenjie Chai, Kang Zhou, Tianyang Zhang, Yitian Zhao, **Jun Cheng**, Jiang Liu, Open-Set Oct Image Recognition with Synthetic Learning, International Symposium on Biomedical Imaging, 2020.
+* Kang Zhou, Shenghua Gao, **Jun Cheng**, Zaiwang Gu, Huazhu Fu, Zhi Tu, Jianlong Yang, Yitian Zhao, Jiang Liu, Sparse-GAN: Sparsity-constrained Generative Adversarial Network for Anomaly Detection in Retinal OCT Image, International Symposium on Biomedical Imaging  (**ISBI**), 2020.
+* Yan Hu, Jianlong Yang, **Jun Cheng**, Jiang Liu, Noise Redistribution and 3D Shearlet Filtering for Speckle Reduction in Optical Coherence Tomography, International Symposium on Biomedical Imaging  (**ISBI**), 2020.
+* Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Huazhu Fu, Zaiwang Gu, **Jun Cheng**, Zehao Yu, Jiang Liu, SUNet: A Lesion Regularized Model for Simultaneous Diabetic Retinopathy and Diabetic Macular Edema Grading, International Symposium on Biomedical Imaging  (**ISBI**), 2020.
+* Yuting Xiao, Shenghua Gao, Zhenjie Chai, Kang Zhou, Tianyang Zhang, Yitian Zhao, **Jun Cheng**, Jiang Liu, Open-Set Oct Image Recognition with Synthetic Learning, International Symposium on Biomedical Imaging (**ISBI**), 2020.
 ## 2019
 * Qifeng Yan, Mengdi Xu,Damon Wing Kee Wong, Akira Taruya, Atsushi Tanaka, Jiang Liu, Philip Wong, **Jun Cheng***, Automatic Fibroatheroma Identification in Intravascular Optical Coherence Tomography Volumes, Journal of Ambient Intelligence and Humanized Computing, 2019.
-* Zaiwang Gu, **Jun Cheng**\*, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu, vCE-Net: Context Encoder Network for 2D Medical Image Segmentation,
+* Zaiwang Gu, **Jun Cheng**\*, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu, CE-Net: Context Encoder Network for 2D Medical Image Segmentation,
 IEEE Trans. On Medical Imaging (**TMI**), vol. 38, no. 10, pp. 2281-2292, 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/samjcheng/CE-Net)   
 ***MICS 2019 Best poster!*** ***"ESI Highly Cited Paper"*** 
 *  V. C. H. Yip, H. T. Wong, V. K. Y. Yong, B. A. Lim, O. K. Heel, **Jun Cheng**, H. Fu, C. W. Lim, E. L. T. Tay, R. GLoo-Valdez, H. Y. Teo, A. P. H. Lim, L. W. L. Yip,   Optical coherence tomography angiography of optic disc and macular vessel density in glaucoma and healthy eyes, Journal of Glaucoma (**JOG**), Jan;28(1):80-87, 2019.
