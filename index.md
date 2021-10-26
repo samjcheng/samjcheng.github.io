@@ -33,7 +33,7 @@ He is now a senior research scientist in the Institute for Infocomm Research, wo
 
 ## Project:
 * "MOS：A Low Latency and Lightweight Framework for Face Detection, Landmark Localization, and Head Pose Estimation"， 
-Yepeng Liu, Zaiwang Gu, Shenghua Gao, Dong Wang, Yusheng Zeng, **Jun Cheng**\*, BMVC.
+Yepeng Liu, Zaiwang Gu, Shenghua Gao, Dong Wang, Yusheng Zeng, **Jun Cheng**\*, BMVC, 2021.
 [\[Code\]](https://github.com/lyp-deeplearning/MOS-Multi-Task-Face-Detect)  
 ![MOS](MOS.png)
 * "Noise Adaptation Generative Adversarial Network for Medical Image Analysis",
