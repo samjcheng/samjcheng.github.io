@@ -73,7 +73,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 ## 2021
 * Yepeng Liu, Zaiwang Gu, Shenghua Gao, Dong Wang, Yusheng Zeng, **Jun Cheng**, MOS: A Low Latency and Lightweight Framework for Face Detection, Landmark Localization, and Head Pose Estimation, BMVC, 2021.
 * Kang Zhou, Jing Li, Weixin Luo, Zhengxin Li, Jianlong Yang, Huazhu Fu, **Jun Cheng**, Jiang Liu, Shenghua Gao, Proxy-bridged Image Reconstruction Network for Anomaly Detection in Medical Images, IEEE Transactions on Medical Imaging (**TMI**) 2021.
-* Yuhui Ma, Jiang Liu, Yonghuai Liu, Huazhu Fu, Yan Hu, **Jun Cheng**, Hong Qi, Yufei Wu, Jiong , BMVC, 2021.Zhang, Yitian Zhao, Structure and Illumination Constrained GAN for Medical Image Enhancement, IEEE Transactions on Medical Imaging (**TMI**) 2021.
+* Yuhui Ma, Jiang Liu, Yonghuai Liu, Huazhu Fu, Yan Hu, **Jun Cheng**, Hong Qi, Yufei Wu, Jiong Zhang, Yitian Zhao, Structure and Illumination Constrained GAN for Medical Image Enhancement, IEEE Transactions on Medical Imaging (**TMI**) 2021.
 * Kang Zhou, Jing Li, Yuting Xiao, Jianlong Yang, **Jun Cheng**, Wen Liu, Weixin Luo, Jiang Liu, Shenghua Gao, Memorizing Structure-Texture Correspondence for Image Anomaly Detection, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021.
 * Pengqian Li, Xiaofen Xing, Xiangmin Xu, Bolun Cai, **Jun Cheng**, Attention Concentrated Network for Saliency Prediction, Neurocomputing,  vol. 429,  pp. 199-214, 2021.
 ## 2020
