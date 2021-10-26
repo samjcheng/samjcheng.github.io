@@ -32,6 +32,10 @@ He is now a senior research scientist in the Institute for Infocomm Research, wo
 * Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
 
 ## Project:
+* "MOS：A Low Latency and Lightweight Framework for Face Detection, Landmark Localization, and Head Pose Estimation"， 
+Yepeng Liu, Zaiwang Gu, Shenghua Gao, Dong Wang, Yusheng Zeng, **Jun Cheng**\*, BMVC.
+[\[Code\]](https://github.com/lyp-deeplearning/MOS-Multi-Task-Face-Detect)  
+
 * "Noise Adaptation Generative Adversarial Network for Medical Image Analysis",
 Tianyang Zhang, **Jun Cheng**\*, Huazhu Fu, Zaiwang Gu, Yuting Xiao, Kang Zhou, Shenghua Gao, Rui Zheng, Jiang Liu,
 IEEE Transactions on Medical Imaging (**TMI**), vol. 39, no. 4, pp. 1149-1159, 2020.
