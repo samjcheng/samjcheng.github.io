@@ -37,13 +37,13 @@ Yepeng Liu, Zaiwang Gu, Shenghua Gao, Dong Wang, Yusheng Zeng, **Jun Cheng**\*, 
 [\[Code\]](https://github.com/lyp-deeplearning/MOS-Multi-Task-Face-Detect)  
 ![MOS](MOS.png)
 * "Noise Adaptation Generative Adversarial Network for Medical Image Analysis",
-Tianyang Zhang, **Jun Cheng**\*, Huazhu Fu, Zaiwang Gu, Yuting Xiao, Kang Zhou, Shenghua Gao, Rui Zheng, Jiang Liu,
+Tianyang Zhang, **Jun Cheng**\*, et al.,
 IEEE Transactions on Medical Imaging (**TMI**), vol. 39, no. 4, pp. 1149-1159, 2020.
 [\[Code\]](https://github.com/NeilZhang-IMED/NAGAN)    
 ![NAGAN](nagan.png)
 
 * "CE-Net: Context Encoder Network for Medical Image Segmentation", 
-Zaiwang Gu, **Jun Cheng**\*, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu, 
+Zaiwang Gu, **Jun Cheng**\*, et al., 
 IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292, 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/samjcheng/CE-Net)   ***"MICS 2019 Best poster!"*** ***ESI highly cited paper***
 ![CE_NET](ce-net.png)
 
