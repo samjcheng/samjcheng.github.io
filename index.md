@@ -14,6 +14,7 @@ He is now a senior research scientist in the Institute for Infocomm Research, wo
 * Medical Image Computing
 * Robotics
 * Autonomous Vehicle
+ 
 
 ## Academic Services 
 
@@ -55,6 +56,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+* 2021-10: MICCAI 2022 workshop call for proposal: https://conferences.miccai.org/2022/en/CALL-FOR-WORKSHOPS.html
 * 2021-10: One paper "MOS: A Low Latency and Lightweight Framework for Face Detection, Landmark Localization, and Head Pose Estimation" has been accepted by BMVC.
 * 2021-09: One paper "Proxy-bridged Image Reconstruction Network for Anomly Detection in Medical Images" has been accepted by IEEE Transactions on Medical Imaging.
 * 2021-07: One paper "Structure and Illumination Constrained GAN for Medical Image Enhancement" has been accepted by IEEE Transactions on Medical Imaging.
