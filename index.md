@@ -27,6 +27,7 @@ He is now a senior research scientist in the Institute for Infocomm Research, wo
 ### ***Area Chair & Senior PC***:
 *  **MICCAI 2017**
 *  **MICCAI 2019**
+*  **MICCAI 2022**
 *  **AAAI 2022**
 
 ## Professional Membership 
@@ -56,6 +57,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+* 2022-1: Serve as an Area Chair for MICCAI 2022.
 * 2021-10: MICCAI 2022 workshop call for proposal: https://conferences.miccai.org/2022/en/CALL-FOR-WORKSHOPS.html
 * 2021-10: One paper "MOS: A Low Latency and Lightweight Framework for Face Detection, Landmark Localization, and Head Pose Estimation" has been accepted by BMVC.
 * 2021-09: One paper "Proxy-bridged Image Reconstruction Network for Anomly Detection in Medical Images" has been accepted by IEEE Transactions on Medical Imaging.
