@@ -17,16 +17,16 @@ He is now a senior research scientist in the Institute for Infocomm Research, wo
  
 
 ## Academic Services 
-* ### ***Associate Editor***:
+* ***Associate Editor***:
   -  **IEEE Transactions on Medical Imaging** 2015-present
-* ### ***Guest Editor***:
+* ***Guest Editor***:
   -  **IEEE Journal on Biomedical and Health Informatics** Special Issue on Ophthalmic Image Analysis and Informatics, 2019
-* ### ***Area Chair & Senior PC***:
+* ***Area Chair & Senior PC***:
   -  **MICCAI 2017**
   -  **MICCAI 2019**
   -  **MICCAI 2022**
   -  **AAAI 2022**
-* ### ***Workshop Chair***：
+* ***Workshop Chair***：
   -  **MICCAI workshop 2022**
 
 ## Professional Membership 
