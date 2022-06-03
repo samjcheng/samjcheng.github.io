@@ -72,11 +72,10 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * 2020-02: One book "Deep Learning in Medical Image Analysis Challenges and Applications", ISBN 9783030331276 has been published.
  
 ## Selected Publications:  
-
+* Kang Zhou, Jing Li, Yuting Xiao, Jianlong Yang, **Jun Cheng**, Wen Liu, Weixin Luo, Jiang Liu, Shenghua Gao, Memorizing Structure-Texture Correspondence for Image Anomaly Detection, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), vol. 33, no. 6, pp. 2335-2349, 2022.
 * Kang Zhou, Jing Li, Weixin Luo, Zhengxin Li, Jianlong Yang, Huazhu Fu, **Jun Cheng**, Jiang Liu, Shenghua Gao, Proxy-bridged Image Reconstruction Network for Anomaly Detection in Medical Images, IEEE Transactions on Medical Imaging (**TMI**), vol. 41, no. 3, pp. 582-594, March 2022.
 * Yepeng Liu, Zaiwang Gu, Shenghua Gao, Dong Wang, Yusheng Zeng, **Jun Cheng**, MOS: A Low Latency and Lightweight Framework for Face Detection, Landmark Localization, and Head Pose Estimation, BMVC, 2021.
 * Yuhui Ma, Jiang Liu, Yonghuai Liu, Huazhu Fu, Yan Hu, **Jun Cheng**, Hong Qi, Yufei Wu, Jiong Zhang, Yitian Zhao, Structure and Illumination Constrained GAN for Medical Image Enhancement, IEEE Transactions on Medical Imaging (**TMI**) 2021.
-* Kang Zhou, Jing Li, Yuting Xiao, Jianlong Yang, **Jun Cheng**, Wen Liu, Weixin Luo, Jiang Liu, Shenghua Gao, Memorizing Structure-Texture Correspondence for Image Anomaly Detection, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021.
 * Pengqian Li, Xiaofen Xing, Xiangmin Xu, Bolun Cai, **Jun Cheng**, Attention Concentrated Network for Saliency Prediction, Neurocomputing,  vol. 429,  pp. 199-214, 2021.
 * Ae Ra Kee, Vivien Cherng Hui Yip, Elton Lik Tong Tay, Ching Wei Lim, **Jun Cheng**, Hwei Yee Teo, Chun Hau Chua, Leonard Wei Leon Yip, Comparison of two different optical coherence tomography angiography devices in detecting healthy versus glaucomatous eyes – An observational cross-sectional study, BMC Ophthalmology, 2020.
 * Lei Mou, Yitian Zhao, Huazhu Fu, Yonghuai Liu, Jun Cheng, Yalin Zheng, Pan Su, Jianlong Yang, Li Chen, Alejandro Frangi, Masahiro Akiba, Jiang Liu, CS2-Net:Deep Learning Segmentation of Curvilinear Structures in Medical Imaging, Medical Image Analysis (**MIA**), 2020.
