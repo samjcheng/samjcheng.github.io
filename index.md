@@ -2,7 +2,7 @@
 
 ## Institute for Infocomm Research, A\*STAR, Singapore
  
-
+<span style="color:red"> *some emphasized markdown text*</span>
 
 ## Brief Bio:
 Jun Cheng received the B. E. degree in electronic engineering and information science from the University of Science and Technology of China, and the Ph. D. degree in electrical and electronic engineering from Nanyang Technological University, Singapore. 
