@@ -2,7 +2,7 @@
 
 ## Institute for Infocomm Research, A\*STAR, Singapore
  
-<span style="color:red"> *some emphasized markdown text*</span>
+
 
 ## Brief Bio:
 Jun Cheng received the B. E. degree in electronic engineering and information science from the University of Science and Technology of China, and the Ph. D. degree in electrical and electronic engineering from Nanyang Technological University, Singapore. 
@@ -46,7 +46,7 @@ IEEE Transactions on Medical Imaging (**TMI**), vol. 39, no. 4, pp. 1149-1159, 2
 
 * "CE-Net: Context Encoder Network for Medical Image Segmentation", 
 Zaiwang Gu, **Jun Cheng**\*, et al., 
-IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292, 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/samjcheng/CE-Net)   ***MICS 2019 Best poster!*** ***ESI highly cited paper!*** ***The 50 most frequently accessed documents for TMI！***
+IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292, 2019. [\[PDF\]](https://arxiv.org/abs/1903.02740) [\[Code\]](https://github.com/samjcheng/CE-Net)  <span style="color:red"> *ESI highly cited*</span> ***MICS 2019 Best poster!***  ***The 50 most frequently accessed documents for TMI！***
 ![CE_NET](ce-net.png)
 
 
