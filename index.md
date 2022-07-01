@@ -16,7 +16,7 @@ He is now a senior research scientist in the Institute for Infocomm Research, wo
 * Autonomous Vehicle
  
 ## Openning
-* [Chinese CSC Scholarships] (http://www.csc.edu.cn/chuguo): We are also looking for exchange PhD students from China.
+* [Chinese CSC Scholarships] (http://www.csc.edu.cn/chuguo): We are looking for exchange PhD students from China.
 
 ## Academic Services 
 * ***Associate Editor***:
