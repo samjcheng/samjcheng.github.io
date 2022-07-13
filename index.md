@@ -5,15 +5,16 @@
 
 
 ## Brief Bio:
-Jun Cheng received the B. E. degree in electronic engineering and information science from the University of Science and Technology of China, and the Ph. D. degree in electrical and electronic engineering from Nanyang Technological University, Singapore. 
+Jun Cheng received the B. E. degree in electronic engineering and information science from the University of Science and Technology of China, and the Ph. D. degree from Nanyang Technological University, Singapore. 
 
-He is now a senior research scientist in the Institute for Infocomm Research, working on AI for medical, robotics and autonomous vehicles.  His research interests include computer vision, image processing, medical imaging, machine learning. He has authored/co-authored many publications at prestigious journals/conferences, such as TMI, TIP, TBME, IOVS, JAMIA, MICCAI, CVPR and invented more than 10 patents. He has received the IES Prestigious Engineering Achievement Award 2013. He serves as reviewers for many journal/conferences and area chairs for MICCAI. He is currently associate editor for IEEE Transaction on Medical Imaging. 
+He is now a senior research scientist in the Institute for Infocomm Research, working on AI for medical imaging, robotics and automation. He has authored/co-authored many publications at prestigious journals/conferences, such as TMI, TIP, TBME, IOVS, JAMIA, MICCAI, CVPR and invented more than 10 patents. He has received the IES Prestigious Engineering Achievement Award 2013. He serves as reviewers for many journal/conferences and area chairs for MICCAI. He is currently associate editor for IEEE Transaction on Medical Imaging. 
 
 ## Research Interest: 
 * Computer Vision
 * Medical Image Computing
 * Robotics
-* Autonomous Vehicle
+* Machine Learning
+
  
 ## Openning
 * [Chinese CSC Scholarships](http://www.csc.edu.cn/chuguo): We are looking for exchange PhD students from China.
