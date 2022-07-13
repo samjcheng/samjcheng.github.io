@@ -17,7 +17,7 @@ He is now a senior research scientist in the Institute for Infocomm Research, wo
  
 ## Openning
 * [Chinese CSC Scholarships](http://www.csc.edu.cn/chuguo): We are looking for exchange PhD students from China.
-
+* [A\*STAR SINGA Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa): We are looking for PhD candiates.
 ## Academic Services 
 * ***Associate Editor***:
     -  **IEEE Transactions on Medical Imaging** 2015-present
