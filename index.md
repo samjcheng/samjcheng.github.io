@@ -38,8 +38,8 @@ He is now a senior research scientist in the Institute for Infocomm Research, wo
 * Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
 
 ## Research Grants:
-* Co-Principal Investigator: Weakly Supervised Learning by Joint Convolutional and Graph Networks for Non-linear Medical Image Registration, A*STAR AI3 HTPO Seed Fund, 2022-2023.
-* Co-Principal Investigator: Spatial Transcriptomics in Conjuction with Graph Neural Networks for Cell-Cell Interaction,A*STAR AI3 HTPO Seed Fund, 2022-2024.
+*  Weakly Supervised Learning by Joint Convolutional and Graph Networks for Non-linear Medical Image Registration, A*STAR AI3 HTPO Seed Fund, 2022-2023.
+*  Spatial Transcriptomics in Conjuction with Graph Neural Networks for Cell-Cell Interaction,A*STAR AI3 HTPO Seed Fund, 2022-2024.
 
 ## Highlighted Outcome:
 
@@ -73,6 +73,9 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * 2021-09: One paper "Proxy-bridged Image Reconstruction Network for Anomly Detection in Medical Images" has been accepted by IEEE Transactions on Medical Imaging.
 * 2021-07: One paper "Structure and Illumination Constrained GAN for Medical Image Enhancement" has been accepted by IEEE Transactions on Medical Imaging.
 * 2021-07: One paper "Memorizing Structure-Texture Correspondence for Image Anomaly Detection" has been accepted by IEEE Transactions on Neural Networks and Learning Systems. 
+## Awards:
+* IEEE TMI Distinguished Reviewer, 2021.
+* IES Prestigious Engineering Achievement Award, 2013.
 
 ## Selected Publications:  
 * Kang Zhou, Jing Li, Yuting Xiao, Jianlong Yang, **Jun Cheng**, Wen Liu, Weixin Luo, Jiang Liu, Shenghua Gao, Memorizing Structure-Texture Correspondence for Image Anomaly Detection, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), vol. 33, no. 6, pp. 2335-2349, 2022.
