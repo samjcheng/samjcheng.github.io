@@ -37,7 +37,12 @@ He is now a senior research scientist in the Institute for Infocomm Research, wo
 ## Professional Membership 
 * Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
 
-## Project:
+## Current Projects:
+* Weakly Supervised Learning by Joint Convolutional and Graph Networks for Non-linear Medical Image Registration
+* Spatial Transcriptomics in Conjuction with Graph Neural Networks for Cell-Cell Interaction
+
+## Past Projects:
+
 * "MOS：A Low Latency and Lightweight Framework for Face Detection, Landmark Localization, and Head Pose Estimation"， 
 Yepeng Liu, Zaiwang Gu, Shenghua Gao, Dong Wang, Yusheng Zeng, **Jun Cheng**\*, BMVC, 2021.
 [\[Code\]](https://github.com/lyp-deeplearning/MOS-Multi-Task-Face-Detect)  
