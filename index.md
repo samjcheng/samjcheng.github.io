@@ -41,7 +41,7 @@ He is now a senior research scientist in the Institute for Infocomm Research, wo
 * Co-Principal Investigator: Weakly Supervised Learning by Joint Convolutional and Graph Networks for Non-linear Medical Image Registration, A*STAR AI3 HTPO Seed Fund, 2022-2023.
 * Co-Principal Investigator: Spatial Transcriptomics in Conjuction with Graph Neural Networks for Cell-Cell Interaction,A*STAR AI3 HTPO Seed Fund, 2022-2024.
 
-## Past Projects:
+## Highlighted Outcome:
 
 * "MOS：A Low Latency and Lightweight Framework for Face Detection, Landmark Localization, and Head Pose Estimation"， 
 Yepeng Liu, Zaiwang Gu, Shenghua Gao, Dong Wang, Yusheng Zeng, **Jun Cheng**\*, BMVC, 2021.
