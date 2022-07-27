@@ -68,15 +68,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * 2021-09: One paper "Proxy-bridged Image Reconstruction Network for Anomly Detection in Medical Images" has been accepted by IEEE Transactions on Medical Imaging.
 * 2021-07: One paper "Structure and Illumination Constrained GAN for Medical Image Enhancement" has been accepted by IEEE Transactions on Medical Imaging.
 * 2021-07: One paper "Memorizing Structure-Texture Correspondence for Image Anomaly Detection" has been accepted by IEEE Transactions on Neural Networks and Learning Systems. 
-* 2020-11: One paper "Attention-aware Concentrated Network for Saliency Prediction" has been accepted by Neurocomputing.
-* 2020-10: One paper "Comparison of two different optical coherence tomography angiography devices in detecting healthy versus glaucomatous eyes – An observational cross-sectional study" has been accepted by BMC Ophthalmology.
-* 2020-10：One paper "CS2-Net:Deep Learning Segmentation of Curvilinear Structures in Medical Imaging" has been accepted by Medical Image Analysis.
-* 2020-07: Our paper "CE-Net: Context Encoder Network for 2D Medical Image Segmentation becomes an "ESI Highly Cited Paper".
-* 2020-07：One paper "Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images" has been accepted by ECCV 2020.
-* 2020-06：One paper "Cycle Structure and Illumination Constrained GAN for Medical Image Enhancement" has been accepted by MICCAI 2020.
-* 2020-05：One paper "Digital resolution enhancement in low transverse sampling optical coherence tomography angiography using deep learning" accepted by OSA Continuum.
-* 2020-02: One book "Deep Learning in Medical Image Analysis Challenges and Applications", ISBN 9783030331276 has been published.
- 
+
 ## Selected Publications:  
 * Kang Zhou, Jing Li, Yuting Xiao, Jianlong Yang, **Jun Cheng**, Wen Liu, Weixin Luo, Jiang Liu, Shenghua Gao, Memorizing Structure-Texture Correspondence for Image Anomaly Detection, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), vol. 33, no. 6, pp. 2335-2349, 2022.
 * Kang Zhou, Jing Li, Weixin Luo, Zhengxin Li, Jianlong Yang, Huazhu Fu, **Jun Cheng**, Jiang Liu, Shenghua Gao, Proxy-bridged Image Reconstruction Network for Anomaly Detection in Medical Images, IEEE Transactions on Medical Imaging (**TMI**), vol. 41, no. 3, pp. 582-594, March 2022.
