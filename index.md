@@ -37,9 +37,9 @@ He is now a senior research scientist in the Institute for Infocomm Research, wo
 ## Professional Membership 
 * Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
 
-## Current Projects:
-* Weakly Supervised Learning by Joint Convolutional and Graph Networks for Non-linear Medical Image Registration
-* Spatial Transcriptomics in Conjuction with Graph Neural Networks for Cell-Cell Interaction
+## Research Grants:
+* Co-Principal Investigator: Weakly Supervised Learning by Joint Convolutional and Graph Networks for Non-linear Medical Image Registration, A*STAR AI3 HTPO Seed Fund, 2022-2023.
+* Co-Principal Investigator: Spatial Transcriptomics in Conjuction with Graph Neural Networks for Cell-Cell Interaction,A*STAR AI3 HTPO Seed Fund, 2022-2024.
 
 ## Past Projects:
 
