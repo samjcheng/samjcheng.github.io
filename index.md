@@ -67,6 +67,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+* 2022-08: Be invited to serve as Area Chair for ICLR 2023
 * 2022-07: Be invited to serve as Associate Editor for IEEE TIP.
 * 2022-01: Serve as an Area Chair for MICCAI 2022.
 * 2021-10: MICCAI 2022 workshop call for proposal: https://conferences.miccai.org/2022/en/CALL-FOR-WORKSHOPS.html
