@@ -7,7 +7,7 @@
 ## Brief Bio:
 Jun Cheng received the B. E. degree in electronic engineering and information science from the University of Science and Technology of China, and the Ph. D. degree from Nanyang Technological University, Singapore. 
 
-He is now a senior research scientist in the Institute for Infocomm Research, working on AI for medical imaging, robotics and automation. He has authored/co-authored many publications at prestigious journals/conferences, such as TMI, TIP, TBME, IOVS, JAMIA, MICCAI, CVPR and invented more than 10 patents. He has received the IES Prestigious Engineering Achievement Award 2013. He serves as reviewers for many journal/conferences and area chairs for MICCAI. He is currently associate editor for IEEE Transaction on Medical Imaging. 
+He is now a senior research scientist in the Institute for Infocomm Research, working on AI for medical imaging, robotics and automation. He has authored/co-authored many publications at prestigious journals/conferences, such as TMI, TIP, TBME, IOVS, JAMIA, MICCAI, CVPR and invented more than 10 patents. He has received the IES Prestigious Engineering Achievement Award 2013. He serves as reviewers for many journal/conferences and area chairs/senior PC for MICCAI, ICLR, AAAI. He is currently associate editor for IEEE Transactions on Medical Imaging and IEEE Transactions on Image Processing. 
 
 ## Research Interest: 
 * Computer Vision
