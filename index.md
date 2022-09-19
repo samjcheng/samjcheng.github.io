@@ -81,7 +81,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * IES Prestigious Engineering Achievement Award, 2013.
 
 ## Selected Publications:  
-
+* Kan Wang, Shuping Hu, Jun Cheng, **Jun Cheng**, Jianxin Pang, Huan Tan, RA Loss: Relation-Aware Loss for Robust Person Re-identification, ACCV 2022.
 * Shuping Hu, Kan Wang, **Jun Cheng**, Huan Tan, and Jianxin Pang, Triplet Ratio Loss for Robust Person Re-identification, PRCV 2022.
 * Kang Zhou, Jing Li, Yuting Xiao, Jianlong Yang, **Jun Cheng**, Wen Liu, Weixin Luo, Jiang Liu, Shenghua Gao, Memorizing Structure-Texture Correspondence for Image Anomaly Detection, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), vol. 33, no. 6, pp. 2335-2349, 2022.
 * Kang Zhou, Jing Li, Weixin Luo, Zhengxin Li, Jianlong Yang, Huazhu Fu, **Jun Cheng**, Jiang Liu, Shenghua Gao, Proxy-bridged Image Reconstruction Network for Anomaly Detection in Medical Images, IEEE Transactions on Medical Imaging (**TMI**), vol. 41, no. 3, pp. 582-594, March 2022.
