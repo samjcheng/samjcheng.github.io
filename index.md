@@ -67,6 +67,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+* 2022-10: Happy to be 'Top 2% Scientists Worldwide', identified by Stanford University, 2022. https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw
 * 2022-09: One paper "RA Loss: Relation-Aware Loss for Robust Person Re-identification" has been accepted by ACCV..
 * 2022-08: Be invited to serve as Area Chair for ICLR 2023
 * 2022-07: Be invited to serve as Associate Editor for IEEE TIP.
