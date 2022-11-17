@@ -67,7 +67,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
-* 2022-10: Happy to be 'Top 2% Scientists Worldwide', identified by Stanford University, 2022. https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw
+* 2022-10: Happy to be 'Top 2% Scientists Worldwide' in the area of artificial intelligence & image processing, identified by Stanford University, 2022. https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw
 * 2022-09: One paper "RA Loss: Relation-Aware Loss for Robust Person Re-identification" has been accepted by ACCV..
 * 2022-08: Be invited to serve as Area Chair for ICLR 2023
 * 2022-07: Be invited to serve as Associate Editor for IEEE TIP.
@@ -77,9 +77,10 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * 2021-09: One paper "Proxy-bridged Image Reconstruction Network for Anomly Detection in Medical Images" has been accepted by IEEE Transactions on Medical Imaging.
 * 2021-07: One paper "Structure and Illumination Constrained GAN for Medical Image Enhancement" has been accepted by IEEE Transactions on Medical Imaging.
 * 2021-07: One paper "Memorizing Structure-Texture Correspondence for Image Anomaly Detection" has been accepted by IEEE Transactions on Neural Networks and Learning Systems. 
-## Awards:
+## Research Awards & Recognition:
 * IEEE TMI Platinum Distinguished Reviewer, 2020-2022.
 * IES Prestigious Engineering Achievement Award, 2013.
+* World's Top 2% Scientists, Artificial Intelligence & Image Processing, Stanford University, 2022.
 
 ## Selected Publications:  
 * Kan Wang, Shuping Hu, Jun Cheng, **Jun Cheng**, Jianxin Pang, Huan Tan, RA Loss: Relation-Aware Loss for Robust Person Re-identification, ACCV 2022.
