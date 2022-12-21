@@ -39,9 +39,9 @@ He is now a senior research scientist in the Institute for Infocomm Research, wo
 * Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
 
 ## Research Grants:
-*  AI-based OCT Angiography for Non-Invasive Capillary Blood Flow Imaging, A\*STAR AI3 HTPO Seed Fund, 2023-2025.
-*  Weakly Supervised Learning by Joint Convolutional and Graph Networks for Non-linear Medical Image Registration, A\*STAR AI3 HTPO Seed Fund, 2022-2023.
-*  Spatial Transcriptomics in Conjuction with Graph Neural Networks for Cell-Cell Interaction,A\*STAR AI3 HTPO Seed Fund, 2022-2024.
+*  AI-based OCT Angiography for Non-Invasive Capillary Blood Flow Imaging, A\*STAR AI3 HTPO Seed Fund, PI, 2023-2025.
+*  Weakly Supervised Learning by Joint Convolutional and Graph Networks for Non-linear Medical Image Registration, A\*STAR AI3 HTPO Seed Fund, Co-I, 2022-2023.
+*  Spatial Transcriptomics in Conjuction with Graph Neural Networks for Cell-Cell Interaction,A\*STAR AI3 HTPO Seed Fund, Co-I, 2022-2024.
 
 ## Highlighted Outcome:
 
