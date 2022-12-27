@@ -79,9 +79,9 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * 2021-07: One paper "Structure and Illumination Constrained GAN for Medical Image Enhancement" has been accepted by IEEE Transactions on Medical Imaging.
 * 2021-07: One paper "Memorizing Structure-Texture Correspondence for Image Anomaly Detection" has been accepted by IEEE Transactions on Neural Networks and Learning Systems. 
 ## Research Awards & Recognition:
+* World's Top 2% Scientists, Artificial Intelligence & Image Processing, Stanford University, 2022.
 * IEEE TMI Platinum Distinguished Reviewer, 2020-2022.
 * IES Prestigious Engineering Achievement Award, 2013.
-* World's Top 2% Scientists, Artificial Intelligence & Image Processing, Stanford University, 2022.
 
 ## Selected Publications:  
 * Kan Wang, Shuping Hu, Jun Cheng, **Jun Cheng**, Jianxin Pang, Huan Tan, RA Loss: Relation-Aware Loss for Robust Person Re-identification, ACCV 2022.
