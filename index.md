@@ -68,8 +68,9 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+* 2022-12: One paper "CPP-Net: Context-aware Polygon Proposal Network for Nucleus Segmentation" has been accepted by TIP.
 * 2022-10: Happy to be 'Top 2% Scientists Worldwide' in the area of artificial intelligence & image processing, identified by Stanford University, 2022. https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw
-* 2022-09: One paper "RA Loss: Relation-Aware Loss for Robust Person Re-identification" has been accepted by ACCV..
+* 2022-09: One paper "RA Loss: Relation-Aware Loss for Robust Person Re-identification" has been accepted by ACCV.
 * 2022-08: Be invited to serve as Area Chair for ICLR 2023
 * 2022-07: Be invited to serve as Associate Editor for IEEE TIP.
 * 2022-01: Serve as an Area Chair for MICCAI 2022.
@@ -84,6 +85,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * IES Prestigious Engineering Achievement Award, 2013.
 
 ## Selected Publications:  
+* Shengcong Chen, Changxing Ding, Minfeng Liu, Jun Cheng, Dacheng Tao, CPP-Net: Context-aware Polygon Proposal Network for Nucleus Segmentation, IEEE TIP, 2022.
 * Kan Wang, Shuping Hu, Jun Cheng, **Jun Cheng**, Jianxin Pang, Huan Tan, RA Loss: Relation-Aware Loss for Robust Person Re-identification, ACCV 2022.
 * Shuping Hu, Kan Wang, **Jun Cheng**, Huan Tan, and Jianxin Pang, Triplet Ratio Loss for Robust Person Re-identification, PRCV 2022.
 * Kang Zhou, Jing Li, Yuting Xiao, Jianlong Yang, **Jun Cheng**, Wen Liu, Weixin Luo, Jiang Liu, Shenghua Gao, Memorizing Structure-Texture Correspondence for Image Anomaly Detection, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), vol. 33, no. 6, pp. 2335-2349, 2022.
