@@ -68,6 +68,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+* 2023-01: One paper "CLC-Net: Contextual and Local Collaborative Network for Lesion Segmentation in Diabetic Retinopathy Images" has been accepted by Neurocomputing.
 * 2022-12: One paper "CPP-Net: Context-aware Polygon Proposal Network for Nucleus Segmentation" has been accepted by TIP.
 * 2022-10: Happy to be 'Top 2% Scientists Worldwide' in the area of artificial intelligence & image processing, identified by Stanford University, 2022. https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw
 * 2022-09: One paper "RA Loss: Relation-Aware Loss for Robust Person Re-identification" has been accepted by ACCV.
@@ -85,6 +86,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * IES Prestigious Engineering Achievement Award, 2013.
 
 ## Selected Publications:  
+
 * Shengcong Chen, Changxing Ding, Minfeng Liu, Jun Cheng, Dacheng Tao, CPP-Net: Context-aware Polygon Proposal Network for Nucleus Segmentation, IEEE TIP, 2022.
 * Kan Wang, Shuping Hu, Jun Cheng, **Jun Cheng**, Jianxin Pang, Huan Tan, RA Loss: Relation-Aware Loss for Robust Person Re-identification, ACCV 2022.
 * Shuping Hu, Kan Wang, **Jun Cheng**, Huan Tan, and Jianxin Pang, Triplet Ratio Loss for Robust Person Re-identification, PRCV 2022.
