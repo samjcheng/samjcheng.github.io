@@ -86,7 +86,7 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * IES Prestigious Engineering Achievement Award, 2013.
 
 ## Selected Publications:  
-
+* Xiyue Wang, Yuqi Fang, Sen Yang, Delong Zhu, Minghui Wang, Jing Zhang, Jun Zhang, Jun Cheng, Kai-yu Tong, Xiao Han, CLC-Net: Contextual and Local Collaborative Network for Lesion Segmentation in Diabetic Retinopathy Images", Neurocomputing, 2023.
 * Shengcong Chen, Changxing Ding, Minfeng Liu, Jun Cheng, Dacheng Tao, CPP-Net: Context-aware Polygon Proposal Network for Nucleus Segmentation, IEEE TIP, 2022.
 * Kan Wang, Shuping Hu, Jun Cheng, **Jun Cheng**, Jianxin Pang, Huan Tan, RA Loss: Relation-Aware Loss for Robust Person Re-identification, ACCV 2022.
 * Shuping Hu, Kan Wang, **Jun Cheng**, Huan Tan, and Jianxin Pang, Triplet Ratio Loss for Robust Person Re-identification, PRCV 2022.
