@@ -69,6 +69,8 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
+* 2023-01: Server as Area Chiar for MICCAI 2023.
+* 2023-01：Happy to be PI of A\*STAR AI3 HTPO Seed Fund.
 * 2023-01: One paper "CLC-Net: Contextual and Local Collaborative Network for Lesion Segmentation in Diabetic Retinopathy Images" has been accepted by Neurocomputing.
 * 2022-12: One paper "CPP-Net: Context-aware Polygon Proposal Network for Nucleus Segmentation" has been accepted by TIP.
 * 2022-10: Happy to be 'Top 2% Scientists Worldwide' in the area of artificial intelligence & image processing, identified by Stanford University, 2022. https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw
