@@ -31,6 +31,7 @@ He is now a senior research scientist in the Institute for Infocomm Research, wo
     -  **MICCAI (2017, 2019, 2022, 2023)**
     -  **AAAI 2022**
     -  **ICLR 2023**
+    -  **NeurIPS 2023**
 * ***Chair***:
     -  **MICCAI workshop 2022**
 
@@ -67,7 +68,8 @@ IEEE Transactions on Medical Imaging (**TMI**),  vol. 38, no. 10, pp. 2281-2292,
 * Structure-preserving guided retinal image filtering and its application for optic disc analysis, MICS 2019.
 
 ## News:  
-* 2023-01: Server as Area Chair for MICCAI 2023.
+* 2023-03: Serve as Area Chiar for NeurIPS 2023.
+* 2023-01: Serve as Area Chair for MICCAI 2023.
 * 2023-01：Happy to be PI of A\*STAR AI3 HTPO Seed Fund.
 * 2023-01: One paper "CLC-Net: Contextual and Local Collaborative Network for Lesion Segmentation in Diabetic Retinopathy Images" has been accepted by Neurocomputing.
 * 2022-12: One paper "CPP-Net: Context-aware Polygon Proposal Network for Nucleus Segmentation" has been accepted by TIP.
