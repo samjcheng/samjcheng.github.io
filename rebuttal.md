@@ -38,12 +38,12 @@ The rest of results in Table 3 use “Canny Edges”. The ablation study in Tabl
 
 Methods|RTNet |PSMNet| GwcNet | ACVNet  
 ---- | ---- |---- |---- |----  
-Baseline|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5 
-Multi-task|<p> EPE <p> D1 | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
-Concat|<p> EPE <p> D1 | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5 
-EA|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
-SA|EPE  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5 
-Proposed|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
+Baseline|     0.44 | 0.45| 0.46 
+Multi-task|  0.44 | 0.45| 0.46 
+Concat|  0.44 | 0.45| 0.46 
+EA| | 0.44 | 0.45| 0.46 
+SA | 0.44 | 0.45| 0.46 
+Proposed|  0.44 | 0.45| 0.46 
  
 
 
