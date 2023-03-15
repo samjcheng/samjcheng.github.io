@@ -32,9 +32,20 @@ Why there is no change in the network from scratch?
 We try not to change the network of existing methods from two reasons. The first reason is that the regularization term can be easily applied to almost any existing methods without extra computational time in inference stage. This is actually very important as the models may need to be deployed at edge side with limited computational resources.  The second reason is that our experimental results show that current design works better than other forms of regularization. Actually, if the output of the regularization branch is further used by the disparity estimation branch as in option (b) or (c), we obtained lower performance compared our design. Moreover, when the output of the regularization term (take the edge as an example), there is a concern that the edge information may lead to some artifact in the disparity map. 
 
 
-•Key-point based regularization - I am a little confused from the paper - which experiments include the key-points as the "physical regularization" and which include the Canny edges? do some experiments include both?
+Key-point based regularization - I am a little confused from the paper - which experiments include the key-points as the "physical regularization" and which include the Canny edges? do some experiments include both?
 In Table 3, the third row “Super Point” is a case we use key-point as physical regularization.  
-The rest of results in Table 3 use “Canny Edges”. The ablation study in Table 3 is to show that aggregation module is effective and that the physical regularization (or low-level structure regularization) using Canny Edge or key-points are effective. More results are provided here when we use key-point in different network structures (EA, Concat, etc.). 
+The rest of results in Table 3 use “Canny Edges”. The ablation study in Table 3 is to show that aggregation module is effective and that the physical regularization (or low-level structure regularization) using Canny Edge or key-points are effective. Here we provide more results when we use key-point in different network structures (EA, Concat, etc.). 
+
+Methods|RTNet |PSMNet| GwcNet | ACVNet  
+---- | ---- |---- |---- |----  
+Baseline|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5 
+Multi-task|<p> EPE <p> D1 | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
+Concat|<p> EPE <p> D1 | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5 
+EA|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
+SA|EPE  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5 
+Proposed|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
+ 
+
 
 •Justification for the "disparity aggregation" block in the paper. Specifically, is there a gradual increase of complexity from option (a) to (e) in Figure 2? For example: "option (a) is the most straightforward way to make a stub-loss, (b)+(c) are non-stub (why?), and the last two are based on concatenation". Specifically, the "jump" from (d) to the selected method (e) is not clear to me. I would advise to elaborate here.
 We thank the reviewer for raising this question, which helps us to clarify our motivation and experimental design better. Option (a) is the most-straightforward where we want to that a simple multi-task learning would improve the method. However, as there exists some correlation (a sudden change in disparity may indicate an edge in RGB image but not vice versa ) between “edge” and the disparity map, we want to investigate if we can make use of this observation. The design (b) is to add the “edge” into disparity estimation, this is similar to some earlier methods where edge in RGB are used to guide or smooth the disparity map. This actually lead to artefact or unnatural edge in disparity map, which is also a limitation of EdgeStereo. Option (d) is a case where disparity map to guide edge detection via a simple concatenation. The comparison between (d) and (e) is to show that an aggregation between disparity output and edge features (feature to compute edges) are better than simple concatenation. The option (c) is to make use mutual guide between edge and disparity using a SA gate. From these studies, we want to show quantitatively that using edges to guide the disparity estimation can damage the performance compared with the case to use disparity to guide the edge detection. Our further results suggest that this observation still stands if we change “edges” to key-point. 
