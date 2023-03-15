@@ -25,7 +25,7 @@ ACVNet+SPR|EPE  | 0.44 | 0.45| 0.46
             
            # Reviewer UYwZ
 
-We thank the reviewer for the detailed comments which are useful for us to improve our manuscript. We appreciate your careful reading and insightful advice to our paper. We hope to address your concerns with additional experiments
+We thank the reviewer for the detailed comments which are useful for us to improve our manuscript. We appreciate your careful reading and insightful advice to our paper. We hope to address your concerns with additional experiments.
             
 #### Question 1: I am curious about the choice of edge information and loss function. Does any other low-level information work for stereo matching?
 Reply 1: The choice of different edge information in the regularization term does not affect much the performance improvement. Actually, we compared Canny edge with ideal ground truth edge (computed from the annotation) in Scene Flow dataset and our results show that the performance improvements are comparable. We further applied Sobel edge and obtained similar results. Please noted that when key-points (using SuperPoint algorithms) are used, we also get similar improvement. 
@@ -48,6 +48,8 @@ Reply 4: We have also tested the cross-dataset generalization. We test our model
             
 We do not agree with the comments that “proposing a regularization is not that good an advancement” and the comments that stereo matching is “an already solved problem”. In fact, our results show that we can improve the trained model by imposing a regularization in the training stage without changing its architecture in inference stage. In some situation, the improvement can be as large as 41.3% (e.g, EPE droped from 1.09 to 0.64 in PSMNet). 
 
+Some reported results from the leaderboard do not come with codes or published paper yet and it is therefore challenge for us the compare with these algorithms. In our paper, we choose four different published algorithms from different stages/objectives to justify the genearlity of the method. The RTNet is chosen as it is a representative algorithm designed for edge side deployment. PSMNet is chosen as it is one of early attemp to use deep learning for stereo matching. GwcNet and ACVNet are chosen as they are from recent publications. In particular, ACVNet outperforms most existing published methods and ranks No.2 in KITTI 2012 and KITTI 2015 leaderboards at the time of publication of the paper. It is worth mentioning that the ACVNet is also the fastest among the top 10 methods in the KITTI benchmark leaderboards. Therefore, we chose ACVNet as one of most competetive algorthms.  
+            
 #### Question 1: What is the motivation to propose this small tweak to major networks for this problem?
 Reply 1: Our motivation to impose a regularization is inspired from the fact that the purely data-driven model optimized for stereo matching may lead to a representation that is often locally optimal and biased to the training data. By introducing additional constraints from low-level information, we expect to change the convergence of the model. Our experimental results suggest that we are able to obtain some improvement when combined with different baseline approaches. 
             
