@@ -72,8 +72,8 @@ Proposed|  0.44 | 0.45| 0.46 | 0.46
             
 #### Question 2: Address the two limitations stated below
 #### 2.1:	Failure cases - in what cases is this approach not beneficial? Specifically, why did the method decrease the results in cases like:
- 	###### The 3-noc and 3- all for GwcNet in KITTI 2012
- 	###### The D1-fg for GwcNet in KITTI 2015
+##### The 3-noc and 3- all for GwcNet in KITTI 2012
+##### The D1-fg for GwcNet in KITTI 2015
 
 Reply 2.1 : Our approach essentially changes the convergence of the model by imposing the regularization term. However, there is no guarantee that the new converged model is always better than previous one without the regularization. Therefore, there exist cases where the new model is similar to previous model if the previous model is not over-fitted or the over-fitting is not serious. This is also a reason that the improvement in GwcNet happen to be smaller and even drop slightly.
 
