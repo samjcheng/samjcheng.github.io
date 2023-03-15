@@ -70,8 +70,7 @@ EA|   0.44 | 0.45| 0.46 | 0.46
 SA | 0.44 | 0.45| 0.46 | 0.46
 Proposed|  0.44 | 0.45| 0.46 | 0.46
             
-#### Question 2:
-Address the two limitations stated below
+#### Question 2: Address the two limitations stated below
 2.1:	Failure cases - in what cases is this approach not beneficial? Specifically, why did the method decrease the results in cases like:
 o	The 3-noc and 3- all for GwcNet in KITTI 2012
 o	The D1-fg for GwcNet in KITTI 2015
