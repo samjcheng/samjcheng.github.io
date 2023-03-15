@@ -25,7 +25,7 @@ ACVNet+SPR|EPE  | 0.44 | 0.45| 0.46
 
 We do not agree with the comments that “proposing a regularization is not that good an advancement” and the comments that stereo matching is “an already solved problem”. In fact, our results show that we can improve the trained model by imposing a regularization in the training stage without changing its architecture in inference stage. In some situation, the improvement can be as large as 41.3% (e.g, EPE droped from 1.09 to 0.64 in PSMNet). 
 
-# Question 1: What is the motivation to propose this small tweak to major networks for this problem?
+#### Question 1: What is the motivation to propose this small tweak to major networks for this problem?
 Reply 1: Our motivation to impose a regularization is inspired from the fact that the purely data-driven model optimized for stereo matching may lead to a representation that is often locally optimal and biased to the training data. By introducing additional constraints from low-level information, we expect to change the convergence of the model. Our experimental results suggest that we are able to obtain some improvement when combined with different baseline approaches. 
             
 Question 2: Why there is no change in the network from scratch?
