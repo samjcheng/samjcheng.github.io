@@ -28,7 +28,7 @@ We do not agree with the comments that “proposing a regularization is not that
 #### Question 1: What is the motivation to propose this small tweak to major networks for this problem?
 Reply 1: Our motivation to impose a regularization is inspired from the fact that the purely data-driven model optimized for stereo matching may lead to a representation that is often locally optimal and biased to the training data. By introducing additional constraints from low-level information, we expect to change the convergence of the model. Our experimental results suggest that we are able to obtain some improvement when combined with different baseline approaches. 
             
-#### Question 2:#### Why there is no change in the network from scratch?
+#### Question 2: Why there is no change in the network from scratch?
 Reply 2: We try not to change the network of existing methods from two reasons. The first reason is that the regularization term can be easily applied to almost any existing methods without extra computational time in inference stage. This is actually very important as the models may need to be deployed at edge side with limited computational resources.  The second reason is that our experimental results show that current design works better than other forms of regularization. Actually, if the output of the regularization branch is further used by the disparity estimation branch as in option (b) or (c), we obtained lower performance compared our design. Moreover, when the output of the regularization term (take the edge as an example), there is a concern that the edge information may lead to some artifact in the disparity map. 
 
 
