@@ -23,7 +23,7 @@ Gwcet+SPR|EPE  | 0.44 | 0.45| 0.46
 ACVNet|EPE  | 0.44 | 0.45| 0.46
 ACVNet+SPR|EPE  | 0.44 | 0.45| 0.46
             
-           # Reviewer UYwZ
+# Reviewer UYwZ
 
 We thank the reviewer for the detailed comments which are useful for us to improve our manuscript. We appreciate your careful reading and insightful advice to our paper. We hope to address your concerns with additional experiments.
             
@@ -41,14 +41,12 @@ Reply 3: In our methods (option d in Figure xx), we actually don’t use edge to
 Reply 4: We have also tested the cross-dataset generalization. We test our models trained from Sceneflow datasets and tested on ETH3D and Mxxx datasets, the results show that the cross-dataset performances are also improved by the regularization. 
  
             
-#### Question 2: 
+
             
 # Reviewer EgaM
+We thank the reviewer for the time and effort to review our work. However, we do not agree with the comments that “proposing a regularization is not that good an advancement” and the comments that stereo matching is “an already solved problem”. In fact, our results show that we can improve the trained model by imposing a regularization in the training stage without changing its architecture in inference stage. In some situation, the improvement can be as large as 41.3% (e.g, EPE droped from 1.09 to 0.64 in PSMNet). 
 
-            
-We do not agree with the comments that “proposing a regularization is not that good an advancement” and the comments that stereo matching is “an already solved problem”. In fact, our results show that we can improve the trained model by imposing a regularization in the training stage without changing its architecture in inference stage. In some situation, the improvement can be as large as 41.3% (e.g, EPE droped from 1.09 to 0.64 in PSMNet). 
-
-Some reported results from the leaderboard do not come with codes or published paper yet and it is therefore challenge for us the compare with these algorithms. In our paper, we choose four different published algorithms from different stages/objectives to justify the genearlity of the method. The RTNet is chosen as it is a representative algorithm designed for edge side deployment. PSMNet is chosen as it is one of early attemp to use deep learning for stereo matching. GwcNet and ACVNet are chosen as they are from recent publications. In particular, ACVNet outperforms most existing published methods and ranks No.2 in KITTI 2012 and KITTI 2015 leaderboards at the time of publication of the paper. It is worth mentioning that the ACVNet is also the fastest among the top 10 methods in the KITTI benchmark leaderboards. Therefore, we chose ACVNet as one of most competetive algorthms.  
+The reviewer also suggested us to compare with the algorithms from the leaderboard of KITTI 2015. However, some reported results from the leaderboard do not come with codes and are unpublished. It is therefore challenge for us the compare with these algorithms. In our paper, we choose four different published algorithms from different stages/objectives to justify the genearlity of our method. The RTNet is chosen as it is a representative algorithm designed for edge side deployment. PSMNet is chosen as it is one of early attemp to use deep learning for stereo matching. GwcNet and ACVNet are chosen as they are from recent publications. In particular, ACVNet outperforms most existing published methods and ranks No.2 in KITTI 2012 and KITTI 2015 leaderboards at the time of publication of the paper. It is worth mentioning that the ACVNet is also the fastest among the top 10 methods in the KITTI benchmark leaderboards. Therefore, we chose ACVNet as one of most competetive algorthms.  
             
 #### Question 1: What is the motivation to propose this small tweak to major networks for this problem?
 Reply 1: Our motivation to impose a regularization is inspired from the fact that the purely data-driven model optimized for stereo matching may lead to a representation that is often locally optimal and biased to the training data. By introducing additional constraints from low-level information, we expect to change the convergence of the model. Our experimental results suggest that we are able to obtain some improvement when combined with different baseline approaches. 
@@ -75,7 +73,10 @@ Proposed|  0.44 | 0.45| 0.46 | 0.46
 #### Question 2: Address the two limitations stated below
 #### 2.1:	Failure cases - in what cases is this approach not beneficial? Specifically, why did the method decrease the results in cases like: The 3-noc and 3- all for GwcNet in KITTI 2012; The D1-fg for GwcNet in KITTI 2015
 
-Reply 2.1 : Our approach essentially changes the convergence of the model by imposing the regularization term. However, there is no guarantee that the new converged model is always better than previous one without the regularization. Therefore, there exist cases where the new model is similar to previous model if the previous model is not over-fitted or the over-fitting is not serious. This is also a reason that the improvement in GwcNet happen to be smaller and even drop slightly.
+Reply 2.1 : Our approach essentially changes the convergence of the model by imposing the regularization term. However, there is no guarantee that the new converged model is always better than previous one without the regularization. Therefore, there exist cases where the new model is similar to previous model if the previous model is not over-fitted or the over-fitting is not serious. This is also a reason that the improvement in GwcNet happen to be smaller and even drop slightly. 
+
+Our method is motivated by the observation that sudden change in disparity often leads to changes in RGB images. As our regularization is achieved through the detection of low-level structures such as edge, it actually encourage the model to compute a dispairty map that is in favor of edge detection. In another word, we expect to obtain little or smooth change of disparity for regions without edges or keypoints. A potential failure case is when this assuption is no longer valid, i.e., we have large disparity changes but there is no obvious edge in corresponding RGB images.  
+            
 
 #### 2.2: Justification for the "disparity aggregation" block in the paper. Specifically, is there a gradual increase of complexity from option (a) to (e) in Figure 2? For example: "option (a) is the most straightforward way to make a stub-loss, (b)+(c) are non-stub (why?), and the last two are based on concatenation". Specifically, the "jump" from (d) to the selected method (e) is not clear to me. I would advise to elaborate here.
 
