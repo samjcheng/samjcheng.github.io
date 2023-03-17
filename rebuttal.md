@@ -5,8 +5,13 @@
 We thank the reviewer for the detailed comments which are useful for us to improve our manuscript. We appreciate your careful reading and insightful advice to our paper. We hope to address your concerns with additional experiments.
             
 #### Question 1: I am curious about the choice of edge information and loss function. Does any other low-level information work for stereo matching?
-Reply 1: The choice of different edge information in the regularization term does not affect much the performance improvement. Actually, we compared Canny edge with ideal ground truth edge (computed from the annotation) in Scene Flow dataset and our results show that the performance improvements are comparable. We further applied Sobel edge, the results are similar. Please noted that when key-points (using SuperPoint) are used, we also get similar improvement. 
-           
+Reply 1: The choice of different edge information in the regularization term does not affect much the performance improvement. Actually, we compared Canny edge with ideal ground truth edge (computed from the annotation) in Scene Flow dataset and our results show that the performance improvements are comparable. The results for four different methods are given in Table 3 in the original submission and copied here.  We further applied Sobel edge, the results are similar. Please noted that when key-points (using SuperPoint) are used, we also get similar improvement. 
+
+|Method| RTNet |PSMNet |GwcNet |ACVNet
+---- | ---- |---- |---- |---- 
+Canny Edge | 3.265 |0.644 |0.650 |0.449
+Ground Truth Edge| 3.200 |0.649 |0.641| 0.448
+Sobel Edge |  
 
 #### Question 2: Do the parameters of edge information affect the performance of stereo matching?
 Reply 2:  In our implementation, we use cv.Canny(I, lower, upper) from OpenCV with automatical thresholds: 
