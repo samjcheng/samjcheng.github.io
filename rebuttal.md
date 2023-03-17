@@ -25,7 +25,7 @@ Reply: In our methods, we are NOT using edge to guide the computation of dispari
 #### Q4: What is the generalization ability when testing across datasets?
 Reply: We have also tested the cross-dataset generalization. We test our models on Middlebury datasets, the results show that the cross-dataset performances are also improved. The below table shows the EPE for comparison. 
  |Lower | KITTI 2012 | KITTI 2015 | Middlebury
----- | ---- |---- |---- | ----
+---- | ---- |---- |---- 
 RTNet | 5.08 | 4.74 | 5.53 
 RTNet+SPR  | 4.72 | 4.30| 4.76
 PSMNet  | 3.51 | 4.00| 3.91
