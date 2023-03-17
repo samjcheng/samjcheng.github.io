@@ -64,7 +64,7 @@ Methods|RTNet |PSMNet
 Baseline|     3.38 | 1.09
 Multi-task(SuperPoint)|  3.28|  0.70
 Multi-task(SIFT)| 3.25 | 0.67
-Proposed(SuperPoint)|  3.19 | 0.45 
+Proposed(SuperPoint)|  3.19 | x
 Proposed(SIFT) | 3.34 | 0.68
  
             
