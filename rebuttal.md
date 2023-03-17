@@ -1,27 +1,4 @@
             
-|Methods|Metrics |20 | 40 | 60 | 80 | 100  
----- | ---- |---- |---- |---- | ----|---- 
-RTNet|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5 
-RTNet+SPR|<p> EPE <p> D1 | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
-PSMNet|<p> EPE <p> D1 | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5 
-PSMNet+SPR|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
-GwcNet|EPE  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5 
-Gwcet+SPR|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
-ACVNet|EPE  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5 
-ACVNet+SPR|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
-
-
-
-|Lower |Metrics | Middleburry | KITTI 2012 | KITTI 2015
----- | ---- |---- |---- | ----
-RTNet|EPE  | 0.44 | 0.45| 0.46 
-RTNet+SPR|EPE  | 0.44 | 0.45| 0.46
-PSMNet|EPE  | 0.44 | 0.45| 0.46
-PSMNet+SPR|EPE  | 0.44 | 0.45| 0.46
-GwcNet|EPE  | 0.44 | 0.45| 0.46
-Gwcet+SPR|EPE  | 0.44 | 0.45| 0.46
-ACVNet|EPE  | 0.44 | 0.45| 0.46
-ACVNet+SPR|EPE  | 0.44 | 0.45| 0.46
             
 # Reviewer UYwZ
 
@@ -36,7 +13,6 @@ Reply 2:  In our implementation, we use cv.Canny(I, lower, upper) from OpenCV wi
 upper =(1+sigma)*v, where sigma is set at 0.33 by default and v is the median of the image I. We have also test our algorithms using different thresholds: (lower, upper) = (20, 200), (60, 200), (100, 200), (100, 120), (100, 160). Our results show that the performance does not change much for reasonable thresholds. 
 |Methods|Metrics |(20,200) | | (60,200) |  (100, 200) | (120, 200)  | (160, 200) | Auto
 ---- | ---- |---- |---- |---- | ----|---- 
-
 RTNet+SPR|<p> EPE <p> D1 | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
 PSMNet+SPR|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
 Gwcet+SPR|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
