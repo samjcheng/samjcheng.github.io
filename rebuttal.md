@@ -11,7 +11,7 @@ Reply 1: The choice of different edge information in the regularization term doe
 ---- | ---- |---- |---- |---- 
 Canny Edge | 3.265 |0.644 |0.650 |0.449
 Ground Truth Edge| 3.200 |0.649 |0.641| 0.448
-Sobel Edge |  
+Sobel Edge |  | | \- | \-
 
 #### Question 2: Do the parameters of edge information affect the performance of stereo matching?
 Reply 2:  In our implementation, we use cv.Canny(I, lower, upper) from OpenCV with automatical thresholds: 
