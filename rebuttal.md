@@ -11,12 +11,12 @@ Reply 1: The choice of different edge information in the regularization term doe
 #### Question 2: Do the parameters of edge information affect the performance of stereo matching?
 Reply 2:  In our implementation, we use cv.Canny(I, lower, upper) from OpenCV with automatical thresholds: 
 lower = (1 – sigma)\*v, upper =(1+sigma)\*v, where sigma is set at 0.33 by default and v is the median of the image I. We have also test our algorithms using different thresholds: (lower, upper) = (20, 200), (60, 200), (100, 200), (100, 120), (100, 160). Our results show that the performance does not change much for reasonable thresholds. 
-|Methods|Metrics |(20,200) | (60,200) |  (100, 200) | (120, 200)  | (160, 200) | Auto
----- | ---- |---- |---- |---- | ----|---- 
-RTNet+SPR|<p> EPE <p> D1 | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
-PSMNet+SPR|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
-Gwcet+SPR|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
-ACVNet+SPR|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
+Methods | (20,200) | (60,200) |  (100, 200) | (120, 200)  | (160, 200) | Auto
+---- | ---- |---- |---- |---- | ----|---- | ---
+RTNet+SPR|  0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
+PSMNet+SPR|  0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
+Gwcet+SPR|  0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
+ACVNet+SPR|  0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
             
 #### Question 3: I hope the authors can provide some in-depth analysis of the edge information in the stereo matching. For example, the edge information can correct the boundary of the disparity map? or make the non-edge region more smooth?
 Reply 3: In our methods (option (d) and (e) in Figure 2), we are NOT using edge to guide the computation of disparity map or smooth it. Instead, we are using disparity map to guide the edge detection. As disparity map is combined (via concatenation or via disparity aggregation) to feature maps for the edge (or low-level structure) detection branch, we are actually imposing an constraint on disparity maps such that it is infavor of edge detection. As the disparity map plays some role (weighted) in edge detection, it can be expected that if the disparity maps is not smooth in a region with homogenious RGB colors, it may causes artefacts in edge detection. Therefore, we would expect to have smooth dispairty map for region without much RGB color changes. 
