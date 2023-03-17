@@ -5,7 +5,7 @@
 We thank the reviewer for the detailed comments which are useful for us to improve our paper. We appreciate your careful reading and insightful advices. We hope to address your concerns with additional experiments and analysis.
             
 #### Question 1: I am curious about the choice of edge information and loss function. Does any other low-level information work for stereo matching?
-Reply 1: The choice of different edge information in the regularization term does not affect much the performance improvement. Actually, we compared Canny edge with ideal ground truth edge (computed from the annotation) in Scene Flow dataset and our results show that the performance improvements are comparable. The results for four different methods are given in Table 3 in the original submission and copied here.  We further applied Sobel edge, the results are similar. Please noted that when key-points (using SuperPoint) are used, we also get similar improvement. 
+Reply 1: The choice of different edge information in the regularization term does not affect much the performance improvement. Actually, we compared Canny edge with ideal ground truth edge (computed from the annotation) in Scene Flow dataset and our results show that the performance improvements are comparable. The results for four different methods are given in Table 3 in the original submission and copied in the Table below.  We further applied Sobel edge, the results are similar.  
 
 |Method| RTNet |PSMNet |GwcNet |ACVNet
 ---- | ---- |---- |---- |---- 
@@ -28,16 +28,16 @@ Reply 3: In our methods (option (d) and (e) in Figure 2), we are NOT using edge 
 
 #### Question 4: What is the generalization ability when testing across datasets?
 Reply 4: We have also tested the cross-dataset generalization. We test our models trained from Sceneflow datasets and tested on ETH3D and Mxxx datasets, the results show that the cross-dataset performances are also improved by the regularization. The below table shows the end-to-end point error (EPE) for RTNet and PSMNet as well as their results after regularized by our proposed SPR method. 
- |Lower |Metrics | Middleburry | KITTI 2012 | KITTI 2015
+ |Lower |Metrics | KITTI 2012 | KITTI 2015 | Middlebury
 ---- | ---- |---- |---- | ----
-RTNet|EPE  | 0.44 | 0.45| 0.46 
-RTNet+SPR|EPE  | 0.44 | 0.45| 0.46
-PSMNet|EPE  | 0.44 | 0.45| 0.46
-PSMNet+SPR|EPE  | 0.44 | 0.45| 0.46
-GwcNet|EPE  | 0.44 | 0.45| 0.46
-Gwcet+SPR|EPE  | 0.44 | 0.45| 0.46
-ACVNet|EPE  | 0.44 | 0.45| 0.46
-ACVNet+SPR|EPE  | 0.44 | 0.45| 0.46
+RTNet|EPE  | x | 0.45| 0.46 
+RTNet+SPR|EPE  | 6.32 | 5.79| 5.18
+PSMNet|EPE  | 3.51 | 4.00| 3.91
+PSMNet+SPR|EPE  | 2.90 | 3.97| 3.49
+GwcNet|EPE  | 1.61| 2.35| 1.95
+Gwcet+SPR|EPE  | x | 0.45| 0.46
+ACVNet|EPE  | 1.85| 2.44| 2.15
+ACVNet+SPR|EPE  | 1.64 | 2.22| 1.78
             
 
             
