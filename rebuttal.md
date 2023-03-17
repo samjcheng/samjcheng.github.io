@@ -11,7 +11,7 @@ Reply 1: The choice of different edge information in the regularization term doe
 ---- | ---- |---- |---- |---- 
 Canny Edge | 3.265 |0.644 |0.650 |0.449
 Ground Truth Edge| 3.200 |0.649 |0.641| 0.448
-Sobel Edge |  | | \- | \-
+Sobel Edge | x |x | x  | x
 
 #### Question 2: Do the parameters of edge information affect the performance of stereo matching?
 Reply 2:  In our implementation, we use cv.Canny(I, lower, upper) from OpenCV with automatical thresholds: 
@@ -19,8 +19,8 @@ lower = (1 – sigma)\*v, upper =(1+sigma)\*v, where sigma is set at 0.33 by def
 
 |Methods | (20,200) | (60,200) | (100, 200) |  (100, 160)  | (100, 120)   | Auto 
 ---- | ---- |---- |---- |---- | ----|---- 
-RTNet+SPR|  3.258 | 3.248 | 3.  | 3.229| 3.| 3.265
-PSMNet+SPR|  0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
+RTNet+SPR|  3.258 | 3.248 | x  | 3.229| x | 3.265
+PSMNet+SPR|  x | x| x| x| x|  0.644
  
             
 #### Question 3: I hope the authors can provide some in-depth analysis of the edge information in the stereo matching. For example, the edge information can correct the boundary of the disparity map? or make the non-edge region more smooth?
@@ -63,9 +63,7 @@ Methods|RTNet |PSMNet
 ---- | ---- |---- 
 Baseline|     3.38 | 1.09
 Multi-task(SuperPoint)|  3.28|  0.70
-Multi-task(SIFT)| 3.25 | 0.67
 Proposed(SuperPoint)|  3.19 | x
-Proposed(SIFT) | 3.34 | 0.68
  
             
 #### Question 2: Address the two limitations stated below
