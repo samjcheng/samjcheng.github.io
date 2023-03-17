@@ -30,12 +30,12 @@ Reply 3: In our methods (option (d) and (e) in Figure 2), we are NOT using edge 
 Reply 4: We have also tested the cross-dataset generalization. We test our models trained from Sceneflow datasets and tested on ETH3D and Mxxx datasets, the results show that the cross-dataset performances are also improved by the regularization. The below table shows the end-to-end point error (EPE) for RTNet and PSMNet as well as their results after regularized by our proposed SPR method. 
  |Lower |Metrics | KITTI 2012 | KITTI 2015 | Middlebury
 ---- | ---- |---- |---- | ----
-RTNet|EPE  | x | 0.45| 0.46 
+RTNet|EPE  | x | x| x 
 RTNet+SPR|EPE  | 6.32 | 5.79| 5.18
 PSMNet|EPE  | 3.51 | 4.00| 3.91
 PSMNet+SPR|EPE  | 2.90 | 3.97| 3.49
 GwcNet|EPE  | 1.61| 2.35| 1.95
-Gwcet+SPR|EPE  | x | 0.45| 0.46
+Gwcet+SPR|EPE  | x | x| x
 ACVNet|EPE  | 1.85| 2.44| 2.15
 ACVNet+SPR|EPE  | 1.64 | 2.22| 1.78
             
