@@ -9,9 +9,9 @@ Reply 1: The choice of different edge information in the regularization term doe
            
 
 #### Question 2: Do the parameters of edge information affect the performance of stereo matching?
-Reply 2:  In our implementation, we use cv.Canny(I, lower, upper) from OpenCV with automatical thresholds: lower = (1 – sigma)*v,
-upper =(1+sigma)*v, where sigma is set at 0.33 by default and v is the median of the image I. We have also test our algorithms using different thresholds: (lower, upper) = (20, 200), (60, 200), (100, 200), (100, 120), (100, 160). Our results show that the performance does not change much for reasonable thresholds. 
-|Methods|Metrics |(20,200) | | (60,200) |  (100, 200) | (120, 200)  | (160, 200) | Auto
+Reply 2:  In our implementation, we use cv.Canny(I, lower, upper) from OpenCV with automatical thresholds: 
+lower = (1 – sigma)\*v, upper =(1+sigma)\*v, where sigma is set at 0.33 by default and v is the median of the image I. We have also test our algorithms using different thresholds: (lower, upper) = (20, 200), (60, 200), (100, 200), (100, 120), (100, 160). Our results show that the performance does not change much for reasonable thresholds. 
+|Methods|Metrics |(20,200) | (60,200) |  (100, 200) | (120, 200)  | (160, 200) | Auto
 ---- | ---- |---- |---- |---- | ----|---- 
 RTNet+SPR|<p> EPE <p> D1 | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
 PSMNet+SPR|<p> EPE <p> D1  | 0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
