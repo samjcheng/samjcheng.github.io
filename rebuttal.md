@@ -24,16 +24,16 @@ Reply: In our methods, we are NOT using edge to guide the computation of dispari
 
 #### Q4: What is the generalization ability when testing across datasets?
 Reply: We have also tested the cross-dataset generalization. We test our models on Middlebury datasets, the results show that the cross-dataset performances are also improved. The below table shows the EPE for comparison. 
- |Lower |Metrics | KITTI 2012 | KITTI 2015 | Middlebury
+ |Lower | KITTI 2012 | KITTI 2015 | Middlebury
 ---- | ---- |---- |---- | ----
-RTNet|EPE  | 5.08 | 4.74 | 5.53 
-RTNet+SPR|EPE  | 4.72 | 4.30| 4.76
-PSMNet|EPE  | 3.51 | 4.00| 3.91
-PSMNet+SPR|EPE  | 2.90 | 3.97| 3.49
-GwcNet|EPE  | 1.61| 2.35| 1.95
-Gwcet+SPR|EPE  | x | x| x
-ACVNet|EPE  | 1.85| 2.44| 2.15
-ACVNet+SPR|EPE  | 1.64 | 2.22| 1.78
+RTNet | 5.08 | 4.74 | 5.53 
+RTNet+SPR  | 4.72 | 4.30| 4.76
+PSMNet  | 3.51 | 4.00| 3.91
+PSMNet+SPR  | 2.90 | 3.97| 3.49
+GwcNet | 1.61| 2.35| 1.95
+Gwcet+SPR  | x | x| x
+ACVNet  | 1.85| 2.44| 2.15
+ACVNet+SPR | 1.64 | 2.22| 1.78
 
 #### L1: I don't think the canny edge information is a physical information. It would be better to use low-level information instead of physical information.
 Reply: We thank the reviewer for the suggestion and we would modify and highlight it as low-level information regularization. 
