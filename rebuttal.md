@@ -2,7 +2,7 @@
             
 # Reviewer UYwZ
 
-We thank the reviewer for the detailed comments which are useful for us to improve our manuscript. We appreciate your careful reading and insightful advice to our paper. We hope to address your concerns with additional experiments.
+We thank the reviewer for the detailed comments which are useful for us to improve our paper. We appreciate your careful reading and insightful advices. We hope to address your concerns with additional experiments and analysis.
             
 #### Question 1: I am curious about the choice of edge information and loss function. Does any other low-level information work for stereo matching?
 Reply 1: The choice of different edge information in the regularization term does not affect much the performance improvement. Actually, we compared Canny edge with ideal ground truth edge (computed from the annotation) in Scene Flow dataset and our results show that the performance improvements are comparable. The results for four different methods are given in Table 3 in the original submission and copied here.  We further applied Sobel edge, the results are similar. Please noted that when key-points (using SuperPoint) are used, we also get similar improvement. 
@@ -17,12 +17,11 @@ Sobel Edge |
 Reply 2:  In our implementation, we use cv.Canny(I, lower, upper) from OpenCV with automatical thresholds: 
 lower = (1 – sigma)\*v, upper =(1+sigma)\*v, where sigma is set at 0.33 by default and v is the median of the image I. We have also test our algorithms using different thresholds: (lower, upper) = (20, 200), (60, 200), (100, 200), (100, 120), (100, 160). Our results show that the performance does not change much for reasonable thresholds. 
 
-|Methods | (20,200) | (60,200) |  (100, 200) | (120, 200)  | (160, 200) | Auto
+|Methods | (20,200) | (60,200) | (100, 200) |  (100, 160)  | (100, 120) |  | Auto 
 ---- | ---- |---- |---- |---- | ----|---- 
-RTNet+SPR|  0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
+RTNet+SPR|  3.258 | 3.248 | 3.  | 3.229| 3.| 3.265
 PSMNet+SPR|  0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
-Gwcet+SPR|  0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
-ACVNet+SPR|  0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
+ 
             
 #### Question 3: I hope the authors can provide some in-depth analysis of the edge information in the stereo matching. For example, the edge information can correct the boundary of the disparity map? or make the non-edge region more smooth?
 Reply 3: In our methods (option (d) and (e) in Figure 2), we are NOT using edge to guide the computation of disparity map or smooth it. Instead, we are using disparity map to guide the edge detection. As disparity map is combined (via concatenation or via disparity aggregation) to feature maps for the edge (or low-level structure) detection branch, we are actually imposing an constraint on disparity maps such that it is infavor of edge detection. As the disparity map plays some role (weighted) in edge detection, it can be expected that if the disparity maps is not smooth in a region with homogenious RGB colors, it may causes artefacts in edge detection. Therefore, we would expect to have smooth dispairty map for region without much RGB color changes. 
@@ -43,7 +42,7 @@ ACVNet+SPR|EPE  | 0.44 | 0.45| 0.46
 
             
 # Reviewer EgaM
-We thank the reviewer for the time and effort to review our work. However, we do not agree with the comments that “proposing a regularization is not that good an advancement” and the comments that stereo matching is “an already solved problem”. In fact, our results show that we can improve the trained model by imposing a regularization in the training stage without changing its architecture in inference stage. In some situation, the improvement can be as large as 41.3% (e.g, EPE droped from 1.09 to 0.64 in PSMNet). 
+We thank the reviewer for the time and effort to review our work. However, we do not agree with the comments that “proposing a regularization is not that good an advancement” and the comments that stereo matching is “an already solved problem”. In fact, our results show that we can improve the trained models by imposing a regularization in the training stage without changing its architecture in inference stage. In some situation, the improvement can be as large as 41.3% (e.g, EPE droped from 1.09 to 0.64 in PSMNet). 
 
 The reviewer also suggested us to compare with the algorithms from the leaderboard of KITTI 2015. However, some reported results from the leaderboard do not come with codes and are unpublished. It is therefore challenge for us the compare with these algorithms. In our paper, we choose four different published algorithms from different stages/objectives to justify the genearlity of our method. The RTNet is chosen as it is a representative algorithm designed for edge side deployment. PSMNet is chosen as it is one of early attemp to use deep learning for stereo matching. GwcNet and ACVNet are chosen as they are from recent publications. In particular, ACVNet outperforms most existing published methods and ranks No.2 in KITTI 2012 and KITTI 2015 leaderboards at the time of publication of the paper. It is worth mentioning that the ACVNet is also the fastest among the top 10 methods in the KITTI benchmark leaderboards. Therefore, we chose ACVNet as one of most competetive algorthms.  
             
