@@ -59,14 +59,14 @@ Reply 2: We try not to change the network of existing methods from two reasons. 
 #### Question 1: Key-point based regularization - I am a little confused from the paper - which experiments include the key-points as the "physical regularization" and which include the Canny edges? do some experiments include both?
 Reply 1: In Table 3 of our manuscript, the third row “Super Point” is a case we use key-point as physical regularization. The rest of results in Table 3 use “Canny Edges”. The ablation study in Table 3 is to show that the aggregation module is effective and that the physical regularization (or low-level structure regularization) using Canny Edge or key-points are effective. Here we provide more results when we use key-points under different network structures (Concat, EA, SA and our proposed aggregation).     
            
-Methods|RTNet |PSMNet| GwcNet | ACVNet  
----- | ---- |---- |---- |----  
-Baseline|     0.44 | 0.45| 0.46 | 0.46
-Multi-task|  0.44 | 0.45| 0.46 | 0.46
-Concat|  0.44 | 0.45| 0.46 | 0.46
-EA|   0.44 | 0.45| 0.46 | 0.46
-SA | 0.44 | 0.45| 0.46 | 0.46
-Proposed|  0.44 | 0.45| 0.46 | 0.46
+Methods|RTNet |PSMNet 
+---- | ---- |---- 
+Baseline|     3.38 | 1.09
+Multi-task(SuperPoint)|  3.28|  0.70
+Multi-task(SIFT)| 3.25 | 0.67
+Proposed(SuperPoint)|  3.19 | 0.45 
+Proposed(SIFT) | 3.34 | 0.68
+ 
             
 #### Question 2: Address the two limitations stated below
 #### 2.1:	Failure cases - in what cases is this approach not beneficial? Specifically, why did the method decrease the results in cases like: The 3-noc and 3- all for GwcNet in KITTI 2012; The D1-fg for GwcNet in KITTI 2015
