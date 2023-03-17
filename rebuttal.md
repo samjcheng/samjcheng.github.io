@@ -17,7 +17,7 @@ Sobel Edge |  | | \- | \-
 Reply 2:  In our implementation, we use cv.Canny(I, lower, upper) from OpenCV with automatical thresholds: 
 lower = (1 – sigma)\*v, upper =(1+sigma)\*v, where sigma is set at 0.33 by default and v is the median of the image I. We have also test our algorithms using different thresholds: (lower, upper) = (20, 200), (60, 200), (100, 200), (100, 120), (100, 160). Our results show that the performance does not change much for reasonable thresholds. 
 
-|Methods | (20,200) | (60,200) | (100, 200) |  (100, 160)  | (100, 120) |  | Auto 
+|Methods | (20,200) | (60,200) | (100, 200) |  (100, 160)  | (100, 120)   | Auto 
 ---- | ---- |---- |---- |---- | ----|---- 
 RTNet+SPR|  3.258 | 3.248 | 3.  | 3.229| 3.| 3.265
 PSMNet+SPR|  0.44 | 0.45| 0.46| 0.48| 0.49| 0.5  
