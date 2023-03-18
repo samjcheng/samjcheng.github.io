@@ -4,7 +4,7 @@
 
 We thank the reviewer for the detailed comments which are useful for us to improve our paper. 
 #### Q1: I am curious about the choice of edge information and loss function. 
-Reply: The different edge information does not affect much the results. We compared Canny edge with ideal ground truth edge in SceneFlow and the results are comparable. In addition, we have also reported the use of key-points (SuperPoint) and obtained similar results. 
+Reply: The different edge information does not affect much the results. We compared Canny edge with ideal ground truth edge in SceneFlow and the results are comparable. In addition, we have also tested the use of key-points (SuperPoint) and obtained similar results. 
 |Method| RTNet |PSMNet |GwcNet |ACVNet
 ---- | ---- |---- |---- |---- 
 Canny Edge | 3.265 |0.644 |0.650 |0.449
