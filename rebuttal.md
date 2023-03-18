@@ -9,7 +9,7 @@ Reply: The different edge information does not affect much the results. We compa
 ---- | ---- |---- |---- |---- 
 Canny Edge | 3.265 |0.644 |0.650 |0.449
 Ground Truth Edge| 3.200 |0.649 |0.641| 0.448
-SuperPoint |3.191 |x |x |x
+SuperPoint |3.191 |x |0.647 |x
  
 #### Q2: Do the parameters of edge information affect the performance of stereo matching?
 Reply: We use cv.Canny() from OpenCV with recommended automatic thresholds (lower and upper) computed from the image. We have also test RTNet+SPR and PSMnet+SPR using different thresholds: (lower, upper) = (20, 200), (60, 200), (100, 200), (100, 120), (100, 160). Our results show that the performances do not change much. 
