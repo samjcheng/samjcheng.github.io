@@ -15,7 +15,7 @@ SuperPoint |3.191 |x |x |x
 Reply: We use cv.Canny() from OpenCV with recommended automatic thresholds (lower and upper) computed from the image. We have also test RTNet+SPR and PSMnet+SPR using different thresholds: (lower, upper) = (20, 200), (60, 200), (100, 200), (100, 120), (100, 160). Our results show that the performances do not change much. 
 |Methods | (20,200) | (60,200) | (100, 200) |  (100, 160)  | (100, 120)   | Auto 
 ---- | ---- |---- |---- |---- | ----|---- 
-RTNet+SPR|  3.258 | 3.248 | 3.236  | 3.229| x | 3.265
+RTNet+SPR|  3.258 | 3.248 | 3.236  | 3.229| 3.233 | 3.265
 PSMNet+SPR|  x | x| x| x| x|  0.644
  
             
