@@ -16,7 +16,7 @@ Reply: We use cv.Canny() from OpenCV with recommended automatic thresholds (lowe
 |Methods | (20,200) | (60,200) | (100, 200) |  (100, 160)  | (100, 120)   | Auto 
 ---- | ---- |---- |---- |---- | ----|---- 
 RTNet+SPR|  3.258 | 3.248 | 3.236  | 3.229| 3.233 | 3.265
-PSMNet+SPR|  x | 0.623| 0.624 | x| x|  0.644
+PSMNet+SPR|  x | 0.623| 0.624 | 0.655| x|  0.644
  
             
 #### Q3: I hope the authors can provide some in-depth analysis of the edge information in the stereo matching. 
