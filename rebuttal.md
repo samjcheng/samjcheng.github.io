@@ -12,29 +12,28 @@ We would like to highlight our motivation and the differences from previous meth
 # Reviewer UYwZ
 
 We thank the reviewer for the detailed comments which are useful for us to improve our paper. 
-#### Q1: I am curious about the choice of edge information and loss function. 
-Reply: The different edge information does not affect much the results. We compared Canny edge with ideal ground truth edge in SceneFlow and the results are comparable. In addition, we have also tested the use of key-points (SuperPoint) and obtained similar results. 
+### Q1: The choice of edge information and loss function. Does any other low-level information work for stereo matching?
+Reply: Besides the edge, keypoint also works. When we replace Canny edge with keypoints (SuperPoint), the results are comparable as shown in below table. The Canny edge or ideal ground truth edge lead to comparable results in SceneFlow as well.
+
 |Method| RTNet |PSMNet |GwcNet |ACVNet
 ---- | ---- |---- |---- |---- 
 Canny Edge | 3.265 |0.644 |0.650 |0.449
 Ground Truth Edge| 3.200 |0.649 |0.641| 0.448
-SuperPoint |3.191 |0.646 |0.647 |0.456
- 
-#### Q2: Do the parameters of edge information affect the performance of stereo matching?
-Reply: We use cv.Canny() from OpenCV with recommended automatic thresholds (lower and upper) computed from the image. We have also test RTNet+SPR and PSMnet+SPR using different thresholds: (lower, upper) =  (60, 200), (100, 200), (100, 120), (100, 160). Our results show that the performances do not change much. 
+SuperPoint |3.191 |0.646 |0.647 |0.456 
+
+### Q2: Do the parameters of edge information affect the performance of stereo matching?
+Reply: We use cv.Canny() from OpenCV with recommended automatic thresholds (lower and upper) computed from the image. We have also test RTNet+SPR and PSMnet+SPR using different thresholds: (lower, upper) = (60, 200), (100, 200), (100, 120), (100, 160). Our results blow show small changes, compared with original 3.90 and 1.09 EPE.
 |Methods | (60,200) | (100, 200) |  (100, 160)  | (100, 120)   | Auto 
 ---- |---- |---- |---- | ----|---- 
 RTNet+SPR| 3.248 | 3.236  | 3.229| 3.233 | 3.265
 PSMNet+SPR | 0.623| 0.624 | 0.655| 0.649|  0.644 
+       
+### Q3: I hope the authors can provide some in-depth analysis of the edge information in the stereo matching. For example, the edge information can correct the boundary of the disparity map? Or make the non-edge region more smooth?
+Reply: We would clarify that our method is NOT using edge to guide the boundary of disparity map. Instead, it uses disparity map to guide the edge detection. In such a way, it is imposing a constraint on disparity map such that it is in favour of edge detection.  Therefore, it would encourage more smooth disparity for non-edge region.
 
- 
-            
-#### Q3: I hope the authors can provide some in-depth analysis of the edge information in the stereo matching. 
-Reply: In our methods, we are NOT using edge to guide the computation of disparity map. Instead, we are using disparity map to guide the edge detection. In such a way, we are actually imposing a constraint on disparity maps such that it is in favour of edge detection. It would encourage a smooth disparity for a region with homogeneous RGB colours, otherwise, it may cause artefacts in edge detection. Therefore, we would expect to have smooth disparity map for region without much RGB changes. 
-
-#### Q4: What is the generalization ability when testing across datasets?
-Reply: We have also tested the cross-dataset generalization. We test our models on Middlebury datasets, the results show that the cross-dataset performances are also improved. The below table shows the EPE for comparison. 
- |Lower | KITTI 2012 | KITTI 2015 | Middlebury
+### Q4: What is the generalization ability when testing across datasets?
+Reply: We have tested the cross-dataset generalization. We test our pretrained models on KITTI 2012, KITTI 2015 and Middlebury datasets, the results show that the cross-dataset results are improved in most cases, as shown in the table below. 
+|Method | KITTI 2012 | KITTI 2015 | Middlebury
 ---- | ---- |---- |---- 
 RTNet | 5.08 | 4.74 | 5.53 
 RTNet+SPR  | 4.72 | 4.30| 4.76
@@ -45,11 +44,11 @@ GwcNet+SPR  | 1.67 | 2.32| 1.91
 ACVNet  | 1.85| 2.44| 2.15
 ACVNet+SPR | 1.64 | 2.22| 1.78
 
-#### L1: I don't think the canny edge information is a physical information. It would be better to use low-level information instead of physical information.
+### L1: I don't think the canny edge information is a physical information. It would be better to use low-level information instead of physical information.
 Reply: We thank the reviewer for the suggestion and we would modify and highlight it as low-level information regularization. 
-    
-#### L2: The motivation of this paper is somewhat the same as EdgeStereo. It reduces the impact of this work.
-Reply: Although both approaches use edge, there is a major difference. EdgeStereo cooperates edge cues into disparity estimation pipeline and use edge to guide  guides disparity learning with edge-aware smoothness loss. However, our method use disparity map to guide edge detection. The advantage of our method is two-fold: 1) our method can be easily applied to almost any existing methods without more computation in inference while EdgeStereo requires. 2) When edge detection is used to guide stereo matching, it might lead to artefacts in disparity estimation. Moreover, we find that key-points work as good as edges in our framework, which was not discussed in EdgeStereo.
+   
+### L2: The motivation of this paper is somewhat the same as EdgeStereo. It reduces the impact of this work.
+Reply: Although both approaches use edge, there is a major difference in the motivation. First, we argue that the previous purely-data driven models can be biased while the proposed regularization can alleviate this issue. This is not discussed in EdgeStereo. Second, the use of correlation between edge and disparity is different. EdgeStereo cooperates edge cues into disparity estimation pipeline and use edge to guide disparity learning with edge-aware smoothness loss. However, our method (the disparity aggregation) use disparity map to guide edge detection. The advantage of our method is two-fold: 1) it can be easily applied to almost any existing methods without more computation in inference while EdgeStereo requires. 2) When edge detection is used to guide stereo matching, it might lead to artefacts in disparity estimation. Moreover, we find that keypoint work as good as edges in our framework, which was not discussed in EdgeStereo.
             
 # Reviewer EgaM
 We thank the reviewer for the effort to review our work. However, we do not agree with the comments that “proposing a regularization is not that good an advancement” and that stereo matching is “an already solved problem”. In fact, our results show that imposing a regularization in the training stage can improve the results by as large as 41.3% in some situation such as PSMNet. 
