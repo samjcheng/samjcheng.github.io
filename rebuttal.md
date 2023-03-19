@@ -51,39 +51,6 @@ Reply: We thank the reviewer for the suggestion and we would modify and highligh
 #### L2: The motivation of this paper is somewhat the same as EdgeStereo. It reduces the impact of this work.
 Reply: Although both approaches use edge, there is a major difference. EdgeStereo cooperates edge cues into disparity estimation pipeline and use edge to guide  guides disparity learning with edge-aware smoothness loss. However, our method use disparity map to guide edge detection. The advantage of our method is two-fold: 1) our method can be easily applied to almost any existing methods without more computation in inference while EdgeStereo requires. 2) When edge detection is used to guide stereo matching, it might lead to artefacts in disparity estimation. Moreover, we find that key-points work as good as edges in our framework, which was not discussed in EdgeStereo.
             
-
-
-
-
-# Reviewer  SXrn
-            
-#### Question 1: Key-point based regularization - I am a little confused from the paper - which experiments include the key-points as the "physical regularization" and which include the Canny edges? do some experiments include both?
-Reply: In Table 3 of our manuscript, the third row “Super Point” is a case we use key-point as physical regularization. The rest of results in Table 3 use “Canny Edges”. The ablation study in Table 3 is to show that the aggregation module is effective and that the physical regularization (or low-level structure regularization) using Canny Edge or key-points are effective. Here we provide more results when we use key-points under different network structures (Concat, EA, SA and our proposed aggregation).     
-           
-Methods|RTNet |PSMNet 
----- | ---- |---- 
-Baseline|     3.90 | 1.09
-Multi-task(SuperPoint)|  3.28|  0.70
-Proposed(SuperPoint)|  3.19 | 0.65
- 
-            
-#### Question 2: Address the two limitations stated below
-#### 2.1:	Failure cases - in what cases is this approach not beneficial? Specifically, why did the method decrease the results in cases like: The 3-noc and 3- all for GwcNet in KITTI 2012; The D1-fg for GwcNet in KITTI 2015
-
-Reply : Our method is motivated by the observation that sudden change in disparity often leads to changes in RGB images. As our regularization is achieved through the detection of low-level structures such as edge, it actually encourage the model to compute a dispairty map that is in favor of edge detection. In another word, we expect to obtain little or smooth change of disparity for regions without edges or keypoints. Our method would not be benefical when this assuption is no longer valid, i.e., we have large disparity changes but there is no obvious edge in corresponding RGB images. Such scenario might happen, for example,  we have two neighboring objects with same colors (and alsk of textures) but at different distance/depth. 
-
-Our approach essentially changes the convergence of the model by imposing the regularization term. However, there is no guarantee that the new converged model is always better than previous one without the regularization. Therefore, there exist cases where the new model is similar to previous model if the previous model is not over-fitted or the over-fitting is not serious. This is also a reason that the improvement in GwcNet happen to be smaller and even drop slightly for KITTI 2012/2015 with only less than 200 training pairs. 
-
-
-            
-
-#### 2.2: Justification for the "disparity aggregation" block in the paper. Specifically, is there a gradual increase of complexity from option (a) to (e) in Figure 2? For example: "option (a) is the most straightforward way to make a stub-loss, (b)+(c) are non-stub (why?), and the last two are based on concatenation". Specifically, the "jump" from (d) to the selected method (e) is not clear to me. I would advise to elaborate here.
-
-Reply: We thank the reviewer for raising this question, which helps us to clarify our motivation and experimental design better. Option (a) is the most-straightforward where we want to show that a simple multi-task learning would improve the performance. However, as there exists some correlation (a sudden change in disparity maps may indicate an edge in RGB images but not vice versa ) between the disparity map and the edge, we want to investigate if we can make use of this observation to further improve the results. The design (b) is to add the “edge” into disparity estimation, this is similar to some earlier methods such as EdgeStereo where edges in RGB are used to guide or smooth the disparity maps. This actually lead to artefact or unnatural edge in disparity map, which is also a limitation of EdgeStereo. Option (d) is a case where disparity maps are used to guide edge detection via a simple concatenation. The comparison between (d) and (e) is to show that an aggregation between disparity maps and edge features (feature to compute edges) further improves the results comapred with simple concatenation. The option (c) is to make use mutual guidance between edge detection and disparity estimation. From these studies, we want to show quantitatively that using edges to guide the disparity estimation can damage the performance compared with the proposed method which uses disparity map to guide the edge detection. Our further results suggest that this observation still stands if we change “edges” to key-point. 
- 
-
- 
-
 # Reviewer EgaM
 We thank the reviewer for the effort to review our work. However, we do not agree with the comments that “proposing a regularization is not that good an advancement” and that stereo matching is “an already solved problem”. In fact, our results show that imposing a regularization in the training stage can improve the results by as large as 41.3% in some situation such as PSMNet. 
 
@@ -95,10 +62,31 @@ Reply: Our work is inspired from the fact that the purely data-driven model may 
 ### Q2: Why there is no change in the network from scratch?
 Reply: We try not to change the network at inference from two reasons. The first is that it makes the regularization term be easily applied to almost any existing methods without extra computational cost, which is important for deployment at edge side where extra computation is unaffordable.  The second reason is that our experimental results show that current design works better than other forms of regularization in Figure 2. Moreover, when the output of the regularization term is used to guide the disparity map, there is a concern that the edge information may lead to some artifact in the disparity map. Our method uses disparity map to guide the edge estimation and reduce such risks.
 
-General
-We thank the reviewers for the comments and the efforts. It is glad to see that reviewers recognizing the value of the work. We have provided our replies to the questions raised by each reviewer in the rebuttal to each review. 
-To show generalization ability cross different datasets, we have tested our models pretrained from SceneFlow dataset on KITTI 2012 (training set), KITTI 2015 (training set) and Middlebury for four baseline methods. The results show that our methods also improve the performance in cross-dataset test.
-To evaluate the performance changes of different thresholds in Canny detector, we applied five different threshold combinations and the results show that the performance is not sensitive to thresholds changes. To show the performance of other regularization, we also show and highlight the performance when keypoint (SuperPoint) is used as regularization instead of Canny edge. Our results show that the performance is comparable. 
-We would like to highlight our motivation and the differences from previous methods such as EdgeStereo.  Although both the EdgeStereo and the proposed method use edge, there is a major difference. EdgeStereo cooperates edge cues into disparity estimation pipeline and use edge to guide disparity learning with edge-aware smoothness loss. However, our method uses disparity map to guide edge detection instead of vice versa. The advantage of our method is two-fold: 1) our method can be easily applied to almost any existing methods without more computation in inference while EdgeStereo requires. This is very important as stereo matching might be used in edge side where the computational resources are limited for extra computation. 2) When edge detection is used to guide stereo matching, it might lead to artefacts in disparity estimation. Moreover, we also find that key-points work as good as edges in our framework, which was not discussed in EdgeStereo.
-We unify low-level information such as edge and key points as a form of physical knowledge or constraint which helps reduce the chance of over-fitting. However, as high-level information also helps (say, semantic labels, though they may not be self-trained), we use the name as physical regularization instead of low-level regularization. Nevertheless, we would modify the description and highlight them as low-level information. 
+
+
+
+
+# Reviewer  SXrn
+            
+### Q1: Key-point based regularization - I am a little confused from the paper - which experiments include the key-points as the "physical regularization" and which include the Canny edges? do some experiments include both?
+Reply: The row “SuperPoint” In Table 3 uses keypoints via multitask while the rest uses edges. We provide more results using keypoints below. We did not find further benefit to use both keypoints and edges in our experiments.   
+           
+Methods|RTNet |PSMNet 
+---- | ---- |---- 
+Baseline|     3.90 | 1.09
+Multi-task(SuperPoint)|  3.28|  0.70
+Proposed(SuperPoint)|  3.19 | 0.65
+            
+### Q2: Address the two limitations stated below
+#### 2.1: Failure cases 
+Reply : Our method essentially changes the convergence of the model. However, there is no guarantee that the new model is always better. Therefore, there exist cases where the new model is similar to previous ones if the bias of the previous model is not serious. This is also a reason that the improvement in GwcNet happen to be smaller and even drop slightly in some datasets. The proposed disparity aggregation module is motivated by the observation that sudden change in disparity often leads to changes in RGB images but not vice versa. It would encourage the model to compute a smooth disparity for non-edge regions. It would not be beneficial if this assumption is not valid, i.e., we have large disparity changes but no obvious edge in corresponding RGB images. Such scenario might happen, e.g., two neighboring objects with same colours in imaging but at different distance/depth. 
+           
+#### 2.2: Justification for the "disparity aggregation" block in the paper.  
+Reply: We thank the reviewer for raising this question, which helps us to clarify our motivation. Option (a) is to show that a simple multi-task learning improves the performance. However, as there exists a correlation between the disparity map and the edge, we want to explore to further improve the results from this correlation. The design (b) uses edge to guide disparity estimation, similar to that in EdgeStereo. This actually led to a concern on potential artefact or unnatural edge in disparity map. The option (c) is to make use of mutual guidance between edge detection and disparity estimation. Option (d) is uses disparity map to guide edge detection via a simple concatenation. Option (e) further justify the benefits of the aggregation module compared with (d). Our results show (e) achieves best result.
+
+ 
+
+ 
+
+
 
