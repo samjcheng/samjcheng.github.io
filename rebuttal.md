@@ -53,7 +53,7 @@ Reply: In Table 3 of our manuscript, the third row “Super Point” is a case w
            
 Methods|RTNet |PSMNet 
 ---- | ---- |---- 
-Baseline|     3.38 | 1.09
+Baseline|     3.90 | 1.09
 Multi-task(SuperPoint)|  3.28|  0.70
 Proposed(SuperPoint)|  3.19 | x
  
