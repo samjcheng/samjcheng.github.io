@@ -1,4 +1,13 @@
-            
+General Responses
+
+We thank the reviewers for the comments and the efforts. It is glad to see that most of reviewers recognizing the values of the work. We have provided our replies to the questions raised by each reviewer in the rebuttals to each review. 
+
+To show generalization ability cross different datasets, we have tested our models pretrained from SceneFlow dataset on KITTI 2012 (training set), KITTI 2015 (training set) and Middlebury for four baseline methods. The results show that our methods also improve the performance in cross-dataset tests.
+
+To evaluate the performance changes of different thresholds in Canny edge detector, we applied different threshold combinations and the results show that the performances are not sensitive to thresholds changes. To show the performance of other regularization, we also show and highlight the performances when keypoints (SuperPoint) is used as regularization instead of Canny edge. Our results show that the performance is comparable. 
+
+We would like to highlight our motivation and the differences from previous methods such as EdgeStereo.  Although both approaches use edge, there is a major difference in the motivation, and rationale behind it. First, we argue that the previous purely-data driven models can be biased while the proposed regularization can alleviate this issue. This is not discussed in EdgeStereo. Second, the use of correlation between edge and disparity map is different. EdgeStereo cooperates edge cues into disparity estimation pipeline and use edge to guide disparity learning with edge-aware smoothness loss. However, our method (the disparity aggregation) use disparity map to guide edge detection. The advantage of our method is two-fold: 1) it can be easily applied to almost any existing methods without more computation in inference while EdgeStereo requires. This is very important as stereo matching might be used in edge side where the computational resources are limited for extra computation.   2) When edge detection is used to guide stereo matching, it might lead to artefacts in disparity estimation. Moreover, we also find that keypoints work as good as edges in our framework, which was not discussed in EdgeStereo as well.
+
             
 # Reviewer UYwZ
 
