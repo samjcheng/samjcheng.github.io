@@ -53,15 +53,13 @@ Reply: Although both approaches use edge, there is a major difference in the mot
 # Reviewer EgaM
 We thank the reviewer for the effort to review our work. However, we do not agree with the comments that “proposing a regularization is not that good an advancement” and that stereo matching is “an already solved problem”. In fact, our results show that imposing a regularization in the training stage can improve the results by as large as 41.3% in some situation such as PSMNet. 
 
-The reviewer has suggested us to compare with the algorithms from the leaderboard of KITTI 2015. However, some reported results from the leaderboard do not come with codes and are unpublished. In our paper, we choose four different published peer-reviewed algorithms to justify the generality of our method. The RTNet is chosen as a representative algorithm for edge side deployment. PSMNet is one of the early attempt to use deep learning for stereo matching. GwcNet and ACVNet are from recent publications where ACVNet is the best among peer reviewed papers. To date, ACVNet still outperforms most existing published/peer reviewed methods with D1-all 1.65%. It is the second score just after the new accepted CVPR 2023 paper IGEV-Stereo with D1-all 1.59%.    
+The reviewer has suggested us to compare with the algorithms from the leaderboard of KITTI 2015. However, some reported results from the leaderboard do not come with codes and are unpublished. In our paper, we choose four different published peer-reviewed algorithms to justify the generality of our method. The RTNet is chosen as a representative algorithm for edge side deployment. PSMNet is one of the early attempt to use deep learning for stereo matching. GwcNet and ACVNet are from recent publications where ACVNet is the best among peer reviewed papers when we start the work. To date, ACVNet still outperforms most published/peer reviewed methods with D1-all 1.65%. It is the second score after the new CVPR 2023 paper IGEV-Stereo with D1-all 1.59%.    
             
 ### Q1: What is the motivation to propose this small tweak to major networks for this problem?
 Reply: Our work is inspired from the fact that the purely data-driven model may lead to a representation that is often locally optimal and biased to the training data. By introducing additional constraints, we expect to change the model’s convergence. As we mentioned in our paper that fusing model-based approaches with data-driven approaches help to reduce overfitting, our work is an attempt in stereo matching and one more example in this direction. 
             
 ### Q2: Why there is no change in the network from scratch?
-Reply: We try not to change the network at inference from two reasons. The first is that it makes the regularization term be easily applied to almost any existing methods without extra computational cost, which is important for deployment at edge side where extra computation is unaffordable.  The second reason is that our experimental results show that current design works better than other forms of regularization in Figure 2. Moreover, when the output of the regularization term is used to guide the disparity map, there is a concern that the edge information may lead to some artifact in the disparity map. Our method uses disparity map to guide the edge estimation and reduce such risks.
-
-
+Reply: We try not to change the network at inference from two reasons. The first is that it makes the regularization term be easily applied to almost any existing methods without extra computational cost, which is important for deployment at edge side where extra computation is unaffordable.  The second reason is that our experimental results show that current design works better than other forms of regularization in Figure 2. Moreover, when the output of the edge regularization term is used to guide the disparity map, there is a concern that the edge information may lead to some artifact in the disparity map. Our method uses disparity map to guide the edge estimation and reduce such risks.
 
 
 
@@ -82,10 +80,3 @@ Reply : Our method essentially changes the convergence of the model. However, th
            
 #### 2.2: Justification for the "disparity aggregation" block in the paper.  
 Reply: We thank the reviewer for raising this question, which helps us to clarify our motivation. Option (a) is to show that a simple multi-task learning improves the performance. However, as there exists a correlation between the disparity map and the edge, we want to explore to further improve the results from this correlation. The design (b) uses edge to guide disparity estimation, similar to that in EdgeStereo. This actually led to a concern on potential artefact or unnatural edge in disparity map. The option (c) is to make use of mutual guidance between edge detection and disparity estimation. Option (d) is uses disparity map to guide edge detection via a simple concatenation. Option (e) further justify the benefits of the aggregation module compared with (d). Our results show (e) achieves best result.
-
- 
-
- 
-
-
-
