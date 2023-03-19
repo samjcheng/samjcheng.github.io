@@ -31,7 +31,7 @@ RTNet+SPR  | 4.72 | 4.30| 4.76
 PSMNet  | 3.51 | 4.00| 3.91
 PSMNet+SPR  | 2.90 | 3.97| 3.49
 GwcNet | 1.61| 2.35| 1.95
-GwNet+SPR  | 1.93 | 2.53| 2.15
+GwcNet+SPR  | 1.93 | 2.53| 2.15
 ACVNet  | 1.85| 2.44| 2.15
 ACVNet+SPR | 1.64 | 2.22| 1.78
 
